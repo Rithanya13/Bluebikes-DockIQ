@@ -15,10 +15,11 @@ should be added based on historical demand imbalance.
 4. Actionable dock recommendations
 
 ## Live App
-(Streamlit link)
+
+(https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app/)
 
 ## Demo Video
-(Loom link)
+It is Uploaded in the repo 
 
 ## Tech Stack
 Python, Pandas, Streamlit
