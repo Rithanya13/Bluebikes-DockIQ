@@ -1,0 +1,440 @@
+station,peak_deficit,deficit_hours,total_hours,deficit_ratio,dock_pressure_score,recommended_docks
+Arsenal Yards,559.0,9,24,0.375,350.4,12
+160 Arsenal,252.0,15,24,0.625,176.2,12
+Commonwealth Ave at Kelton St,155.0,7,24,0.2916666666666667,104.66666666666667,12
+Arsenal on the Charles,136.0,12,24,0.5,101.6,12
+Graham and Parks School ‚Äì Linnaean St at Walker St,84.0,10,18,0.5555555555555556,72.62222222222222,8
+Coolidge Sq.,69.0,14,22,0.6363636363636364,66.85454545454544,8
+Boynton Yards at 101 South Street,32.0,6,6,1.0,59.2,4
+Concord Ave at Spinelli Place,63.0,9,19,0.47368421052631576,56.74736842105263,4
+Binney St / Sixth St,50.0,8,12,0.6666666666666666,56.666666666666664,4
+Nichols Ave. at Watertown Greenway,61.0,11,24,0.4583333333333333,54.93333333333334,4
+Smith Pl at Wilson Rd,56.0,9,17,0.5294117647058824,54.7764705882353,4
+Fresh Pond Reservation,44.0,14,20,0.7,54.4,4
+Christian Science Plaza - Massachusetts Ave at Westland Ave,61.0,8,18,0.4444444444444444,54.37777777777778,4
+Bowdoin St at Quincy St,42.0,9,13,0.6923076923076923,52.892307692307696,4
+Charles Circle - Charles St at Cambridge St,53.0,10,20,0.5,51.8,4
+Boston Landing,52.0,11,22,0.5,51.2,4
+Oak Square - 615 Washington St,52.0,11,23,0.4782608695652174,50.3304347826087,4
+Mt Auburn,51.0,10,21,0.47619047619047616,49.647619047619045,4
+Sidney Research Campus/Erie Street at Waverly,54.0,7,18,0.3888888888888889,47.955555555555556,4
+Commonwealth Ave at Chiswick Rd,30.0,14,19,0.7368421052631579,47.473684210526315,4
+700 Huron Ave,29.0,15,20,0.75,47.4,4
+Innovation Lab - 125 Western Ave at Batten Way,21.0,20,23,0.8695652173913043,47.38260869565218,4
+Charlestown Navy Yard,12.0,7,7,1.0,47.2,4
+Commonwealth Ave at Agganis Way,24.0,18,22,0.8181818181818182,47.12727272727273,4
+Alewife MBTA at Steel Place,27.0,13,17,0.7647058823529411,46.78823529411765,4
+Washington St at Brock St,33.0,15,23,0.6521739130434783,45.88695652173914,4
+Brighton Center - Washington St at Cambridge St,32.0,14,21,0.6666666666666666,45.86666666666666,4
+Broadway at Kittie Knox Bike Path,9.0,3,3,1.0,45.4,4
+Edgerly Education Center,24.0,10,13,0.7692307692307693,45.16923076923077,4
+Davis Square,38.0,11,20,0.55,44.800000000000004,4
+Broadway at Maple St,8.0,4,4,1.0,44.8,4
+Columbia Rd at Ceylon St,6.0,7,7,1.0,43.6,4
+Linear Park - Mass. Ave. at Cameron Ave. ,37.0,9,17,0.5294117647058824,43.37647058823529,4
+The Overlook at St. Gabriel's,22.0,15,20,0.75,43.2,4
+Newton Library,5.0,3,3,1.0,43.0,4
+Magoun Square at Trum Field,5.0,8,8,1.0,43.0,4
+Main St at Thompson Sq,5.0,2,2,1.0,43.0,4
+John Ahern Field at Kennedy-Longfellow School,4.0,3,3,1.0,42.4,4
+Tremont St at Hamilton Pl,4.0,10,10,1.0,42.4,4
+Boston College T,29.0,10,16,0.625,42.4,4
+Stuart St at Berkeley St,4.0,10,10,1.0,42.4,4
+Hancock St at Pleasant St,4.0,7,7,1.0,42.4,4
+Seaport Square - Seaport Blvd at Northern Ave,4.0,3,3,1.0,42.4,4
+Community Path at Lowell St,10.0,10,11,0.9090909090909091,42.36363636363637,4
+55 Wheeler Street,30.0,9,15,0.6,42.0,4
+Washington St at Temple Pl,3.0,4,4,1.0,41.8,4
+Park Street T Stop - Tremont St at Park St,3.0,1,1,1.0,41.8,4
+Stuart St at Charles St,3.0,7,7,1.0,41.8,4
+Morgan Ave at North First St,3.0,7,7,1.0,41.8,4
+Museum of Science,3.0,6,6,1.0,41.8,4
+Chelsea St at Vine St,2.0,2,2,1.0,41.2,4
+Medford Sq - Riverside Ave at River St,2.0,3,3,1.0,41.2,4
+Hyde Square - Barbara St at Centre St,2.0,2,2,1.0,41.2,4
+Mill St. at Minuteman Bikeway,2.0,6,6,1.0,41.2,4
+One Beacon St,2.0,7,7,1.0,41.2,4
+Broadway T Stop,2.0,1,1,1.0,41.2,4
+Cary Square,2.0,1,1,1.0,41.2,4
+Boston Public Market,2.0,1,1,1.0,41.2,4
+Revere City Hall,2.0,2,2,1.0,41.2,4
+Jamaica St at South St,2.0,4,4,1.0,41.2,4
+Damrell St at Old Colony,2.0,2,2,1.0,41.2,4
+Clinton St at North St,2.0,1,1,1.0,41.2,4
+Commonwealth Ave at Fidelis Way,2.0,6,6,1.0,41.2,4
+Washington St at Waltham St,2.0,4,4,1.0,41.2,4
+Washington St at Peters Park,2.0,4,4,1.0,41.2,4
+East Somerville Library (Broadway and Illinois),2.0,6,6,1.0,41.2,4
+W Broadway at Dorchester St,2.0,1,1,1.0,41.2,4
+Elevate at One Leighton,2.0,5,5,1.0,41.2,4
+Congress St at Northern Ave,2.0,4,4,1.0,41.2,4
+Tufts Sq - Main St at Medford St,2.0,2,2,1.0,41.2,4
+The Dimock Center,2.0,2,2,1.0,41.2,4
+Surface Rd at India St,2.0,6,6,1.0,41.2,4
+Franklin St at Cambridge St,2.0,2,2,1.0,41.2,4
+Commercial St at Charter St,2.0,4,4,1.0,41.2,4
+Somerville City Hall,2.0,8,8,1.0,41.2,4
+Shawmut Ave at Lenox St,2.0,2,2,1.0,41.2,4
+Seaport Blvd at Sleeper St,2.0,3,3,1.0,41.2,4
+Gardner St at Harvard Ave,2.0,4,4,1.0,41.2,4
+Roxbury Crossing T Stop - Columbus Ave at Tremont St,2.0,4,4,1.0,41.2,4
+Warren St at Chelsea St,9.0,8,9,0.8888888888888888,40.955555555555556,4
+MIT Pacific St at Purrington St,33.0,10,19,0.5263157894736842,40.85263157894737,4
+Wilson Square,6.0,13,14,0.9285714285714286,40.74285714285715,4
+Edwards Playground - Main St at Eden St,1.0,1,1,1.0,40.6,4
+Jackson Square T Stop,1.0,4,4,1.0,40.6,4
+Dorchester Ave at Gillette Park,1.0,1,1,1.0,40.6,4
+E Cottage St at Columbia Rd,1.0,2,2,1.0,40.6,4
+Grand Union Blvd at Revolution Dr,1.0,1,1,1.0,40.6,4
+Green Street T Stop - Green St at Amory St,1.0,4,4,1.0,40.6,4
+Hale Park,1.0,1,1,1.0,40.6,4
+ID Building West,1.0,2,2,1.0,40.6,4
+Glendale Square (Ferry St at Broadway),1.0,1,1,1.0,40.6,4
+Harbor St at Channel St,1.0,1,1,1.0,40.6,4
+Kearins Playground,1.0,1,1,1.0,40.6,4
+Everett Square (Broadway at Chelsea St),1.0,2,2,1.0,40.6,4
+Everett Square (Broadway at Norwood St),1.0,3,3,1.0,40.6,4
+Gramsdorf Playground,1.0,2,2,1.0,40.6,4
+Hyde Park Ave at Walk Hill St,1.0,1,1,1.0,40.6,4
+Hood Park,1.0,2,2,1.0,40.6,4
+Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave,1.0,1,1,1.0,40.6,4
+Harrison Ave at E. Dedham St,1.0,2,2,1.0,40.6,4
+Fan Pier,1.0,3,3,1.0,40.6,4
+Huntington Ave at Colburn St,1.0,1,1,1.0,40.6,4
+Kenmore Square - 660 Beacon St,1.0,4,4,1.0,40.6,4
+Knoll St at Centre St,1.0,2,2,1.0,40.6,4
+Seaport Hotel - Congress St at Seaport Ln,1.0,2,2,1.0,40.6,4
+Shawmut Ave at E Berkeley St,1.0,1,1,1.0,40.6,4
+Somerville High School & Central Library,1.0,3,3,1.0,40.6,4
+Spaulding Rehabilitation Hospital - Charlestown Navy Yard,1.0,2,2,1.0,40.6,4
+Spring St at Powell St,1.0,2,2,1.0,40.6,4
+Staniford St at Merrimac St,1.0,3,3,1.0,40.6,4
+Stuart St at Church St,1.0,1,1,1.0,40.6,4
+Talbot Ave At Blue Hill Ave,1.0,1,1,1.0,40.6,4
+Talbot Ave T Station,1.0,1,1,1.0,40.6,4
+Tremont St at E Berkeley St,1.0,6,6,1.0,40.6,4
+Troy Boston,1.0,1,1,1.0,40.6,4
+Union Square Station,1.0,1,1,1.0,40.6,4
+Union St at Herrick Rd ‚Äì Newton Centre Green Line,1.0,3,3,1.0,40.6,4
+Uphams Corner,1.0,3,3,1.0,40.6,4
+Uphams Corner T Stop - Magnolia St at Dudley St,1.0,1,1,1.0,40.6,4
+Washington St at Lenox St,1.0,2,2,1.0,40.6,4
+Washington St at Melnea Cass Blvd,1.0,3,3,1.0,40.6,4
+Washington St at Mina Way,1.0,2,2,1.0,40.6,4
+Watermark Seaport - Boston Wharf Rd at Seaport Blvd,1.0,3,3,1.0,40.6,4
+Wellington MBTA,1.0,1,1,1.0,40.6,4
+Williams St at Washington St,1.0,2,2,1.0,40.6,4
+Savin Hill T Stop - S Sydney St at Bay St,1.0,1,1,1.0,40.6,4
+S Huntington Ave at Heath St,1.0,2,2,1.0,40.6,4
+Roxbury YMCA - Warren St at MLK Blvd,1.0,2,2,1.0,40.6,4
+Murphy Skating Rink - 1880 Day Blvd,1.0,2,2,1.0,40.6,4
+Lechmere Canal Park,1.0,1,1,1.0,40.6,4
+Lenox St at Kendall St,1.0,2,2,1.0,40.6,4
+Logan Park,1.0,1,1,1.0,40.6,4
+Main St at Brooks Park,1.0,1,1,1.0,40.6,4
+Martha Eliot Health Center,1.0,1,1,1.0,40.6,4
+Meaney Playground - Pleasant St at E Cottage St,1.0,1,1,1.0,40.6,4
+Medford St at Charlestown BCYF,1.0,3,3,1.0,40.6,4
+Melnea Cass Blvd at Hampden St,1.0,1,1,1.0,40.6,4
+Mt. Hope St at Hyde Park Ave,1.0,1,1,1.0,40.6,4
+NCAAA - Walnut Ave at Crawford St,1.0,1,1,1.0,40.6,4
+Roslindale Village - Washington St,1.0,1,1,1.0,40.6,4
+Curtis Hall - South St at Centre St,1.0,1,1,1.0,40.6,4
+Northern Ave at Haul Rd,1.0,1,1,1.0,40.6,4
+Pier 4 Blvd at Autumn Ln,1.0,2,2,1.0,40.6,4
+Porzio Park,1.0,1,1,1.0,40.6,4
+Post Office Square,1.0,1,1,1.0,40.6,4
+Revere Beach - Markey Footbridge,1.0,1,1,1.0,40.6,4
+Ring Rd,1.0,2,2,1.0,40.6,4
+Ringer Park - Webley St at Armington St,1.0,2,2,1.0,40.6,4
+Roslindale Village - South St,1.0,1,1,1.0,40.6,4
+Nashua Street at Red Auerbach Way [Extension],1.0,2,2,1.0,40.6,4
+Winthrop Circle,1.0,1,1,1.0,40.6,4
+Child St at North St,1.0,1,1,1.0,40.6,4
+Broadway at Beacham St,1.0,3,3,1.0,40.6,4
+Boston Convention and Exhibition Center - Summer St at West Side Dr,1.0,1,1,1.0,40.6,4
+Central Square East Boston,1.0,1,1,1.0,40.6,4
+Bike Town at Moakley Park,1.0,1,1,1.0,40.6,4
+Bellingham Square,1.0,2,2,1.0,40.6,4
+Belgrade Ave at Walworth St,1.0,1,1,1.0,40.6,4
+Bartlett St at John Elliot Sq,1.0,2,2,1.0,40.6,4
+Centre St at Allandale St,1.0,1,1,1.0,40.6,4
+Centre St at Seaverns Ave,1.0,3,3,1.0,40.6,4
+Auburn St. at Mystic River,1.0,1,1,1.0,40.6,4
+Au Bon Pain Way at Fid Kennedy Ave,1.0,1,1,1.0,40.6,4
+Andrew T Stop - Dorchester Ave at Dexter St,1.0,2,2,1.0,40.6,4
+Columbia Rd at Tierney Community Center,1.0,2,2,1.0,40.6,4
+Congress St at Sleeper St,1.0,2,2,1.0,40.6,4
+Constitution Rd at Chelsea St,1.0,1,1,1.0,40.6,4
+Centre St at W. Roxbury Post Office,1.0,1,1,1.0,40.6,4
+855 Broadway,1.0,2,2,1.0,40.6,4
+7 Acre Park,1.0,1,1,1.0,40.6,4
+Craigie & Summer at Conway Park (Temp. Winter Location),1.0,1,1,1.0,40.6,4
+645 Summer St,1.0,1,1,1.0,40.6,4
+Chelsea Station,1.0,1,1,1.0,40.6,4
+Craigie St at Summer St,1.0,2,2,1.0,40.6,4
+615 Broadway,1.0,1,1,1.0,40.6,4
+606 American Legion Hwy at Canterbury St,1.0,1,1,1.0,40.6,4
+555 Metropolitan Ave,1.0,1,1,1.0,40.6,4
+515 Somerville Ave (Temp. Winter Location),1.0,1,1,1.0,40.6,4
+Craigie at Summer St,1.0,3,3,1.0,40.6,4
+Bunker Hill Community College,1.0,3,3,1.0,40.6,4
+Union Square - Brighton Ave at Cambridge St,23.0,16,24,0.6666666666666666,40.46666666666666,4
+New Balance - 20 Guest St,24.0,15,24,0.625,39.4,0
+Longwood Ave at Binney St,26.0,10,17,0.5882352941176471,39.129411764705885,0
+Cambridge Dept. of Public Works -147 Hampshire St.,24.0,8,13,0.6153846153846154,39.01538461538462,0
+Ames St at Main St,20.0,10,15,0.6666666666666666,38.666666666666664,0
+Prudential Center - 101 Huntington Ave,22.0,7,11,0.6363636363636364,38.654545454545456,0
+MIT Stata Center at Vassar St / Main St,6.0,7,8,0.875,38.6,0
+Somerville City Hall Annex,6.0,7,8,0.875,38.6,0
+Deerfield St at Commonwealth Ave,16.0,13,18,0.7222222222222222,38.48888888888889,0
+Soldiers Field Park - 111 Western Ave,15.0,16,22,0.7272727272727273,38.09090909090909,0
+Church St,24.0,10,17,0.5882352941176471,37.92941176470588,0
+Riverway at Brookline Ave,13.0,9,12,0.75,37.8,0
+Teele Square,7.0,10,12,0.8333333333333334,37.53333333333334,0
+101 Smith Place,7.0,5,6,0.8333333333333334,37.53333333333334,0
+Galileo Galilei Way at Main Street,4.0,7,8,0.875,37.4,0
+Boylston St at Massachusetts Ave,14.0,15,21,0.7142857142857143,36.971428571428575,0
+Brighton Ave at Linden St,16.0,13,19,0.6842105263157895,36.96842105263158,0
+Kendall T,6.0,10,12,0.8333333333333334,36.93333333333334,0
+Congress St at Boston City Hall,3.0,7,8,0.875,36.8,0
+Harvard Kennedy School at Bennett St / Eliot St,26.0,12,23,0.5217391304347826,36.469565217391306,0
+Cambridge Main Library at Broadway / Trowbridge St,7.0,12,15,0.8,36.2,0
+CambridgeSide Galleria - CambridgeSide PL at Land Blvd,3.0,6,7,0.8571428571428571,36.08571428571428,0
+Mass Ave/Lafayette Square,5.0,14,17,0.8235294117647058,35.94117647058823,0
+Sullivan Square,4.0,5,6,0.8333333333333334,35.733333333333334,0
+Centre St at Washington St,7.0,11,14,0.7857142857142857,35.62857142857143,0
+Chinatown Gate Plaza,1.0,7,8,0.875,35.6,0
+Massachusetts Ave at Boylston St.,20.0,7,12,0.5833333333333334,35.333333333333336,0
+Rowes Wharf at Atlantic Ave,3.0,5,6,0.8333333333333334,35.13333333333333,0
+325 Binney St.,3.0,5,6,0.8333333333333334,35.13333333333333,0
+Somerville Hospital,3.0,5,6,0.8333333333333334,35.13333333333333,0
+Cross St at Hanover St,4.0,9,11,0.8181818181818182,35.12727272727273,0
+Boylston St at Berkeley St,5.0,8,10,0.8,35.0,0
+Boston City Hall - 28 State St,7.0,10,13,0.7692307692307693,34.969230769230776,0
+Silber Way,21.0,11,20,0.55,34.6,0
+Broadway at Central St,11.0,7,10,0.7,34.6,0
+Mass Ave at Broadway,2.0,5,6,0.8333333333333334,34.53333333333334,0
+Foley St at Grand Union Blvd,2.0,5,6,0.8333333333333334,34.53333333333334,0
+Tremont St at West St,3.0,9,11,0.8181818181818182,34.52727272727273,0
+Harvard Square at Brattle St / Eliot St,18.0,13,22,0.5909090909090909,34.43636363636364,0
+Watertown Sq,21.0,12,22,0.5454545454545454,34.418181818181814,0
+Harrison Ave at Bennet St,4.0,4,5,0.8,34.4,0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,8.0,17,23,0.7391304347826086,34.36521739130434,0
+Canal St at Causeway St,7.0,6,8,0.75,34.2,0
+699 Mt Auburn St,30.0,8,20,0.4,34.0,0
+Powder House Circle - Nathan Tufts Park,3.0,8,10,0.8,33.8,0
+N. Beacon St at N. Beacon Ct,3.0,4,5,0.8,33.8,0
+84 Cambridgepark Dr,18.0,8,14,0.5714285714285714,33.65714285714286,0
+University Park,19.0,10,18,0.5555555555555556,33.62222222222223,0
+Washington St at Rutland St,6.0,6,8,0.75,33.6,0
+Sennott Park Broadway at Norfolk Street,11.0,10,15,0.6666666666666666,33.266666666666666,0
+Packard Ave at Powderhouse Blvd,2.0,8,10,0.8,33.2,0
+Harvard Square at Mass Ave/ Dunster,28.0,9,22,0.4090909090909091,33.16363636363637,0
+Honan Library,28.0,9,22,0.4090909090909091,33.16363636363637,0
+Aquarium T Stop - 200 Atlantic Ave,5.0,6,8,0.75,33.0,0
+Northeastern University - North Parking Lot,16.0,7,12,0.5833333333333334,32.93333333333334,0
+75 Binney St,13.0,5,8,0.625,32.8,0
+One Kendall Square at Hampshire St / Portland St,10.0,8,12,0.6666666666666666,32.666666666666664,0
+Conway Park - Somerville Avenue,12.0,7,11,0.6363636363636364,32.654545454545456,0
+Park Plaza at Charles St S.,1.0,4,5,0.8,32.6,0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,13.0,13,21,0.6190476190476191,32.56190476190476,0
+Herter Park,8.0,9,13,0.6923076923076923,32.49230769230769,0
+Dartmouth St at Newbury St,6.0,13,18,0.7222222222222222,32.48888888888889,0
+Rindge Avenue - O'Neill Library,7.0,12,17,0.7058823529411765,32.43529411764706,0
+Albany St at E. Brookline St,4.0,6,8,0.75,32.4,0
+Clarendon Hill at Broadway,2.0,7,9,0.7777777777777778,32.31111111111112,0
+Commonwealth Ave at Griggs St,16.0,13,23,0.5652173913043478,32.208695652173915,0
+MIT Carleton St at Amherst St,7.0,7,10,0.7,32.2,0
+Washington Sq,6.0,10,14,0.7142857142857143,32.17142857142857,0
+Harvard St and Stedman St,6.0,12,17,0.7058823529411765,31.83529411764706,0
+Forsyth St at Huntington Ave,16.0,5,9,0.5555555555555556,31.822222222222223,0
+Gilman Square T at Medford St,3.0,3,4,0.75,31.8,0
+Beacon at Walnut,3.0,3,4,0.75,31.8,0
+Grove St at Community Path,7.0,11,16,0.6875,31.7,0
+Swan Place at Minuteman Bikeway,5.0,5,7,0.7142857142857143,31.571428571428573,0
+Chestnut Hill Ave at Ledgemere Rd,5.0,10,14,0.7142857142857143,31.571428571428573,0
+Western Ave at Leo Birmingham Pkwy,21.0,9,19,0.47368421052631576,31.54736842105263,0
+Washington St at Myrtle St,4.0,8,11,0.7272727272727273,31.490909090909092,0
+Blossom St at Charles St,4.0,8,11,0.7272727272727273,31.490909090909092,0
+Beacon St at Washington / Kirkland,25.0,7,17,0.4117647058823529,31.470588235294116,0
+Beacon St at Charles St,8.0,10,15,0.6666666666666666,31.466666666666665,0
+Purchase St at Pearl St,2.0,3,4,0.75,31.2,0
+Tappan St at Brookline Hills MBTA,2.0,3,4,0.75,31.2,0
+Broadway at Grafton St,2.0,6,8,0.75,31.2,0
+West End Park,2.0,3,4,0.75,31.2,0
+Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,2.0,3,4,0.75,31.2,0
+Brighton Mills - 370 Western Ave,39.0,4,21,0.19047619047619047,31.01904761904762,0
+Ball Sq,5.0,7,10,0.7,31.0,0
+Washington St at Egremont Rd,6.0,13,19,0.6842105263157895,30.968421052631577,0
+B.U. Central - 725 Comm. Ave.,7.0,12,18,0.6666666666666666,30.866666666666664,0
+Child Street at Brian P. Murphy Staircase,7.0,4,6,0.6666666666666666,30.866666666666664,0
+Main Street/Albany Street/Technology Square,5.0,9,13,0.6923076923076923,30.692307692307693,0
+Danehy Park,8.0,11,17,0.6470588235294118,30.68235294117647,0
+Boylston St at Jersey St,9.0,12,19,0.631578947368421,30.66315789473684,0
+Faneuil St at Bothwell Rd,1.0,3,4,0.75,30.6,0
+Harvard Law School at Mass Ave / Jarvis St,16.0,11,21,0.5238095238095238,30.552380952380958,0
+Western Ave at Richardson St,19.0,11,23,0.4782608695652174,30.5304347826087,0
+Central Square at Mass Ave / Essex St,13.0,13,23,0.5652173913043478,30.408695652173915,0
+MIT Hayward St at Amherst St,4.0,7,10,0.7,30.4,0
+Union Square East,4.0,7,10,0.7,30.4,0
+Brigham Circle - Francis St at Huntington Ave,4.0,7,10,0.7,30.4,0
+Mass Ave T Station,3.0,5,7,0.7142857142857143,30.371428571428574,0
+Packard's Corner - Commonwealth Ave at Brighton Ave,11.0,13,22,0.5909090909090909,30.23636363636364,0
+Thorndike Field at Minuteman Bikeway,4.0,9,13,0.6923076923076923,30.092307692307692,0
+Kennedy-Longfellow School 158 Spring St,4.0,9,13,0.6923076923076923,30.092307692307692,0
+Mugar Way at Beacon St,7.0,11,17,0.6470588235294118,30.08235294117647,0
+Back Bay T Stop - Dartmouth St at Stuart St,3.0,7,10,0.7,29.8,0
+Valenti Way at Haverhill St,2.0,5,7,0.7142857142857143,29.771428571428572,0
+Arch St at Franklin St,2.0,5,7,0.7142857142857143,29.771428571428572,0
+Cambridgeside Pl at Land Blvd,5.0,2,3,0.6666666666666666,29.666666666666664,0
+Watertown St at 5th Ave,16.0,8,16,0.5,29.6,0
+Moore Youth Center,3.0,9,13,0.6923076923076923,29.492307692307694,0
+Galen St at Watertown St,8.0,8,13,0.6153846153846154,29.415384615384617,0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,4.0,6,9,0.6666666666666666,29.066666666666663,0
+Railroad Lot and Minuteman Bikeway,4.0,8,12,0.6666666666666666,29.066666666666663,0
+Boylston St at Dartmouth St,4.0,6,9,0.6666666666666666,29.066666666666663,0
+191 Beacon St,4.0,6,9,0.6666666666666666,29.066666666666663,0
+Lafayette Square at Mass Ave / Main St / Columbia St,10.0,12,21,0.5714285714285714,28.857142857142858,0
+Coolidge Corner - Beacon St at Centre St,11.0,10,18,0.5555555555555556,28.822222222222223,0
+Third at Binney,6.0,5,8,0.625,28.6,0
+N. Harvard St at Harvard Way,3.0,4,6,0.6666666666666666,28.466666666666665,0
+Columbus Ave at W. Canton St,3.0,4,6,0.6666666666666666,28.466666666666665,0
+Lake St. at Minuteman Bikeway,3.0,6,9,0.6666666666666666,28.466666666666665,0
+EF - North Point Park,5.0,5,8,0.625,28.0,0
+Stadium Rd at Western Ave,2.0,2,3,0.6666666666666666,27.866666666666664,0
+Langley Lot,2.0,6,9,0.6666666666666666,27.866666666666664,0
+West Medford Square (Bower St at Harvard Ave),2.0,2,3,0.6666666666666666,27.866666666666664,0
+Harrison Ave at Mullins Way,2.0,2,3,0.6666666666666666,27.866666666666664,0
+Washington St at Griggs Rd,2.0,4,6,0.6666666666666666,27.866666666666664,0
+Walbridge St at Commonwealth Ave,2.0,2,3,0.6666666666666666,27.866666666666664,0
+Kendall Street,2.0,4,6,0.6666666666666666,27.866666666666664,0
+Mass Ave at Alewife Greenway,2.0,2,3,0.6666666666666666,27.866666666666664,0
+Union St at Herrick Rd,2.0,2,3,0.6666666666666666,27.866666666666664,0
+High St at Cypress St,2.0,2,3,0.6666666666666666,27.866666666666664,0
+South End Library - Tremont St at W Newton St,2.0,4,6,0.6666666666666666,27.866666666666664,0
+Perry Park,10.0,6,11,0.5454545454545454,27.818181818181817,0
+87-101 Cambridgepark Drive,8.0,9,16,0.5625,27.3,0
+39 Brighton Ave,1.0,2,3,0.6666666666666666,27.266666666666666,0
+Broadway St at Mt Pleasant St,1.0,2,3,0.6666666666666666,27.266666666666666,0
+Cypress St at Clark Playground,1.0,2,3,0.6666666666666666,27.266666666666666,0
+One Broadway / Kendall Sq at Main St / 3rd St,3.0,7,11,0.6363636363636364,27.254545454545454,0
+West Newton,3.0,7,11,0.6363636363636364,27.254545454545454,0
+Mass Ave at Albany St,5.0,12,20,0.6,27.0,0
+Gore Street at Lambert Street,5.0,6,10,0.6,27.0,0
+Brookline Village - Station Street at MBTA,5.0,9,15,0.6,27.0,0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,6.0,7,12,0.5833333333333334,26.933333333333337,0
+Burlington Ave at Brookline Ave,6.0,7,12,0.5833333333333334,26.933333333333337,0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,13.0,9,19,0.47368421052631576,26.74736842105263,0
+MIT Vassar St,6.0,12,21,0.5714285714285714,26.457142857142856,0
+Kenmore Square,7.0,10,18,0.5555555555555556,26.422222222222224,0
+Centre St at Commonwealth Ave,4.0,3,5,0.6,26.4,0
+Copley Square - Dartmouth St at Boylston St,5.0,7,12,0.5833333333333334,26.333333333333336,0
+One Brigham Circle,16.0,5,12,0.4166666666666667,26.266666666666666,0
+Wentworth Institute of Technology - Huntington Ave at Vancouver St,2.0,5,8,0.625,26.2,0
+Broad Canal Way at Third Street,2.0,5,8,0.625,26.2,0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,5.0,11,19,0.5789473684210527,26.15789473684211,0
+Watertown City Hall,10.0,10,20,0.5,26.0,0
+Mass Ave at Hadley/Walden,3.0,9,15,0.6,25.8,0
+Dana Park,3.0,12,20,0.6,25.8,0
+Park Dr at Buswell St,4.0,11,19,0.5789473684210527,25.55789473684211,0
+1200 Beacon St,7.0,8,15,0.5333333333333333,25.533333333333335,0
+Danehy Park at New Street,11.0,8,17,0.47058823529411764,25.423529411764704,0
+Lansdowne T Stop,9.0,7,14,0.5,25.4,0
+Union Square - Somerville,7.0,9,17,0.5294117647058824,25.376470588235296,0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,19.0,8,23,0.34782608695652173,25.31304347826087,0
+Rogers St & Land Blvd,4.0,4,7,0.5714285714285714,25.257142857142856,0
+Forest Hills,4.0,4,7,0.5714285714285714,25.257142857142856,0
+St. Alphonsus St at Tremont St,2.0,3,5,0.6,25.2,0
+Galileo Galilei Way at Fulkerson St/Binney St,2.0,3,5,0.6,25.2,0
+Harvard Ave at Brainerd Rd,7.0,11,21,0.5238095238095238,25.152380952380955,0
+Beacon St at Tappan St,3.0,7,12,0.5833333333333334,25.133333333333336,0
+Cleveland Circle,4.0,13,23,0.5652173913043478,25.008695652173913,0
+Raymond Park at Walden St,13.0,6,14,0.42857142857142855,24.942857142857143,0
+Newbury St at Hereford St,6.0,9,17,0.5294117647058824,24.7764705882353,0
+Lewis Wharf at Atlantic Ave,3.0,4,7,0.5714285714285714,24.65714285714286,0
+Harvard University Gund Hall at Quincy St / Kirkland St,11.0,8,18,0.4444444444444444,24.37777777777778,0
+Inman Square at Springfield St.,7.0,7,14,0.5,24.2,0
+Marion St at Harvard St,5.0,9,17,0.5294117647058824,24.176470588235297,0
+175 N Harvard St,11.0,9,21,0.42857142857142855,23.74285714285714,0
+Nonantum Library,11.0,9,21,0.42857142857142855,23.74285714285714,0
+Bacon St at Washington St,12.0,7,17,0.4117647058823529,23.670588235294115,0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,8.0,8,17,0.47058823529411764,23.623529411764707,0
+Alewife Station at Russell Field,11.0,8,19,0.42105263157894735,23.44210526315789,0
+Huron Ave At Vassal Lane,18.0,6,19,0.3157894736842105,23.431578947368422,0
+Harvard St at Greene-Rose Heritage Park,14.0,6,16,0.375,23.4,0
+955 Mass Ave,12.0,8,20,0.4,23.2,0
+Brookline Town Hall,3.0,8,15,0.5333333333333333,23.133333333333336,0
+Washington St at Crafts St,5.0,7,14,0.5,23.0,0
+Commonwealth Ave at Granby St,5.0,1,2,0.5,23.0,0
+Boylston St at Arlington St,2.0,7,13,0.5384615384615384,22.73846153846154,0
+Berkshire Street at Cambridge Street,2.0,7,13,0.5384615384615384,22.73846153846154,0
+Linwood St at Minuteman Bikeway,7.0,6,13,0.46153846153846156,22.661538461538463,0
+MIT at Mass Ave / Amherst St,11.0,8,20,0.4,22.6,0
+Verizon Innovation Hub 10 Ware Street,6.0,9,19,0.47368421052631576,22.54736842105263,0
+Faneuil St at Arlington St,6.0,8,17,0.47058823529411764,22.423529411764704,0
+Massachusetts Ave at Columbus Ave,4.0,5,10,0.5,22.4,0
+Main St at Austin St,4.0,1,2,0.5,22.4,0
+Old Morse Park at Putnam Ave,4.0,6,12,0.5,22.4,0
+Landmark Center - Brookline Ave at Park Dr,7.0,8,18,0.4444444444444444,21.977777777777778,0
+Tremont St at Court St,3.0,2,4,0.5,21.8,0
+Oak Square - Washington St at Bigelow St,3.0,1,2,0.5,21.8,0
+Cambridge Crossing at North First Street,3.0,5,10,0.5,21.8,0
+Tremont St at Northampton St,3.0,4,8,0.5,21.8,0
+Market St at Mapleton St,3.0,3,6,0.5,21.8,0
+Government Center - Cambridge St at Court St,3.0,5,10,0.5,21.8,0
+Western Ave at Everett St,8.0,8,19,0.42105263157894735,21.642105263157895,0
+One Memorial Drive,5.0,6,13,0.46153846153846156,21.461538461538463,0
+Hyde Square - Centre St at Perkins St,2.0,3,6,0.5,21.2,0
+Mass Ave at Grafton St,2.0,2,4,0.5,21.2,0
+Charles River Greenway - California St. at Fifth Ave,2.0,7,14,0.5,21.2,0
+Cambridge St at Joy St,4.0,6,13,0.46153846153846156,20.861538461538462,0
+Vassal Lane at Tobin/VLUS,6.0,6,14,0.42857142857142855,20.74285714285714,0
+30 Dane St,6.0,3,7,0.42857142857142855,20.74285714285714,0
+Surface Rd at Summer St,6.0,3,7,0.42857142857142855,20.74285714285714,0
+99 Coolidge Ave,7.0,7,17,0.4117647058823529,20.670588235294115,0
+Hormel Stadium,1.0,1,2,0.5,20.6,0
+Boston Medical Center - E Concord St at Harrison Ave,1.0,2,4,0.5,20.6,0
+Broadway at Lynde St,1.0,1,2,0.5,20.6,0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,1.0,5,10,0.5,20.6,0
+Boylston St at Exeter St,3.0,7,15,0.4666666666666667,20.46666666666667,0
+Elm St at White St,6.0,5,12,0.4166666666666667,20.266666666666666,0
+Parker St at Huntington Ave,5.0,3,7,0.42857142857142855,20.142857142857142,0
+St Mary's,6.0,7,17,0.4117647058823529,20.070588235294117,0
+Ames St at Broadway,3.0,4,9,0.4444444444444444,19.57777777777778,0
+Nashua Street at Red Auerbach Way,4.0,3,7,0.42857142857142855,19.54285714285714,0
+Lincoln St at Empire St,9.0,6,17,0.35294117647058826,19.51764705882353,0
+Clarendon St at Newbury St,2.0,5,11,0.45454545454545453,19.381818181818183,0
+Beacon St at Massachusetts Ave,4.0,8,19,0.42105263157894735,19.242105263157892,0
+Lower Cambridgeport at Magazine St / Riverside Rd,6.0,7,18,0.3888888888888889,19.15555555555556,0
+Washington St at Walnut St,5.0,6,15,0.4,19.0,0
+Watertown St at Albemarle Rd,9.0,5,15,0.3333333333333333,18.73333333333333,0
+Watertown Town Hall,11.0,6,20,0.3,18.6,0
+700 Commonwealth Ave.,4.0,6,15,0.4,18.4,0
+Discovery Park - 30 Acorn Park Drive,2.0,6,14,0.42857142857142855,18.34285714285714,0
+Chinatown T Stop,6.0,4,11,0.36363636363636365,18.145454545454548,0
+South Station - 700 Atlantic Ave,3.0,2,5,0.4,17.8,0
+California at Chapel,11.0,5,18,0.2777777777777778,17.711111111111112,0
+359 Broadway - Broadway at Fayette Street,2.0,6,15,0.4,17.2,0
+Community Path at Cedar Street,3.0,5,13,0.38461538461538464,17.184615384615388,0
+Cambridge St - at Columbia St / Webster Ave,4.0,4,11,0.36363636363636365,16.945454545454545,0
+Porter Square Station,4.0,7,20,0.35,16.4,0
+Auburndale,2.0,4,11,0.36363636363636365,15.745454545454546,0
+Commonwealth Ave at Naples Rd,3.0,3,9,0.3333333333333333,15.133333333333333,0
+W Broadway at D St,3.0,1,3,0.3333333333333333,15.133333333333333,0
+Broad St at Central St,2.0,1,3,0.3333333333333333,14.533333333333331,0
+Huntington Ave at Mass Art,5.0,2,7,0.2857142857142857,14.428571428571429,0
+Stony Brook T Stop,1.0,1,3,0.3333333333333333,13.933333333333332,0
+Tremont St at W. Dedham St,1.0,3,9,0.3333333333333333,13.933333333333332,0
+Lesley University,1.0,4,13,0.3076923076923077,12.907692307692308,0
+Newton Highlands T,1.0,2,7,0.2857142857142857,12.028571428571428,0
+Boylston St at Fairfield St,2.0,5,19,0.2631578947368421,11.726315789473684,0
+Commonwealth Ave at Blandford Mall,1.0,1,4,0.25,10.6,0
+Commonwealth Ave At Babcock St,4.0,3,19,0.15789473684210525,8.715789473684211,0
+JFK Crossing at Harvard St. / Thorndike St.,1.0,3,17,0.17647058823529413,7.658823529411765,0
+West Newton Armory,0.0,0,1,0.0,0.0,0
+Main St at Baldwin St,0.0,0,1,0.0,0.0,0
+Assembly Square T,0.0,0,2,0.0,0.0,0
+O'Brien Highway at First Street,0.0,0,2,0.0,0.0,0
+Shawmut Ave at Oak St W,0.0,0,2,0.0,0.0,0
+Foss Park,0.0,0,1,0.0,0.0,0

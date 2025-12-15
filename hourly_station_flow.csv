@@ -1,0 +1,4120 @@
+station,hour,departures,arrivals,net_flow
+101 Smith Place,7,3.0,2.0,-1.0
+101 Smith Place,8,10.0,3.0,-7.0
+101 Smith Place,9,1.0,1.0,0.0
+101 Smith Place,10,1.0,0.0,-1.0
+101 Smith Place,16,2.0,0.0,-2.0
+101 Smith Place,17,5.0,0.0,-5.0
+1200 Beacon St,0,1.0,0.0,-1.0
+1200 Beacon St,8,1.0,1.0,0.0
+1200 Beacon St,10,1.0,1.0,0.0
+1200 Beacon St,11,2.0,3.0,1.0
+1200 Beacon St,12,1.0,1.0,0.0
+1200 Beacon St,13,1.0,3.0,2.0
+1200 Beacon St,14,2.0,2.0,0.0
+1200 Beacon St,15,2.0,1.0,-1.0
+1200 Beacon St,16,6.0,4.0,-2.0
+1200 Beacon St,17,3.0,3.0,0.0
+1200 Beacon St,18,5.0,2.0,-3.0
+1200 Beacon St,19,7.0,0.0,-7.0
+1200 Beacon St,20,6.0,1.0,-5.0
+1200 Beacon St,21,3.0,2.0,-1.0
+1200 Beacon St,22,3.0,0.0,-3.0
+160 Arsenal,0,176.0,235.0,59.0
+160 Arsenal,1,93.0,163.0,70.0
+160 Arsenal,2,62.0,87.0,25.0
+160 Arsenal,3,25.0,48.0,23.0
+160 Arsenal,4,17.0,32.0,15.0
+160 Arsenal,5,31.0,24.0,-7.0
+160 Arsenal,6,207.0,179.0,-28.0
+160 Arsenal,7,321.0,214.0,-107.0
+160 Arsenal,8,440.0,206.0,-234.0
+160 Arsenal,9,316.0,179.0,-137.0
+160 Arsenal,10,431.0,257.0,-174.0
+160 Arsenal,11,527.0,278.0,-249.0
+160 Arsenal,12,647.0,395.0,-252.0
+160 Arsenal,13,511.0,396.0,-115.0
+160 Arsenal,14,518.0,519.0,1.0
+160 Arsenal,15,566.0,531.0,-35.0
+160 Arsenal,16,701.0,641.0,-60.0
+160 Arsenal,17,841.0,689.0,-152.0
+160 Arsenal,18,748.0,700.0,-48.0
+160 Arsenal,19,572.0,560.0,-12.0
+160 Arsenal,20,542.0,497.0,-45.0
+160 Arsenal,21,459.0,577.0,118.0
+160 Arsenal,22,359.0,525.0,166.0
+160 Arsenal,23,293.0,354.0,61.0
+175 N Harvard St,0,13.0,14.0,1.0
+175 N Harvard St,1,7.0,2.0,-5.0
+175 N Harvard St,3,1.0,3.0,2.0
+175 N Harvard St,4,2.0,1.0,-1.0
+175 N Harvard St,7,4.0,6.0,2.0
+175 N Harvard St,8,15.0,14.0,-1.0
+175 N Harvard St,9,17.0,13.0,-4.0
+175 N Harvard St,10,20.0,22.0,2.0
+175 N Harvard St,11,21.0,21.0,0.0
+175 N Harvard St,12,18.0,28.0,10.0
+175 N Harvard St,13,32.0,35.0,3.0
+175 N Harvard St,14,38.0,36.0,-2.0
+175 N Harvard St,15,38.0,45.0,7.0
+175 N Harvard St,16,48.0,50.0,2.0
+175 N Harvard St,17,40.0,59.0,19.0
+175 N Harvard St,18,40.0,48.0,8.0
+175 N Harvard St,19,50.0,39.0,-11.0
+175 N Harvard St,20,52.0,51.0,-1.0
+175 N Harvard St,21,31.0,29.0,-2.0
+175 N Harvard St,22,26.0,26.0,0.0
+175 N Harvard St,23,18.0,17.0,-1.0
+191 Beacon St,0,1.0,0.0,-1.0
+191 Beacon St,1,1.0,0.0,-1.0
+191 Beacon St,8,4.0,0.0,-4.0
+191 Beacon St,12,1.0,1.0,0.0
+191 Beacon St,13,3.0,1.0,-2.0
+191 Beacon St,16,2.0,1.0,-1.0
+191 Beacon St,17,1.0,3.0,2.0
+191 Beacon St,18,1.0,5.0,4.0
+191 Beacon St,22,1.0,0.0,-1.0
+30 Dane St,11,6.0,0.0,-6.0
+30 Dane St,12,5.0,2.0,-3.0
+30 Dane St,15,2.0,2.0,0.0
+30 Dane St,16,2.0,4.0,2.0
+30 Dane St,18,1.0,0.0,-1.0
+30 Dane St,19,3.0,6.0,3.0
+30 Dane St,22,1.0,2.0,1.0
+325 Binney St.,9,1.0,1.0,0.0
+325 Binney St.,12,1.0,0.0,-1.0
+325 Binney St.,14,2.0,0.0,-2.0
+325 Binney St.,15,2.0,0.0,-2.0
+325 Binney St.,16,4.0,1.0,-3.0
+325 Binney St.,17,1.0,0.0,-1.0
+359 Broadway - Broadway at Fayette Street,0,1.0,1.0,0.0
+359 Broadway - Broadway at Fayette Street,6,1.0,0.0,-1.0
+359 Broadway - Broadway at Fayette Street,7,3.0,1.0,-2.0
+359 Broadway - Broadway at Fayette Street,10,1.0,2.0,1.0
+359 Broadway - Broadway at Fayette Street,11,1.0,1.0,0.0
+359 Broadway - Broadway at Fayette Street,12,4.0,5.0,1.0
+359 Broadway - Broadway at Fayette Street,13,5.0,7.0,2.0
+359 Broadway - Broadway at Fayette Street,14,3.0,2.0,-1.0
+359 Broadway - Broadway at Fayette Street,15,4.0,6.0,2.0
+359 Broadway - Broadway at Fayette Street,16,1.0,5.0,4.0
+359 Broadway - Broadway at Fayette Street,17,4.0,3.0,-1.0
+359 Broadway - Broadway at Fayette Street,18,4.0,5.0,1.0
+359 Broadway - Broadway at Fayette Street,19,3.0,1.0,-2.0
+359 Broadway - Broadway at Fayette Street,20,4.0,2.0,-2.0
+359 Broadway - Broadway at Fayette Street,21,1.0,1.0,0.0
+39 Brighton Ave,8,1.0,0.0,-1.0
+39 Brighton Ave,14,1.0,0.0,-1.0
+39 Brighton Ave,15,1.0,1.0,0.0
+515 Somerville Ave (Temp. Winter Location),14,1.0,0.0,-1.0
+55 Wheeler Street,6,3.0,0.0,-3.0
+55 Wheeler Street,7,8.0,2.0,-6.0
+55 Wheeler Street,8,36.0,6.0,-30.0
+55 Wheeler Street,9,18.0,4.0,-14.0
+55 Wheeler Street,10,12.0,3.0,-9.0
+55 Wheeler Street,11,6.0,3.0,-3.0
+55 Wheeler Street,12,14.0,4.0,-10.0
+55 Wheeler Street,13,21.0,18.0,-3.0
+55 Wheeler Street,14,14.0,15.0,1.0
+55 Wheeler Street,15,16.0,34.0,18.0
+55 Wheeler Street,16,18.0,44.0,26.0
+55 Wheeler Street,17,16.0,51.0,35.0
+55 Wheeler Street,18,20.0,33.0,13.0
+55 Wheeler Street,19,38.0,31.0,-7.0
+55 Wheeler Street,21,5.0,7.0,2.0
+555 Metropolitan Ave,9,1.0,0.0,-1.0
+606 American Legion Hwy at Canterbury St,18,1.0,0.0,-1.0
+615 Broadway,14,1.0,0.0,-1.0
+645 Summer St,14,1.0,0.0,-1.0
+699 Mt Auburn St,0,2.0,10.0,8.0
+699 Mt Auburn St,1,8.0,4.0,-4.0
+699 Mt Auburn St,6,3.0,7.0,4.0
+699 Mt Auburn St,7,17.0,19.0,2.0
+699 Mt Auburn St,8,32.0,32.0,0.0
+699 Mt Auburn St,9,37.0,53.0,16.0
+699 Mt Auburn St,10,33.0,38.0,5.0
+699 Mt Auburn St,11,55.0,53.0,-2.0
+699 Mt Auburn St,12,56.0,43.0,-13.0
+699 Mt Auburn St,13,54.0,56.0,2.0
+699 Mt Auburn St,14,87.0,70.0,-17.0
+699 Mt Auburn St,15,95.0,71.0,-24.0
+699 Mt Auburn St,16,65.0,67.0,2.0
+699 Mt Auburn St,17,71.0,71.0,0.0
+699 Mt Auburn St,18,87.0,57.0,-30.0
+699 Mt Auburn St,19,74.0,48.0,-26.0
+699 Mt Auburn St,20,42.0,62.0,20.0
+699 Mt Auburn St,21,29.0,28.0,-1.0
+699 Mt Auburn St,22,21.0,21.0,0.0
+699 Mt Auburn St,23,11.0,14.0,3.0
+7 Acre Park,18,1.0,0.0,-1.0
+700 Commonwealth Ave.,0,1.0,1.0,0.0
+700 Commonwealth Ave.,6,1.0,0.0,-1.0
+700 Commonwealth Ave.,8,1.0,4.0,3.0
+700 Commonwealth Ave.,9,1.0,1.0,0.0
+700 Commonwealth Ave.,11,2.0,2.0,0.0
+700 Commonwealth Ave.,12,4.0,3.0,-1.0
+700 Commonwealth Ave.,14,6.0,6.0,0.0
+700 Commonwealth Ave.,15,8.0,4.0,-4.0
+700 Commonwealth Ave.,16,6.0,6.0,0.0
+700 Commonwealth Ave.,17,2.0,9.0,7.0
+700 Commonwealth Ave.,18,3.0,6.0,3.0
+700 Commonwealth Ave.,20,3.0,5.0,2.0
+700 Commonwealth Ave.,21,3.0,1.0,-2.0
+700 Commonwealth Ave.,22,6.0,3.0,-3.0
+700 Commonwealth Ave.,23,4.0,2.0,-2.0
+700 Huron Ave,0,4.0,2.0,-2.0
+700 Huron Ave,2,1.0,0.0,-1.0
+700 Huron Ave,6,1.0,0.0,-1.0
+700 Huron Ave,7,3.0,0.0,-3.0
+700 Huron Ave,8,5.0,3.0,-2.0
+700 Huron Ave,9,13.0,0.0,-13.0
+700 Huron Ave,10,27.0,5.0,-22.0
+700 Huron Ave,11,21.0,4.0,-17.0
+700 Huron Ave,12,30.0,10.0,-20.0
+700 Huron Ave,13,32.0,13.0,-19.0
+700 Huron Ave,14,41.0,12.0,-29.0
+700 Huron Ave,15,32.0,13.0,-19.0
+700 Huron Ave,16,25.0,27.0,2.0
+700 Huron Ave,17,42.0,26.0,-16.0
+700 Huron Ave,18,28.0,17.0,-11.0
+700 Huron Ave,19,23.0,19.0,-4.0
+700 Huron Ave,20,9.0,32.0,23.0
+700 Huron Ave,21,10.0,29.0,19.0
+700 Huron Ave,22,3.0,7.0,4.0
+700 Huron Ave,23,5.0,7.0,2.0
+75 Binney St,0,1.0,0.0,-1.0
+75 Binney St,9,1.0,7.0,6.0
+75 Binney St,13,1.0,1.0,0.0
+75 Binney St,15,1.0,0.0,-1.0
+75 Binney St,16,13.0,0.0,-13.0
+75 Binney St,17,10.0,1.0,-9.0
+75 Binney St,18,1.0,0.0,-1.0
+75 Binney St,19,2.0,2.0,0.0
+84 Cambridgepark Dr,0,1.0,2.0,1.0
+84 Cambridgepark Dr,8,1.0,0.0,-1.0
+84 Cambridgepark Dr,9,1.0,1.0,0.0
+84 Cambridgepark Dr,10,12.0,1.0,-11.0
+84 Cambridgepark Dr,11,23.0,5.0,-18.0
+84 Cambridgepark Dr,12,8.0,5.0,-3.0
+84 Cambridgepark Dr,13,10.0,8.0,-2.0
+84 Cambridgepark Dr,14,9.0,7.0,-2.0
+84 Cambridgepark Dr,15,7.0,6.0,-1.0
+84 Cambridgepark Dr,16,9.0,15.0,6.0
+84 Cambridgepark Dr,17,8.0,34.0,26.0
+84 Cambridgepark Dr,18,8.0,10.0,2.0
+84 Cambridgepark Dr,19,2.0,14.0,12.0
+84 Cambridgepark Dr,22,5.0,4.0,-1.0
+855 Broadway,9,1.0,0.0,-1.0
+855 Broadway,10,1.0,0.0,-1.0
+87-101 Cambridgepark Drive,6,1.0,0.0,-1.0
+87-101 Cambridgepark Drive,7,2.0,3.0,1.0
+87-101 Cambridgepark Drive,9,4.0,1.0,-3.0
+87-101 Cambridgepark Drive,10,6.0,5.0,-1.0
+87-101 Cambridgepark Drive,11,9.0,1.0,-8.0
+87-101 Cambridgepark Drive,12,9.0,4.0,-5.0
+87-101 Cambridgepark Drive,13,8.0,8.0,0.0
+87-101 Cambridgepark Drive,14,4.0,13.0,9.0
+87-101 Cambridgepark Drive,15,2.0,7.0,5.0
+87-101 Cambridgepark Drive,16,9.0,7.0,-2.0
+87-101 Cambridgepark Drive,17,11.0,8.0,-3.0
+87-101 Cambridgepark Drive,18,8.0,2.0,-6.0
+87-101 Cambridgepark Drive,19,5.0,4.0,-1.0
+87-101 Cambridgepark Drive,20,1.0,1.0,0.0
+87-101 Cambridgepark Drive,21,1.0,2.0,1.0
+87-101 Cambridgepark Drive,22,1.0,1.0,0.0
+955 Mass Ave,0,4.0,1.0,-3.0
+955 Mass Ave,2,1.0,0.0,-1.0
+955 Mass Ave,4,1.0,1.0,0.0
+955 Mass Ave,7,2.0,2.0,0.0
+955 Mass Ave,8,7.0,3.0,-4.0
+955 Mass Ave,9,3.0,0.0,-3.0
+955 Mass Ave,10,2.0,2.0,0.0
+955 Mass Ave,11,5.0,27.0,22.0
+955 Mass Ave,12,9.0,28.0,19.0
+955 Mass Ave,13,3.0,10.0,7.0
+955 Mass Ave,14,7.0,10.0,3.0
+955 Mass Ave,15,12.0,5.0,-7.0
+955 Mass Ave,16,3.0,10.0,7.0
+955 Mass Ave,17,17.0,13.0,-4.0
+955 Mass Ave,18,2.0,9.0,7.0
+955 Mass Ave,19,5.0,10.0,5.0
+955 Mass Ave,20,5.0,6.0,1.0
+955 Mass Ave,21,12.0,0.0,-12.0
+955 Mass Ave,22,3.0,4.0,1.0
+955 Mass Ave,23,3.0,2.0,-1.0
+99 Coolidge Ave,5,1.0,1.0,0.0
+99 Coolidge Ave,6,2.0,3.0,1.0
+99 Coolidge Ave,7,10.0,14.0,4.0
+99 Coolidge Ave,9,10.0,11.0,1.0
+99 Coolidge Ave,10,12.0,13.0,1.0
+99 Coolidge Ave,11,9.0,8.0,-1.0
+99 Coolidge Ave,12,8.0,3.0,-5.0
+99 Coolidge Ave,13,8.0,10.0,2.0
+99 Coolidge Ave,14,8.0,1.0,-7.0
+99 Coolidge Ave,15,8.0,7.0,-1.0
+99 Coolidge Ave,16,1.0,1.0,0.0
+99 Coolidge Ave,17,7.0,4.0,-3.0
+99 Coolidge Ave,18,3.0,7.0,4.0
+99 Coolidge Ave,19,4.0,2.0,-2.0
+99 Coolidge Ave,20,2.0,7.0,5.0
+99 Coolidge Ave,21,1.0,10.0,9.0
+99 Coolidge Ave,23,1.0,0.0,-1.0
+Albany St at E. Brookline St,6,3.0,0.0,-3.0
+Albany St at E. Brookline St,10,1.0,0.0,-1.0
+Albany St at E. Brookline St,12,1.0,1.0,0.0
+Albany St at E. Brookline St,14,1.0,1.0,0.0
+Albany St at E. Brookline St,15,1.0,0.0,-1.0
+Albany St at E. Brookline St,16,4.0,0.0,-4.0
+Albany St at E. Brookline St,17,1.0,0.0,-1.0
+Albany St at E. Brookline St,19,2.0,0.0,-2.0
+Alewife MBTA at Steel Place,0,1.0,0.0,-1.0
+Alewife MBTA at Steel Place,7,22.0,3.0,-19.0
+Alewife MBTA at Steel Place,8,22.0,42.0,20.0
+Alewife MBTA at Steel Place,9,10.0,2.0,-8.0
+Alewife MBTA at Steel Place,10,12.0,8.0,-4.0
+Alewife MBTA at Steel Place,11,11.0,8.0,-3.0
+Alewife MBTA at Steel Place,12,5.0,16.0,11.0
+Alewife MBTA at Steel Place,13,7.0,13.0,6.0
+Alewife MBTA at Steel Place,14,12.0,9.0,-3.0
+Alewife MBTA at Steel Place,15,21.0,8.0,-13.0
+Alewife MBTA at Steel Place,16,41.0,14.0,-27.0
+Alewife MBTA at Steel Place,17,35.0,30.0,-5.0
+Alewife MBTA at Steel Place,18,8.0,7.0,-1.0
+Alewife MBTA at Steel Place,19,3.0,5.0,2.0
+Alewife MBTA at Steel Place,20,23.0,1.0,-22.0
+Alewife MBTA at Steel Place,21,21.0,3.0,-18.0
+Alewife MBTA at Steel Place,22,5.0,0.0,-5.0
+Alewife Station at Russell Field,3,1.0,0.0,-1.0
+Alewife Station at Russell Field,5,8.0,1.0,-7.0
+Alewife Station at Russell Field,7,5.0,0.0,-5.0
+Alewife Station at Russell Field,8,11.0,3.0,-8.0
+Alewife Station at Russell Field,9,10.0,3.0,-7.0
+Alewife Station at Russell Field,10,12.0,1.0,-11.0
+Alewife Station at Russell Field,11,8.0,0.0,-8.0
+Alewife Station at Russell Field,12,10.0,2.0,-8.0
+Alewife Station at Russell Field,13,7.0,9.0,2.0
+Alewife Station at Russell Field,14,5.0,12.0,7.0
+Alewife Station at Russell Field,15,9.0,12.0,3.0
+Alewife Station at Russell Field,16,8.0,29.0,21.0
+Alewife Station at Russell Field,17,7.0,51.0,44.0
+Alewife Station at Russell Field,18,15.0,33.0,18.0
+Alewife Station at Russell Field,19,6.0,9.0,3.0
+Alewife Station at Russell Field,20,1.0,7.0,6.0
+Alewife Station at Russell Field,21,1.0,4.0,3.0
+Alewife Station at Russell Field,22,2.0,3.0,1.0
+Alewife Station at Russell Field,23,3.0,3.0,0.0
+Ames St at Broadway,12,1.0,2.0,1.0
+Ames St at Broadway,13,1.0,0.0,-1.0
+Ames St at Broadway,14,2.0,2.0,0.0
+Ames St at Broadway,16,1.0,1.0,0.0
+Ames St at Broadway,17,2.0,1.0,-1.0
+Ames St at Broadway,18,2.0,1.0,-1.0
+Ames St at Broadway,19,3.0,0.0,-3.0
+Ames St at Broadway,20,1.0,1.0,0.0
+Ames St at Broadway,22,1.0,1.0,0.0
+Ames St at Main St,1,1.0,0.0,-1.0
+Ames St at Main St,10,2.0,2.0,0.0
+Ames St at Main St,11,1.0,3.0,2.0
+Ames St at Main St,12,3.0,2.0,-1.0
+Ames St at Main St,13,1.0,2.0,1.0
+Ames St at Main St,14,4.0,3.0,-1.0
+Ames St at Main St,15,7.0,1.0,-6.0
+Ames St at Main St,16,17.0,1.0,-16.0
+Ames St at Main St,17,20.0,0.0,-20.0
+Ames St at Main St,18,9.0,0.0,-9.0
+Ames St at Main St,19,2.0,5.0,3.0
+Ames St at Main St,20,1.0,2.0,1.0
+Ames St at Main St,21,4.0,1.0,-3.0
+Ames St at Main St,22,6.0,0.0,-6.0
+Ames St at Main St,23,2.0,1.0,-1.0
+Andrew T Stop - Dorchester Ave at Dexter St,12,1.0,0.0,-1.0
+Andrew T Stop - Dorchester Ave at Dexter St,15,1.0,0.0,-1.0
+Aquarium T Stop - 200 Atlantic Ave,0,2.0,0.0,-2.0
+Aquarium T Stop - 200 Atlantic Ave,8,1.0,0.0,-1.0
+Aquarium T Stop - 200 Atlantic Ave,9,1.0,0.0,-1.0
+Aquarium T Stop - 200 Atlantic Ave,15,1.0,1.0,0.0
+Aquarium T Stop - 200 Atlantic Ave,17,2.0,3.0,1.0
+Aquarium T Stop - 200 Atlantic Ave,18,1.0,0.0,-1.0
+Aquarium T Stop - 200 Atlantic Ave,21,5.0,0.0,-5.0
+Aquarium T Stop - 200 Atlantic Ave,22,3.0,0.0,-3.0
+Arch St at Franklin St,9,1.0,1.0,0.0
+Arch St at Franklin St,11,1.0,1.0,0.0
+Arch St at Franklin St,14,2.0,0.0,-2.0
+Arch St at Franklin St,17,1.0,0.0,-1.0
+Arch St at Franklin St,19,1.0,0.0,-1.0
+Arch St at Franklin St,20,1.0,0.0,-1.0
+Arch St at Franklin St,21,2.0,0.0,-2.0
+Arsenal Yards,0,557.0,411.0,-146.0
+Arsenal Yards,1,299.0,264.0,-35.0
+Arsenal Yards,2,198.0,173.0,-25.0
+Arsenal Yards,3,138.0,193.0,55.0
+Arsenal Yards,4,96.0,345.0,249.0
+Arsenal Yards,5,54.0,103.0,49.0
+Arsenal Yards,6,164.0,242.0,78.0
+Arsenal Yards,7,641.0,626.0,-15.0
+Arsenal Yards,8,1013.0,1155.0,142.0
+Arsenal Yards,9,639.0,1007.0,368.0
+Arsenal Yards,10,904.0,1088.0,184.0
+Arsenal Yards,11,1123.0,1419.0,296.0
+Arsenal Yards,12,1503.0,1828.0,325.0
+Arsenal Yards,13,1579.0,1685.0,106.0
+Arsenal Yards,14,1678.0,1823.0,145.0
+Arsenal Yards,15,1761.0,2136.0,375.0
+Arsenal Yards,16,2229.0,2609.0,380.0
+Arsenal Yards,17,2507.0,2818.0,311.0
+Arsenal Yards,18,2468.0,2555.0,87.0
+Arsenal Yards,19,1987.0,1777.0,-210.0
+Arsenal Yards,20,1886.0,1327.0,-559.0
+Arsenal Yards,21,1734.0,1184.0,-550.0
+Arsenal Yards,22,1198.0,894.0,-304.0
+Arsenal Yards,23,821.0,668.0,-153.0
+Arsenal on the Charles,0,11.0,14.0,3.0
+Arsenal on the Charles,1,1.0,1.0,0.0
+Arsenal on the Charles,2,2.0,5.0,3.0
+Arsenal on the Charles,3,2.0,1.0,-1.0
+Arsenal on the Charles,4,9.0,9.0,0.0
+Arsenal on the Charles,5,20.0,24.0,4.0
+Arsenal on the Charles,6,10.0,97.0,87.0
+Arsenal on the Charles,7,49.0,199.0,150.0
+Arsenal on the Charles,8,85.0,311.0,226.0
+Arsenal on the Charles,9,66.0,121.0,55.0
+Arsenal on the Charles,10,92.0,110.0,18.0
+Arsenal on the Charles,11,120.0,105.0,-15.0
+Arsenal on the Charles,12,191.0,203.0,12.0
+Arsenal on the Charles,13,154.0,194.0,40.0
+Arsenal on the Charles,14,181.0,128.0,-53.0
+Arsenal on the Charles,15,257.0,137.0,-120.0
+Arsenal on the Charles,16,288.0,178.0,-110.0
+Arsenal on the Charles,17,333.0,197.0,-136.0
+Arsenal on the Charles,18,184.0,176.0,-8.0
+Arsenal on the Charles,19,173.0,130.0,-43.0
+Arsenal on the Charles,20,110.0,96.0,-14.0
+Arsenal on the Charles,21,69.0,56.0,-13.0
+Arsenal on the Charles,22,72.0,28.0,-44.0
+Arsenal on the Charles,23,22.0,18.0,-4.0
+Assembly Square T,16,1.0,1.0,0.0
+Assembly Square T,17,1.0,2.0,1.0
+Au Bon Pain Way at Fid Kennedy Ave,9,1.0,0.0,-1.0
+Auburn St. at Mystic River,8,1.0,0.0,-1.0
+Auburndale,3,1.0,0.0,-1.0
+Auburndale,8,1.0,2.0,1.0
+Auburndale,10,1.0,1.0,0.0
+Auburndale,11,3.0,1.0,-2.0
+Auburndale,12,1.0,1.0,0.0
+Auburndale,13,2.0,2.0,0.0
+Auburndale,14,1.0,1.0,0.0
+Auburndale,15,1.0,3.0,2.0
+Auburndale,16,2.0,1.0,-1.0
+Auburndale,17,1.0,3.0,2.0
+Auburndale,20,2.0,0.0,-2.0
+B.U. Central - 725 Comm. Ave.,0,1.0,0.0,-1.0
+B.U. Central - 725 Comm. Ave.,1,2.0,0.0,-2.0
+B.U. Central - 725 Comm. Ave.,4,5.0,1.0,-4.0
+B.U. Central - 725 Comm. Ave.,9,4.0,2.0,-2.0
+B.U. Central - 725 Comm. Ave.,10,3.0,3.0,0.0
+B.U. Central - 725 Comm. Ave.,11,8.0,1.0,-7.0
+B.U. Central - 725 Comm. Ave.,12,1.0,7.0,6.0
+B.U. Central - 725 Comm. Ave.,13,2.0,7.0,5.0
+B.U. Central - 725 Comm. Ave.,14,10.0,5.0,-5.0
+B.U. Central - 725 Comm. Ave.,15,11.0,9.0,-2.0
+B.U. Central - 725 Comm. Ave.,16,7.0,5.0,-2.0
+B.U. Central - 725 Comm. Ave.,17,14.0,9.0,-5.0
+B.U. Central - 725 Comm. Ave.,18,8.0,9.0,1.0
+B.U. Central - 725 Comm. Ave.,19,7.0,2.0,-5.0
+B.U. Central - 725 Comm. Ave.,20,5.0,5.0,0.0
+B.U. Central - 725 Comm. Ave.,21,3.0,6.0,3.0
+B.U. Central - 725 Comm. Ave.,22,5.0,1.0,-4.0
+B.U. Central - 725 Comm. Ave.,23,3.0,1.0,-2.0
+Back Bay T Stop - Dartmouth St at Stuart St,7,6.0,4.0,-2.0
+Back Bay T Stop - Dartmouth St at Stuart St,8,3.0,4.0,1.0
+Back Bay T Stop - Dartmouth St at Stuart St,9,2.0,0.0,-2.0
+Back Bay T Stop - Dartmouth St at Stuart St,11,2.0,0.0,-2.0
+Back Bay T Stop - Dartmouth St at Stuart St,12,2.0,0.0,-2.0
+Back Bay T Stop - Dartmouth St at Stuart St,13,1.0,3.0,2.0
+Back Bay T Stop - Dartmouth St at Stuart St,14,3.0,2.0,-1.0
+Back Bay T Stop - Dartmouth St at Stuart St,15,2.0,3.0,1.0
+Back Bay T Stop - Dartmouth St at Stuart St,16,3.0,0.0,-3.0
+Back Bay T Stop - Dartmouth St at Stuart St,20,2.0,0.0,-2.0
+Bacon St at Washington St,2,2.0,3.0,1.0
+Bacon St at Washington St,7,3.0,0.0,-3.0
+Bacon St at Washington St,9,5.0,5.0,0.0
+Bacon St at Washington St,10,1.0,3.0,2.0
+Bacon St at Washington St,11,16.0,4.0,-12.0
+Bacon St at Washington St,12,13.0,6.0,-7.0
+Bacon St at Washington St,13,6.0,16.0,10.0
+Bacon St at Washington St,14,12.0,8.0,-4.0
+Bacon St at Washington St,15,11.0,9.0,-2.0
+Bacon St at Washington St,16,5.0,7.0,2.0
+Bacon St at Washington St,17,9.0,10.0,1.0
+Bacon St at Washington St,18,17.0,11.0,-6.0
+Bacon St at Washington St,19,7.0,15.0,8.0
+Bacon St at Washington St,20,1.0,8.0,7.0
+Bacon St at Washington St,21,2.0,4.0,2.0
+Bacon St at Washington St,22,6.0,5.0,-1.0
+Bacon St at Washington St,23,2.0,3.0,1.0
+Ball Sq,7,5.0,0.0,-5.0
+Ball Sq,8,4.0,0.0,-4.0
+Ball Sq,9,4.0,0.0,-4.0
+Ball Sq,10,2.0,0.0,-2.0
+Ball Sq,13,2.0,1.0,-1.0
+Ball Sq,14,2.0,1.0,-1.0
+Ball Sq,15,1.0,2.0,1.0
+Ball Sq,17,1.0,9.0,8.0
+Ball Sq,18,4.0,4.0,0.0
+Ball Sq,23,1.0,0.0,-1.0
+Bartlett St at John Elliot Sq,16,1.0,0.0,-1.0
+Bartlett St at John Elliot Sq,18,1.0,0.0,-1.0
+Beacon St at Charles St,6,1.0,0.0,-1.0
+Beacon St at Charles St,7,4.0,0.0,-4.0
+Beacon St at Charles St,8,1.0,2.0,1.0
+Beacon St at Charles St,11,1.0,7.0,6.0
+Beacon St at Charles St,12,4.0,4.0,0.0
+Beacon St at Charles St,13,4.0,3.0,-1.0
+Beacon St at Charles St,14,2.0,2.0,0.0
+Beacon St at Charles St,15,3.0,2.0,-1.0
+Beacon St at Charles St,16,5.0,0.0,-5.0
+Beacon St at Charles St,17,8.0,0.0,-8.0
+Beacon St at Charles St,18,5.0,2.0,-3.0
+Beacon St at Charles St,19,4.0,3.0,-1.0
+Beacon St at Charles St,20,2.0,0.0,-2.0
+Beacon St at Charles St,21,3.0,1.0,-2.0
+Beacon St at Charles St,23,1.0,2.0,1.0
+Beacon St at Massachusetts Ave,1,2.0,0.0,-2.0
+Beacon St at Massachusetts Ave,6,1.0,1.0,0.0
+Beacon St at Massachusetts Ave,7,1.0,3.0,2.0
+Beacon St at Massachusetts Ave,8,1.0,1.0,0.0
+Beacon St at Massachusetts Ave,9,1.0,2.0,1.0
+Beacon St at Massachusetts Ave,10,5.0,3.0,-2.0
+Beacon St at Massachusetts Ave,11,6.0,5.0,-1.0
+Beacon St at Massachusetts Ave,12,9.0,10.0,1.0
+Beacon St at Massachusetts Ave,13,8.0,11.0,3.0
+Beacon St at Massachusetts Ave,14,5.0,12.0,7.0
+Beacon St at Massachusetts Ave,15,7.0,14.0,7.0
+Beacon St at Massachusetts Ave,16,9.0,10.0,1.0
+Beacon St at Massachusetts Ave,17,15.0,13.0,-2.0
+Beacon St at Massachusetts Ave,18,4.0,10.0,6.0
+Beacon St at Massachusetts Ave,19,3.0,8.0,5.0
+Beacon St at Massachusetts Ave,20,8.0,6.0,-2.0
+Beacon St at Massachusetts Ave,21,5.0,4.0,-1.0
+Beacon St at Massachusetts Ave,22,6.0,4.0,-2.0
+Beacon St at Massachusetts Ave,23,4.0,0.0,-4.0
+Beacon St at Tappan St,6,1.0,0.0,-1.0
+Beacon St at Tappan St,7,1.0,0.0,-1.0
+Beacon St at Tappan St,8,1.0,1.0,0.0
+Beacon St at Tappan St,10,4.0,1.0,-3.0
+Beacon St at Tappan St,11,2.0,1.0,-1.0
+Beacon St at Tappan St,12,4.0,4.0,0.0
+Beacon St at Tappan St,13,2.0,4.0,2.0
+Beacon St at Tappan St,14,4.0,2.0,-2.0
+Beacon St at Tappan St,16,1.0,3.0,2.0
+Beacon St at Tappan St,18,1.0,4.0,3.0
+Beacon St at Tappan St,20,2.0,1.0,-1.0
+Beacon St at Tappan St,21,3.0,2.0,-1.0
+Beacon St at Washington / Kirkland,7,1.0,0.0,-1.0
+Beacon St at Washington / Kirkland,8,2.0,0.0,-2.0
+Beacon St at Washington / Kirkland,9,3.0,2.0,-1.0
+Beacon St at Washington / Kirkland,10,1.0,2.0,1.0
+Beacon St at Washington / Kirkland,11,26.0,1.0,-25.0
+Beacon St at Washington / Kirkland,12,5.0,1.0,-4.0
+Beacon St at Washington / Kirkland,13,4.0,3.0,-1.0
+Beacon St at Washington / Kirkland,14,3.0,5.0,2.0
+Beacon St at Washington / Kirkland,15,4.0,3.0,-1.0
+Beacon St at Washington / Kirkland,16,3.0,4.0,1.0
+Beacon St at Washington / Kirkland,17,4.0,26.0,22.0
+Beacon St at Washington / Kirkland,18,3.0,4.0,1.0
+Beacon St at Washington / Kirkland,19,2.0,3.0,1.0
+Beacon St at Washington / Kirkland,20,1.0,3.0,2.0
+Beacon St at Washington / Kirkland,21,2.0,7.0,5.0
+Beacon St at Washington / Kirkland,22,1.0,8.0,7.0
+Beacon St at Washington / Kirkland,23,1.0,7.0,6.0
+Beacon at Walnut,9,1.0,0.0,-1.0
+Beacon at Walnut,13,3.0,1.0,-2.0
+Beacon at Walnut,14,3.0,0.0,-3.0
+Beacon at Walnut,19,1.0,4.0,3.0
+Belgrade Ave at Walworth St,7,1.0,0.0,-1.0
+Bellingham Square,4,1.0,0.0,-1.0
+Bellingham Square,9,1.0,0.0,-1.0
+Berkshire Street at Cambridge Street,3,1.0,0.0,-1.0
+Berkshire Street at Cambridge Street,9,2.0,1.0,-1.0
+Berkshire Street at Cambridge Street,10,2.0,1.0,-1.0
+Berkshire Street at Cambridge Street,11,1.0,0.0,-1.0
+Berkshire Street at Cambridge Street,12,1.0,0.0,-1.0
+Berkshire Street at Cambridge Street,14,1.0,1.0,0.0
+Berkshire Street at Cambridge Street,15,1.0,1.0,0.0
+Berkshire Street at Cambridge Street,16,2.0,1.0,-1.0
+Berkshire Street at Cambridge Street,17,4.0,2.0,-2.0
+Berkshire Street at Cambridge Street,18,4.0,5.0,1.0
+Berkshire Street at Cambridge Street,19,2.0,3.0,1.0
+Berkshire Street at Cambridge Street,22,1.0,1.0,0.0
+Berkshire Street at Cambridge Street,23,1.0,3.0,2.0
+Bike Town at Moakley Park,19,1.0,0.0,-1.0
+Binney St / Sixth St,7,4.0,4.0,0.0
+Binney St / Sixth St,8,1.0,141.0,140.0
+Binney St / Sixth St,11,3.0,1.0,-2.0
+Binney St / Sixth St,12,1.0,0.0,-1.0
+Binney St / Sixth St,13,3.0,1.0,-2.0
+Binney St / Sixth St,14,4.0,1.0,-3.0
+Binney St / Sixth St,15,6.0,3.0,-3.0
+Binney St / Sixth St,16,30.0,2.0,-28.0
+Binney St / Sixth St,17,51.0,1.0,-50.0
+Binney St / Sixth St,18,10.0,4.0,-6.0
+Binney St / Sixth St,19,3.0,3.0,0.0
+Binney St / Sixth St,20,1.0,2.0,1.0
+Blossom St at Charles St,0,2.0,0.0,-2.0
+Blossom St at Charles St,4,1.0,0.0,-1.0
+Blossom St at Charles St,7,1.0,6.0,5.0
+Blossom St at Charles St,10,1.0,0.0,-1.0
+Blossom St at Charles St,13,3.0,1.0,-2.0
+Blossom St at Charles St,14,1.0,6.0,5.0
+Blossom St at Charles St,15,4.0,0.0,-4.0
+Blossom St at Charles St,16,1.0,3.0,2.0
+Blossom St at Charles St,18,6.0,2.0,-4.0
+Blossom St at Charles St,22,2.0,0.0,-2.0
+Blossom St at Charles St,23,1.0,0.0,-1.0
+Boston City Hall - 28 State St,5,1.0,0.0,-1.0
+Boston City Hall - 28 State St,11,5.0,4.0,-1.0
+Boston City Hall - 28 State St,12,4.0,0.0,-4.0
+Boston City Hall - 28 State St,13,1.0,1.0,0.0
+Boston City Hall - 28 State St,14,2.0,1.0,-1.0
+Boston City Hall - 28 State St,15,3.0,1.0,-2.0
+Boston City Hall - 28 State St,16,8.0,1.0,-7.0
+Boston City Hall - 28 State St,17,5.0,0.0,-5.0
+Boston City Hall - 28 State St,18,1.0,1.0,0.0
+Boston City Hall - 28 State St,19,3.0,0.0,-3.0
+Boston City Hall - 28 State St,20,2.0,1.0,-1.0
+Boston City Hall - 28 State St,21,3.0,0.0,-3.0
+Boston City Hall - 28 State St,23,1.0,1.0,0.0
+Boston College T,2,3.0,0.0,-3.0
+Boston College T,7,1.0,1.0,0.0
+Boston College T,8,1.0,2.0,1.0
+Boston College T,10,6.0,2.0,-4.0
+Boston College T,11,7.0,7.0,0.0
+Boston College T,12,8.0,7.0,-1.0
+Boston College T,13,15.0,6.0,-9.0
+Boston College T,14,18.0,12.0,-6.0
+Boston College T,15,22.0,7.0,-15.0
+Boston College T,16,35.0,6.0,-29.0
+Boston College T,17,29.0,9.0,-20.0
+Boston College T,18,15.0,8.0,-7.0
+Boston College T,19,11.0,10.0,-1.0
+Boston College T,20,4.0,8.0,4.0
+Boston College T,21,7.0,9.0,2.0
+Boston College T,22,6.0,13.0,7.0
+Boston Convention and Exhibition Center - Summer St at West Side Dr,1,1.0,0.0,-1.0
+Boston Landing,0,13.0,18.0,5.0
+Boston Landing,1,4.0,8.0,4.0
+Boston Landing,2,1.0,15.0,14.0
+Boston Landing,3,1.0,10.0,9.0
+Boston Landing,6,8.0,3.0,-5.0
+Boston Landing,7,60.0,8.0,-52.0
+Boston Landing,8,53.0,61.0,8.0
+Boston Landing,9,30.0,7.0,-23.0
+Boston Landing,10,26.0,11.0,-15.0
+Boston Landing,11,43.0,23.0,-20.0
+Boston Landing,12,37.0,34.0,-3.0
+Boston Landing,13,33.0,34.0,1.0
+Boston Landing,14,42.0,32.0,-10.0
+Boston Landing,15,46.0,28.0,-18.0
+Boston Landing,16,66.0,67.0,1.0
+Boston Landing,17,94.0,74.0,-20.0
+Boston Landing,18,85.0,57.0,-28.0
+Boston Landing,19,56.0,43.0,-13.0
+Boston Landing,20,19.0,72.0,53.0
+Boston Landing,21,21.0,46.0,25.0
+Boston Landing,22,15.0,18.0,3.0
+Boston Landing,23,12.0,16.0,4.0
+Boston Medical Center - E Concord St at Harrison Ave,0,1.0,0.0,-1.0
+Boston Medical Center - E Concord St at Harrison Ave,1,1.0,0.0,-1.0
+Boston Medical Center - E Concord St at Harrison Ave,16,2.0,2.0,0.0
+Boston Medical Center - E Concord St at Harrison Ave,20,1.0,2.0,1.0
+Boston Public Market,16,2.0,0.0,-2.0
+Bowdoin St at Quincy St,1,18.0,1.0,-17.0
+Bowdoin St at Quincy St,2,42.0,0.0,-42.0
+Bowdoin St at Quincy St,3,5.0,4.0,-1.0
+Bowdoin St at Quincy St,4,1.0,1.0,0.0
+Bowdoin St at Quincy St,8,2.0,1.0,-1.0
+Bowdoin St at Quincy St,10,1.0,0.0,-1.0
+Bowdoin St at Quincy St,12,3.0,16.0,13.0
+Bowdoin St at Quincy St,13,1.0,1.0,0.0
+Bowdoin St at Quincy St,17,11.0,0.0,-11.0
+Bowdoin St at Quincy St,18,8.0,0.0,-8.0
+Bowdoin St at Quincy St,19,2.0,2.0,0.0
+Bowdoin St at Quincy St,20,5.0,0.0,-5.0
+Bowdoin St at Quincy St,21,6.0,0.0,-6.0
+Boylston St at Arlington St,1,1.0,0.0,-1.0
+Boylston St at Arlington St,9,1.0,5.0,4.0
+Boylston St at Arlington St,10,1.0,0.0,-1.0
+Boylston St at Arlington St,12,2.0,1.0,-1.0
+Boylston St at Arlington St,13,6.0,4.0,-2.0
+Boylston St at Arlington St,14,1.0,1.0,0.0
+Boylston St at Arlington St,15,3.0,6.0,3.0
+Boylston St at Arlington St,17,1.0,3.0,2.0
+Boylston St at Arlington St,18,1.0,4.0,3.0
+Boylston St at Arlington St,19,2.0,0.0,-2.0
+Boylston St at Arlington St,20,5.0,3.0,-2.0
+Boylston St at Arlington St,21,1.0,2.0,1.0
+Boylston St at Arlington St,23,1.0,0.0,-1.0
+Boylston St at Berkeley St,2,1.0,0.0,-1.0
+Boylston St at Berkeley St,7,1.0,0.0,-1.0
+Boylston St at Berkeley St,8,2.0,0.0,-2.0
+Boylston St at Berkeley St,11,1.0,0.0,-1.0
+Boylston St at Berkeley St,13,4.0,0.0,-4.0
+Boylston St at Berkeley St,14,5.0,0.0,-5.0
+Boylston St at Berkeley St,15,1.0,4.0,3.0
+Boylston St at Berkeley St,16,3.0,3.0,0.0
+Boylston St at Berkeley St,18,1.0,0.0,-1.0
+Boylston St at Berkeley St,20,1.0,0.0,-1.0
+Boylston St at Dartmouth St,4,1.0,0.0,-1.0
+Boylston St at Dartmouth St,9,1.0,1.0,0.0
+Boylston St at Dartmouth St,12,2.0,1.0,-1.0
+Boylston St at Dartmouth St,15,1.0,2.0,1.0
+Boylston St at Dartmouth St,16,2.0,1.0,-1.0
+Boylston St at Dartmouth St,17,1.0,5.0,4.0
+Boylston St at Dartmouth St,18,2.0,0.0,-2.0
+Boylston St at Dartmouth St,19,5.0,1.0,-4.0
+Boylston St at Dartmouth St,23,1.0,0.0,-1.0
+Boylston St at Exeter St,0,1.0,0.0,-1.0
+Boylston St at Exeter St,1,1.0,0.0,-1.0
+Boylston St at Exeter St,7,1.0,1.0,0.0
+Boylston St at Exeter St,8,1.0,1.0,0.0
+Boylston St at Exeter St,9,1.0,0.0,-1.0
+Boylston St at Exeter St,11,4.0,2.0,-2.0
+Boylston St at Exeter St,12,1.0,9.0,8.0
+Boylston St at Exeter St,13,3.0,5.0,2.0
+Boylston St at Exeter St,15,4.0,9.0,5.0
+Boylston St at Exeter St,16,6.0,5.0,-1.0
+Boylston St at Exeter St,17,6.0,3.0,-3.0
+Boylston St at Exeter St,18,5.0,3.0,-2.0
+Boylston St at Exeter St,19,1.0,2.0,1.0
+Boylston St at Exeter St,21,2.0,2.0,0.0
+Boylston St at Exeter St,22,1.0,1.0,0.0
+Boylston St at Fairfield St,0,1.0,1.0,0.0
+Boylston St at Fairfield St,1,1.0,0.0,-1.0
+Boylston St at Fairfield St,2,1.0,0.0,-1.0
+Boylston St at Fairfield St,7,2.0,0.0,-2.0
+Boylston St at Fairfield St,8,1.0,1.0,0.0
+Boylston St at Fairfield St,9,1.0,1.0,0.0
+Boylston St at Fairfield St,10,3.0,2.0,-1.0
+Boylston St at Fairfield St,11,2.0,2.0,0.0
+Boylston St at Fairfield St,12,1.0,2.0,1.0
+Boylston St at Fairfield St,13,2.0,5.0,3.0
+Boylston St at Fairfield St,14,1.0,5.0,4.0
+Boylston St at Fairfield St,15,4.0,4.0,0.0
+Boylston St at Fairfield St,16,1.0,9.0,8.0
+Boylston St at Fairfield St,17,11.0,18.0,7.0
+Boylston St at Fairfield St,18,3.0,3.0,0.0
+Boylston St at Fairfield St,19,1.0,4.0,3.0
+Boylston St at Fairfield St,20,2.0,1.0,-1.0
+Boylston St at Fairfield St,21,1.0,3.0,2.0
+Boylston St at Fairfield St,22,1.0,2.0,1.0
+Boylston St at Jersey St,0,5.0,1.0,-4.0
+Boylston St at Jersey St,1,6.0,0.0,-6.0
+Boylston St at Jersey St,2,1.0,0.0,-1.0
+Boylston St at Jersey St,3,3.0,0.0,-3.0
+Boylston St at Jersey St,7,2.0,0.0,-2.0
+Boylston St at Jersey St,8,4.0,0.0,-4.0
+Boylston St at Jersey St,11,4.0,7.0,3.0
+Boylston St at Jersey St,12,1.0,2.0,1.0
+Boylston St at Jersey St,13,1.0,3.0,2.0
+Boylston St at Jersey St,14,3.0,5.0,2.0
+Boylston St at Jersey St,15,5.0,2.0,-3.0
+Boylston St at Jersey St,16,2.0,5.0,3.0
+Boylston St at Jersey St,17,8.0,10.0,2.0
+Boylston St at Jersey St,18,5.0,4.0,-1.0
+Boylston St at Jersey St,19,2.0,7.0,5.0
+Boylston St at Jersey St,20,4.0,0.0,-4.0
+Boylston St at Jersey St,21,12.0,3.0,-9.0
+Boylston St at Jersey St,22,6.0,3.0,-3.0
+Boylston St at Jersey St,23,5.0,2.0,-3.0
+Boylston St at Massachusetts Ave,0,2.0,3.0,1.0
+Boylston St at Massachusetts Ave,2,2.0,0.0,-2.0
+Boylston St at Massachusetts Ave,4,3.0,0.0,-3.0
+Boylston St at Massachusetts Ave,5,1.0,0.0,-1.0
+Boylston St at Massachusetts Ave,6,1.0,0.0,-1.0
+Boylston St at Massachusetts Ave,7,1.0,3.0,2.0
+Boylston St at Massachusetts Ave,8,20.0,6.0,-14.0
+Boylston St at Massachusetts Ave,9,4.0,3.0,-1.0
+Boylston St at Massachusetts Ave,10,4.0,3.0,-1.0
+Boylston St at Massachusetts Ave,11,2.0,3.0,1.0
+Boylston St at Massachusetts Ave,12,3.0,2.0,-1.0
+Boylston St at Massachusetts Ave,13,5.0,0.0,-5.0
+Boylston St at Massachusetts Ave,14,2.0,1.0,-1.0
+Boylston St at Massachusetts Ave,15,2.0,9.0,7.0
+Boylston St at Massachusetts Ave,16,11.0,6.0,-5.0
+Boylston St at Massachusetts Ave,17,11.0,3.0,-8.0
+Boylston St at Massachusetts Ave,18,12.0,5.0,-7.0
+Boylston St at Massachusetts Ave,19,1.0,0.0,-1.0
+Boylston St at Massachusetts Ave,20,1.0,1.0,0.0
+Boylston St at Massachusetts Ave,22,2.0,1.0,-1.0
+Boylston St at Massachusetts Ave,23,1.0,1.0,0.0
+Boynton Yards at 101 South Street,14,2.0,0.0,-2.0
+Boynton Yards at 101 South Street,15,2.0,0.0,-2.0
+Boynton Yards at 101 South Street,16,32.0,0.0,-32.0
+Boynton Yards at 101 South Street,17,24.0,0.0,-24.0
+Boynton Yards at 101 South Street,18,2.0,0.0,-2.0
+Boynton Yards at 101 South Street,19,2.0,0.0,-2.0
+Brigham Circle - Francis St at Huntington Ave,7,2.0,1.0,-1.0
+Brigham Circle - Francis St at Huntington Ave,8,2.0,25.0,23.0
+Brigham Circle - Francis St at Huntington Ave,10,1.0,2.0,1.0
+Brigham Circle - Francis St at Huntington Ave,11,2.0,1.0,-1.0
+Brigham Circle - Francis St at Huntington Ave,12,2.0,1.0,-1.0
+Brigham Circle - Francis St at Huntington Ave,15,1.0,3.0,2.0
+Brigham Circle - Francis St at Huntington Ave,16,6.0,2.0,-4.0
+Brigham Circle - Francis St at Huntington Ave,17,4.0,2.0,-2.0
+Brigham Circle - Francis St at Huntington Ave,18,2.0,1.0,-1.0
+Brigham Circle - Francis St at Huntington Ave,23,1.0,0.0,-1.0
+Brighton Ave at Linden St,1,2.0,0.0,-2.0
+Brighton Ave at Linden St,6,1.0,0.0,-1.0
+Brighton Ave at Linden St,7,9.0,1.0,-8.0
+Brighton Ave at Linden St,8,10.0,4.0,-6.0
+Brighton Ave at Linden St,9,16.0,2.0,-14.0
+Brighton Ave at Linden St,10,4.0,4.0,0.0
+Brighton Ave at Linden St,11,17.0,9.0,-8.0
+Brighton Ave at Linden St,12,8.0,3.0,-5.0
+Brighton Ave at Linden St,13,9.0,9.0,0.0
+Brighton Ave at Linden St,14,6.0,9.0,3.0
+Brighton Ave at Linden St,15,13.0,12.0,-1.0
+Brighton Ave at Linden St,16,14.0,24.0,10.0
+Brighton Ave at Linden St,17,31.0,15.0,-16.0
+Brighton Ave at Linden St,18,17.0,15.0,-2.0
+Brighton Ave at Linden St,19,17.0,9.0,-8.0
+Brighton Ave at Linden St,20,10.0,5.0,-5.0
+Brighton Ave at Linden St,21,7.0,5.0,-2.0
+Brighton Ave at Linden St,22,1.0,2.0,1.0
+Brighton Ave at Linden St,23,1.0,3.0,2.0
+Brighton Center - Washington St at Cambridge St,0,6.0,9.0,3.0
+Brighton Center - Washington St at Cambridge St,1,4.0,6.0,2.0
+Brighton Center - Washington St at Cambridge St,4,5.0,0.0,-5.0
+Brighton Center - Washington St at Cambridge St,6,5.0,3.0,-2.0
+Brighton Center - Washington St at Cambridge St,7,3.0,2.0,-1.0
+Brighton Center - Washington St at Cambridge St,8,18.0,8.0,-10.0
+Brighton Center - Washington St at Cambridge St,9,11.0,8.0,-3.0
+Brighton Center - Washington St at Cambridge St,10,10.0,11.0,1.0
+Brighton Center - Washington St at Cambridge St,11,33.0,7.0,-26.0
+Brighton Center - Washington St at Cambridge St,12,30.0,15.0,-15.0
+Brighton Center - Washington St at Cambridge St,13,23.0,15.0,-8.0
+Brighton Center - Washington St at Cambridge St,14,50.0,18.0,-32.0
+Brighton Center - Washington St at Cambridge St,15,37.0,18.0,-19.0
+Brighton Center - Washington St at Cambridge St,16,33.0,27.0,-6.0
+Brighton Center - Washington St at Cambridge St,17,36.0,22.0,-14.0
+Brighton Center - Washington St at Cambridge St,18,44.0,38.0,-6.0
+Brighton Center - Washington St at Cambridge St,19,25.0,32.0,7.0
+Brighton Center - Washington St at Cambridge St,20,26.0,22.0,-4.0
+Brighton Center - Washington St at Cambridge St,21,20.0,26.0,6.0
+Brighton Center - Washington St at Cambridge St,22,16.0,26.0,10.0
+Brighton Center - Washington St at Cambridge St,23,13.0,14.0,1.0
+Brighton Mills - 370 Western Ave,0,11.0,22.0,11.0
+Brighton Mills - 370 Western Ave,1,8.0,17.0,9.0
+Brighton Mills - 370 Western Ave,2,2.0,16.0,14.0
+Brighton Mills - 370 Western Ave,6,4.0,4.0,0.0
+Brighton Mills - 370 Western Ave,7,43.0,4.0,-39.0
+Brighton Mills - 370 Western Ave,8,16.0,15.0,-1.0
+Brighton Mills - 370 Western Ave,9,7.0,26.0,19.0
+Brighton Mills - 370 Western Ave,10,19.0,23.0,4.0
+Brighton Mills - 370 Western Ave,11,31.0,26.0,-5.0
+Brighton Mills - 370 Western Ave,12,45.0,54.0,9.0
+Brighton Mills - 370 Western Ave,13,58.0,42.0,-16.0
+Brighton Mills - 370 Western Ave,14,41.0,49.0,8.0
+Brighton Mills - 370 Western Ave,15,64.0,65.0,1.0
+Brighton Mills - 370 Western Ave,16,56.0,85.0,29.0
+Brighton Mills - 370 Western Ave,17,66.0,90.0,24.0
+Brighton Mills - 370 Western Ave,18,51.0,92.0,41.0
+Brighton Mills - 370 Western Ave,19,52.0,71.0,19.0
+Brighton Mills - 370 Western Ave,20,54.0,58.0,4.0
+Brighton Mills - 370 Western Ave,21,40.0,61.0,21.0
+Brighton Mills - 370 Western Ave,22,22.0,38.0,16.0
+Brighton Mills - 370 Western Ave,23,19.0,26.0,7.0
+Broad Canal Way at Third Street,9,1.0,0.0,-1.0
+Broad Canal Way at Third Street,11,1.0,1.0,0.0
+Broad Canal Way at Third Street,12,1.0,0.0,-1.0
+Broad Canal Way at Third Street,15,1.0,1.0,0.0
+Broad Canal Way at Third Street,16,1.0,0.0,-1.0
+Broad Canal Way at Third Street,17,2.0,0.0,-2.0
+Broad Canal Way at Third Street,18,1.0,0.0,-1.0
+Broad Canal Way at Third Street,19,1.0,1.0,0.0
+Broad St at Central St,13,1.0,2.0,1.0
+Broad St at Central St,18,2.0,0.0,-2.0
+Broad St at Central St,19,1.0,1.0,0.0
+Broadway St at Mt Pleasant St,6,1.0,0.0,-1.0
+Broadway St at Mt Pleasant St,19,1.0,2.0,1.0
+Broadway St at Mt Pleasant St,21,1.0,0.0,-1.0
+Broadway T Stop,17,2.0,0.0,-2.0
+Broadway at Beacham St,13,1.0,0.0,-1.0
+Broadway at Beacham St,15,1.0,0.0,-1.0
+Broadway at Beacham St,22,1.0,0.0,-1.0
+Broadway at Central St,6,2.0,0.0,-2.0
+Broadway at Central St,7,4.0,0.0,-4.0
+Broadway at Central St,8,11.0,0.0,-11.0
+Broadway at Central St,9,11.0,3.0,-8.0
+Broadway at Central St,10,2.0,0.0,-2.0
+Broadway at Central St,11,1.0,1.0,0.0
+Broadway at Central St,12,1.0,3.0,2.0
+Broadway at Central St,14,2.0,1.0,-1.0
+Broadway at Central St,15,2.0,0.0,-2.0
+Broadway at Central St,18,2.0,11.0,9.0
+Broadway at Grafton St,8,1.0,0.0,-1.0
+Broadway at Grafton St,10,1.0,1.0,0.0
+Broadway at Grafton St,11,1.0,0.0,-1.0
+Broadway at Grafton St,12,1.0,1.0,0.0
+Broadway at Grafton St,16,1.0,0.0,-1.0
+Broadway at Grafton St,18,1.0,0.0,-1.0
+Broadway at Grafton St,19,1.0,0.0,-1.0
+Broadway at Grafton St,20,2.0,0.0,-2.0
+Broadway at Kittie Knox Bike Path,16,1.0,0.0,-1.0
+Broadway at Kittie Knox Bike Path,17,9.0,0.0,-9.0
+Broadway at Kittie Knox Bike Path,18,1.0,0.0,-1.0
+Broadway at Lynde St,10,1.0,0.0,-1.0
+Broadway at Lynde St,19,1.0,3.0,2.0
+Broadway at Maple St,9,1.0,0.0,-1.0
+Broadway at Maple St,10,8.0,0.0,-8.0
+Broadway at Maple St,11,3.0,0.0,-3.0
+Broadway at Maple St,12,1.0,0.0,-1.0
+Brookline Town Hall,0,1.0,0.0,-1.0
+Brookline Town Hall,6,1.0,0.0,-1.0
+Brookline Town Hall,7,2.0,0.0,-2.0
+Brookline Town Hall,8,3.0,0.0,-3.0
+Brookline Town Hall,9,1.0,1.0,0.0
+Brookline Town Hall,10,1.0,0.0,-1.0
+Brookline Town Hall,11,3.0,0.0,-3.0
+Brookline Town Hall,12,1.0,1.0,0.0
+Brookline Town Hall,13,1.0,0.0,-1.0
+Brookline Town Hall,16,3.0,6.0,3.0
+Brookline Town Hall,17,2.0,22.0,20.0
+Brookline Town Hall,18,1.0,11.0,10.0
+Brookline Town Hall,20,2.0,3.0,1.0
+Brookline Town Hall,22,1.0,1.0,0.0
+Brookline Town Hall,23,3.0,0.0,-3.0
+Brookline Village - Station Street at MBTA,2,1.0,0.0,-1.0
+Brookline Village - Station Street at MBTA,4,1.0,0.0,-1.0
+Brookline Village - Station Street at MBTA,8,3.0,0.0,-3.0
+Brookline Village - Station Street at MBTA,9,1.0,0.0,-1.0
+Brookline Village - Station Street at MBTA,10,1.0,0.0,-1.0
+Brookline Village - Station Street at MBTA,11,2.0,2.0,0.0
+Brookline Village - Station Street at MBTA,12,3.0,0.0,-3.0
+Brookline Village - Station Street at MBTA,13,7.0,2.0,-5.0
+Brookline Village - Station Street at MBTA,15,3.0,3.0,0.0
+Brookline Village - Station Street at MBTA,16,3.0,4.0,1.0
+Brookline Village - Station Street at MBTA,17,3.0,4.0,1.0
+Brookline Village - Station Street at MBTA,18,3.0,3.0,0.0
+Brookline Village - Station Street at MBTA,21,1.0,2.0,1.0
+Brookline Village - Station Street at MBTA,22,6.0,1.0,-5.0
+Brookline Village - Station Street at MBTA,23,4.0,2.0,-2.0
+Bunker Hill Community College,7,1.0,0.0,-1.0
+Bunker Hill Community College,11,1.0,0.0,-1.0
+Bunker Hill Community College,14,1.0,0.0,-1.0
+Burlington Ave at Brookline Ave,1,1.0,0.0,-1.0
+Burlington Ave at Brookline Ave,8,2.0,28.0,26.0
+Burlington Ave at Brookline Ave,10,1.0,7.0,6.0
+Burlington Ave at Brookline Ave,12,1.0,0.0,-1.0
+Burlington Ave at Brookline Ave,14,1.0,4.0,3.0
+Burlington Ave at Brookline Ave,15,1.0,0.0,-1.0
+Burlington Ave at Brookline Ave,16,1.0,0.0,-1.0
+Burlington Ave at Brookline Ave,17,5.0,5.0,0.0
+Burlington Ave at Brookline Ave,18,4.0,2.0,-2.0
+Burlington Ave at Brookline Ave,21,4.0,0.0,-4.0
+Burlington Ave at Brookline Ave,22,2.0,2.0,0.0
+Burlington Ave at Brookline Ave,23,6.0,0.0,-6.0
+California at Chapel,0,1.0,5.0,4.0
+California at Chapel,7,2.0,4.0,2.0
+California at Chapel,8,5.0,7.0,2.0
+California at Chapel,9,10.0,10.0,0.0
+California at Chapel,10,11.0,10.0,-1.0
+California at Chapel,11,8.0,16.0,8.0
+California at Chapel,12,15.0,10.0,-5.0
+California at Chapel,13,10.0,16.0,6.0
+California at Chapel,14,14.0,25.0,11.0
+California at Chapel,15,12.0,28.0,16.0
+California at Chapel,16,24.0,23.0,-1.0
+California at Chapel,17,22.0,25.0,3.0
+California at Chapel,18,28.0,17.0,-11.0
+California at Chapel,19,14.0,17.0,3.0
+California at Chapel,20,8.0,17.0,9.0
+California at Chapel,21,13.0,12.0,-1.0
+California at Chapel,22,4.0,9.0,5.0
+California at Chapel,23,3.0,5.0,2.0
+Cambridge Crossing at North First Street,9,1.0,1.0,0.0
+Cambridge Crossing at North First Street,10,1.0,0.0,-1.0
+Cambridge Crossing at North First Street,12,1.0,1.0,0.0
+Cambridge Crossing at North First Street,13,1.0,3.0,2.0
+Cambridge Crossing at North First Street,14,1.0,2.0,1.0
+Cambridge Crossing at North First Street,18,4.0,3.0,-1.0
+Cambridge Crossing at North First Street,19,1.0,0.0,-1.0
+Cambridge Crossing at North First Street,20,1.0,5.0,4.0
+Cambridge Crossing at North First Street,21,1.0,0.0,-1.0
+Cambridge Crossing at North First Street,22,3.0,0.0,-3.0
+Cambridge Dept. of Public Works -147 Hampshire St.,6,24.0,0.0,-24.0
+Cambridge Dept. of Public Works -147 Hampshire St.,7,2.0,0.0,-2.0
+Cambridge Dept. of Public Works -147 Hampshire St.,8,3.0,0.0,-3.0
+Cambridge Dept. of Public Works -147 Hampshire St.,9,2.0,0.0,-2.0
+Cambridge Dept. of Public Works -147 Hampshire St.,10,1.0,1.0,0.0
+Cambridge Dept. of Public Works -147 Hampshire St.,14,1.0,2.0,1.0
+Cambridge Dept. of Public Works -147 Hampshire St.,15,1.0,1.0,0.0
+Cambridge Dept. of Public Works -147 Hampshire St.,16,1.0,2.0,1.0
+Cambridge Dept. of Public Works -147 Hampshire St.,17,8.0,1.0,-7.0
+Cambridge Dept. of Public Works -147 Hampshire St.,18,3.0,2.0,-1.0
+Cambridge Dept. of Public Works -147 Hampshire St.,19,2.0,0.0,-2.0
+Cambridge Dept. of Public Works -147 Hampshire St.,20,2.0,0.0,-2.0
+Cambridge Dept. of Public Works -147 Hampshire St.,22,1.0,2.0,1.0
+Cambridge Main Library at Broadway / Trowbridge St,1,2.0,0.0,-2.0
+Cambridge Main Library at Broadway / Trowbridge St,9,3.0,0.0,-3.0
+Cambridge Main Library at Broadway / Trowbridge St,10,3.0,2.0,-1.0
+Cambridge Main Library at Broadway / Trowbridge St,11,5.0,2.0,-3.0
+Cambridge Main Library at Broadway / Trowbridge St,12,6.0,8.0,2.0
+Cambridge Main Library at Broadway / Trowbridge St,13,7.0,3.0,-4.0
+Cambridge Main Library at Broadway / Trowbridge St,14,6.0,3.0,-3.0
+Cambridge Main Library at Broadway / Trowbridge St,15,11.0,4.0,-7.0
+Cambridge Main Library at Broadway / Trowbridge St,16,6.0,5.0,-1.0
+Cambridge Main Library at Broadway / Trowbridge St,17,3.0,2.0,-1.0
+Cambridge Main Library at Broadway / Trowbridge St,18,4.0,9.0,5.0
+Cambridge Main Library at Broadway / Trowbridge St,19,8.0,1.0,-7.0
+Cambridge Main Library at Broadway / Trowbridge St,20,6.0,4.0,-2.0
+Cambridge Main Library at Broadway / Trowbridge St,21,1.0,2.0,1.0
+Cambridge Main Library at Broadway / Trowbridge St,23,2.0,0.0,-2.0
+Cambridge St - at Columbia St / Webster Ave,8,1.0,1.0,0.0
+Cambridge St - at Columbia St / Webster Ave,12,3.0,1.0,-2.0
+Cambridge St - at Columbia St / Webster Ave,13,3.0,6.0,3.0
+Cambridge St - at Columbia St / Webster Ave,14,3.0,1.0,-2.0
+Cambridge St - at Columbia St / Webster Ave,15,2.0,2.0,0.0
+Cambridge St - at Columbia St / Webster Ave,16,7.0,3.0,-4.0
+Cambridge St - at Columbia St / Webster Ave,17,4.0,2.0,-2.0
+Cambridge St - at Columbia St / Webster Ave,18,3.0,3.0,0.0
+Cambridge St - at Columbia St / Webster Ave,20,1.0,3.0,2.0
+Cambridge St - at Columbia St / Webster Ave,21,1.0,2.0,1.0
+Cambridge St - at Columbia St / Webster Ave,22,1.0,2.0,1.0
+Cambridge St at Joy St,1,1.0,0.0,-1.0
+Cambridge St at Joy St,6,1.0,0.0,-1.0
+Cambridge St at Joy St,7,1.0,3.0,2.0
+Cambridge St at Joy St,8,1.0,1.0,0.0
+Cambridge St at Joy St,9,4.0,0.0,-4.0
+Cambridge St at Joy St,10,1.0,1.0,0.0
+Cambridge St at Joy St,11,2.0,1.0,-1.0
+Cambridge St at Joy St,12,1.0,2.0,1.0
+Cambridge St at Joy St,14,2.0,5.0,3.0
+Cambridge St at Joy St,16,2.0,5.0,3.0
+Cambridge St at Joy St,17,5.0,3.0,-2.0
+Cambridge St at Joy St,18,2.0,3.0,1.0
+Cambridge St at Joy St,20,2.0,1.0,-1.0
+CambridgeSide Galleria - CambridgeSide PL at Land Blvd,15,1.0,3.0,2.0
+CambridgeSide Galleria - CambridgeSide PL at Land Blvd,16,2.0,0.0,-2.0
+CambridgeSide Galleria - CambridgeSide PL at Land Blvd,17,2.0,0.0,-2.0
+CambridgeSide Galleria - CambridgeSide PL at Land Blvd,19,3.0,0.0,-3.0
+CambridgeSide Galleria - CambridgeSide PL at Land Blvd,20,3.0,1.0,-2.0
+CambridgeSide Galleria - CambridgeSide PL at Land Blvd,21,3.0,0.0,-3.0
+CambridgeSide Galleria - CambridgeSide PL at Land Blvd,22,3.0,2.0,-1.0
+Cambridgeside Pl at Land Blvd,12,1.0,0.0,-1.0
+Cambridgeside Pl at Land Blvd,15,1.0,1.0,0.0
+Cambridgeside Pl at Land Blvd,16,5.0,0.0,-5.0
+Canal St at Causeway St,7,1.0,1.0,0.0
+Canal St at Causeway St,11,7.0,0.0,-7.0
+Canal St at Causeway St,15,3.0,1.0,-2.0
+Canal St at Causeway St,17,1.0,4.0,3.0
+Canal St at Causeway St,18,4.0,0.0,-4.0
+Canal St at Causeway St,19,2.0,0.0,-2.0
+Canal St at Causeway St,20,1.0,0.0,-1.0
+Canal St at Causeway St,21,3.0,2.0,-1.0
+Cary Square,9,2.0,0.0,-2.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,0,4.0,3.0,-1.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,1,4.0,2.0,-2.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,2,3.0,2.0,-1.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,3,1.0,1.0,0.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,4,1.0,0.0,-1.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,6,1.0,0.0,-1.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,7,8.0,2.0,-6.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,8,11.0,10.0,-1.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,9,7.0,5.0,-2.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,10,11.0,4.0,-7.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,11,8.0,2.0,-6.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,12,15.0,13.0,-2.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,13,15.0,23.0,8.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,14,20.0,18.0,-2.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,15,20.0,23.0,3.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,16,18.0,18.0,0.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,17,22.0,28.0,6.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,18,28.0,22.0,-6.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,19,14.0,14.0,0.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,20,11.0,8.0,-3.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,21,16.0,8.0,-8.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,22,9.0,3.0,-6.0
+Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,23,10.0,3.0,-7.0
+Central Square East Boston,6,1.0,0.0,-1.0
+Central Square at Mass Ave / Essex St,0,6.0,0.0,-6.0
+Central Square at Mass Ave / Essex St,1,7.0,7.0,0.0
+Central Square at Mass Ave / Essex St,2,13.0,3.0,-10.0
+Central Square at Mass Ave / Essex St,3,8.0,1.0,-7.0
+Central Square at Mass Ave / Essex St,5,4.0,1.0,-3.0
+Central Square at Mass Ave / Essex St,6,6.0,0.0,-6.0
+Central Square at Mass Ave / Essex St,7,19.0,14.0,-5.0
+Central Square at Mass Ave / Essex St,8,18.0,17.0,-1.0
+Central Square at Mass Ave / Essex St,9,7.0,3.0,-4.0
+Central Square at Mass Ave / Essex St,10,13.0,17.0,4.0
+Central Square at Mass Ave / Essex St,11,9.0,25.0,16.0
+Central Square at Mass Ave / Essex St,12,19.0,20.0,1.0
+Central Square at Mass Ave / Essex St,13,14.0,15.0,1.0
+Central Square at Mass Ave / Essex St,14,24.0,21.0,-3.0
+Central Square at Mass Ave / Essex St,15,19.0,36.0,17.0
+Central Square at Mass Ave / Essex St,16,22.0,25.0,3.0
+Central Square at Mass Ave / Essex St,17,29.0,16.0,-13.0
+Central Square at Mass Ave / Essex St,18,18.0,13.0,-5.0
+Central Square at Mass Ave / Essex St,19,21.0,23.0,2.0
+Central Square at Mass Ave / Essex St,20,20.0,17.0,-3.0
+Central Square at Mass Ave / Essex St,21,16.0,26.0,10.0
+Central Square at Mass Ave / Essex St,22,22.0,14.0,-8.0
+Central Square at Mass Ave / Essex St,23,11.0,13.0,2.0
+Centre St at Allandale St,13,1.0,0.0,-1.0
+Centre St at Commonwealth Ave,15,1.0,3.0,2.0
+Centre St at Commonwealth Ave,16,1.0,1.0,0.0
+Centre St at Commonwealth Ave,17,4.0,0.0,-4.0
+Centre St at Commonwealth Ave,19,1.0,0.0,-1.0
+Centre St at Commonwealth Ave,23,1.0,0.0,-1.0
+Centre St at Seaverns Ave,10,1.0,0.0,-1.0
+Centre St at Seaverns Ave,12,1.0,0.0,-1.0
+Centre St at Seaverns Ave,15,1.0,0.0,-1.0
+Centre St at W. Roxbury Post Office,12,1.0,0.0,-1.0
+Centre St at Washington St,4,1.0,0.0,-1.0
+Centre St at Washington St,8,3.0,0.0,-3.0
+Centre St at Washington St,9,3.0,1.0,-2.0
+Centre St at Washington St,10,1.0,1.0,0.0
+Centre St at Washington St,11,4.0,0.0,-4.0
+Centre St at Washington St,12,4.0,3.0,-1.0
+Centre St at Washington St,13,6.0,0.0,-6.0
+Centre St at Washington St,16,5.0,3.0,-2.0
+Centre St at Washington St,18,7.0,0.0,-7.0
+Centre St at Washington St,19,1.0,0.0,-1.0
+Centre St at Washington St,20,2.0,1.0,-1.0
+Centre St at Washington St,21,4.0,4.0,0.0
+Centre St at Washington St,22,3.0,2.0,-1.0
+Centre St at Washington St,23,1.0,3.0,2.0
+Charles Circle - Charles St at Cambridge St,0,2.0,1.0,-1.0
+Charles Circle - Charles St at Cambridge St,3,1.0,0.0,-1.0
+Charles Circle - Charles St at Cambridge St,6,9.0,14.0,5.0
+Charles Circle - Charles St at Cambridge St,7,30.0,106.0,76.0
+Charles Circle - Charles St at Cambridge St,8,2.0,6.0,4.0
+Charles Circle - Charles St at Cambridge St,9,1.0,2.0,1.0
+Charles Circle - Charles St at Cambridge St,10,4.0,6.0,2.0
+Charles Circle - Charles St at Cambridge St,11,6.0,7.0,1.0
+Charles Circle - Charles St at Cambridge St,12,4.0,10.0,6.0
+Charles Circle - Charles St at Cambridge St,13,3.0,17.0,14.0
+Charles Circle - Charles St at Cambridge St,14,7.0,3.0,-4.0
+Charles Circle - Charles St at Cambridge St,15,12.0,9.0,-3.0
+Charles Circle - Charles St at Cambridge St,16,22.0,12.0,-10.0
+Charles Circle - Charles St at Cambridge St,17,63.0,10.0,-53.0
+Charles Circle - Charles St at Cambridge St,18,36.0,4.0,-32.0
+Charles Circle - Charles St at Cambridge St,19,10.0,9.0,-1.0
+Charles Circle - Charles St at Cambridge St,20,6.0,9.0,3.0
+Charles Circle - Charles St at Cambridge St,21,3.0,6.0,3.0
+Charles Circle - Charles St at Cambridge St,22,8.0,7.0,-1.0
+Charles Circle - Charles St at Cambridge St,23,1.0,0.0,-1.0
+Charles River Greenway - California St. at Fifth Ave,0,1.0,4.0,3.0
+Charles River Greenway - California St. at Fifth Ave,3,2.0,3.0,1.0
+Charles River Greenway - California St. at Fifth Ave,10,1.0,0.0,-1.0
+Charles River Greenway - California St. at Fifth Ave,11,2.0,1.0,-1.0
+Charles River Greenway - California St. at Fifth Ave,12,2.0,1.0,-1.0
+Charles River Greenway - California St. at Fifth Ave,13,1.0,3.0,2.0
+Charles River Greenway - California St. at Fifth Ave,14,1.0,1.0,0.0
+Charles River Greenway - California St. at Fifth Ave,17,1.0,0.0,-1.0
+Charles River Greenway - California St. at Fifth Ave,18,2.0,0.0,-2.0
+Charles River Greenway - California St. at Fifth Ave,19,3.0,2.0,-1.0
+Charles River Greenway - California St. at Fifth Ave,20,4.0,4.0,0.0
+Charles River Greenway - California St. at Fifth Ave,21,3.0,4.0,1.0
+Charles River Greenway - California St. at Fifth Ave,22,4.0,2.0,-2.0
+Charles River Greenway - California St. at Fifth Ave,23,2.0,3.0,1.0
+Charlestown Navy Yard,1,1.0,0.0,-1.0
+Charlestown Navy Yard,6,13.0,1.0,-12.0
+Charlestown Navy Yard,7,4.0,0.0,-4.0
+Charlestown Navy Yard,12,2.0,0.0,-2.0
+Charlestown Navy Yard,15,2.0,0.0,-2.0
+Charlestown Navy Yard,18,1.0,0.0,-1.0
+Charlestown Navy Yard,20,1.0,0.0,-1.0
+Chelsea St at Vine St,10,2.0,0.0,-2.0
+Chelsea St at Vine St,11,1.0,0.0,-1.0
+Chelsea Station,16,1.0,0.0,-1.0
+Chestnut Hill Ave at Ledgemere Rd,6,2.0,0.0,-2.0
+Chestnut Hill Ave at Ledgemere Rd,7,5.0,2.0,-3.0
+Chestnut Hill Ave at Ledgemere Rd,8,5.0,0.0,-5.0
+Chestnut Hill Ave at Ledgemere Rd,9,3.0,2.0,-1.0
+Chestnut Hill Ave at Ledgemere Rd,10,4.0,3.0,-1.0
+Chestnut Hill Ave at Ledgemere Rd,11,5.0,1.0,-4.0
+Chestnut Hill Ave at Ledgemere Rd,12,6.0,3.0,-3.0
+Chestnut Hill Ave at Ledgemere Rd,13,8.0,3.0,-5.0
+Chestnut Hill Ave at Ledgemere Rd,14,3.0,3.0,0.0
+Chestnut Hill Ave at Ledgemere Rd,15,7.0,4.0,-3.0
+Chestnut Hill Ave at Ledgemere Rd,16,5.0,6.0,1.0
+Chestnut Hill Ave at Ledgemere Rd,17,7.0,5.0,-2.0
+Chestnut Hill Ave at Ledgemere Rd,18,3.0,4.0,1.0
+Chestnut Hill Ave at Ledgemere Rd,20,2.0,6.0,4.0
+Child St at North St,20,1.0,0.0,-1.0
+Child Street at Brian P. Murphy Staircase,6,3.0,0.0,-3.0
+Child Street at Brian P. Murphy Staircase,8,1.0,1.0,0.0
+Child Street at Brian P. Murphy Staircase,10,1.0,0.0,-1.0
+Child Street at Brian P. Murphy Staircase,12,7.0,0.0,-7.0
+Child Street at Brian P. Murphy Staircase,19,1.0,1.0,0.0
+Child Street at Brian P. Murphy Staircase,22,1.0,0.0,-1.0
+Chinatown Gate Plaza,3,1.0,0.0,-1.0
+Chinatown Gate Plaza,6,1.0,0.0,-1.0
+Chinatown Gate Plaza,8,1.0,0.0,-1.0
+Chinatown Gate Plaza,15,1.0,1.0,0.0
+Chinatown Gate Plaza,16,1.0,0.0,-1.0
+Chinatown Gate Plaza,17,1.0,0.0,-1.0
+Chinatown Gate Plaza,18,1.0,0.0,-1.0
+Chinatown Gate Plaza,19,1.0,0.0,-1.0
+Chinatown T Stop,7,3.0,3.0,0.0
+Chinatown T Stop,8,1.0,2.0,1.0
+Chinatown T Stop,9,1.0,4.0,3.0
+Chinatown T Stop,14,2.0,3.0,1.0
+Chinatown T Stop,16,1.0,2.0,1.0
+Chinatown T Stop,17,5.0,5.0,0.0
+Chinatown T Stop,18,6.0,0.0,-6.0
+Chinatown T Stop,19,2.0,2.0,0.0
+Chinatown T Stop,20,3.0,0.0,-3.0
+Chinatown T Stop,21,2.0,0.0,-2.0
+Chinatown T Stop,22,1.0,0.0,-1.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,1,1.0,0.0,-1.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,3,2.0,0.0,-2.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,7,9.0,1.0,-8.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,8,64.0,3.0,-61.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,10,1.0,2.0,1.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,11,4.0,1.0,-3.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,12,3.0,8.0,5.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,13,10.0,7.0,-3.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,14,15.0,7.0,-8.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,15,2.0,7.0,5.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,16,13.0,11.0,-2.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,17,12.0,26.0,14.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,18,4.0,10.0,6.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,19,9.0,11.0,2.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,20,2.0,3.0,1.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,21,2.0,7.0,5.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,22,2.0,10.0,8.0
+Christian Science Plaza - Massachusetts Ave at Westland Ave,23,1.0,9.0,8.0
+Church St,0,1.0,0.0,-1.0
+Church St,7,1.0,2.0,1.0
+Church St,8,4.0,5.0,1.0
+Church St,9,1.0,4.0,3.0
+Church St,10,2.0,8.0,6.0
+Church St,11,6.0,13.0,7.0
+Church St,12,4.0,0.0,-4.0
+Church St,13,4.0,5.0,1.0
+Church St,14,5.0,2.0,-3.0
+Church St,15,12.0,0.0,-12.0
+Church St,16,28.0,4.0,-24.0
+Church St,17,14.0,2.0,-12.0
+Church St,18,11.0,3.0,-8.0
+Church St,19,3.0,3.0,0.0
+Church St,20,3.0,1.0,-2.0
+Church St,21,2.0,1.0,-1.0
+Church St,22,4.0,0.0,-4.0
+Clarendon Hill at Broadway,8,1.0,0.0,-1.0
+Clarendon Hill at Broadway,9,1.0,0.0,-1.0
+Clarendon Hill at Broadway,10,2.0,1.0,-1.0
+Clarendon Hill at Broadway,11,2.0,0.0,-2.0
+Clarendon Hill at Broadway,12,2.0,0.0,-2.0
+Clarendon Hill at Broadway,14,1.0,1.0,0.0
+Clarendon Hill at Broadway,16,1.0,0.0,-1.0
+Clarendon Hill at Broadway,18,3.0,2.0,-1.0
+Clarendon Hill at Broadway,19,2.0,3.0,1.0
+Clarendon St at Newbury St,1,1.0,0.0,-1.0
+Clarendon St at Newbury St,7,1.0,1.0,0.0
+Clarendon St at Newbury St,8,2.0,0.0,-2.0
+Clarendon St at Newbury St,11,1.0,1.0,0.0
+Clarendon St at Newbury St,12,2.0,0.0,-2.0
+Clarendon St at Newbury St,14,1.0,2.0,1.0
+Clarendon St at Newbury St,16,3.0,1.0,-2.0
+Clarendon St at Newbury St,17,2.0,3.0,1.0
+Clarendon St at Newbury St,18,1.0,3.0,2.0
+Clarendon St at Newbury St,20,2.0,3.0,1.0
+Clarendon St at Newbury St,22,1.0,0.0,-1.0
+Cleveland Circle,0,2.0,2.0,0.0
+Cleveland Circle,1,1.0,3.0,2.0
+Cleveland Circle,2,1.0,3.0,2.0
+Cleveland Circle,3,3.0,1.0,-2.0
+Cleveland Circle,5,2.0,1.0,-1.0
+Cleveland Circle,6,3.0,0.0,-3.0
+Cleveland Circle,7,3.0,2.0,-1.0
+Cleveland Circle,8,2.0,1.0,-1.0
+Cleveland Circle,9,3.0,0.0,-3.0
+Cleveland Circle,10,5.0,1.0,-4.0
+Cleveland Circle,11,3.0,7.0,4.0
+Cleveland Circle,12,7.0,6.0,-1.0
+Cleveland Circle,13,5.0,4.0,-1.0
+Cleveland Circle,14,2.0,6.0,4.0
+Cleveland Circle,15,11.0,18.0,7.0
+Cleveland Circle,16,4.0,16.0,12.0
+Cleveland Circle,17,6.0,7.0,1.0
+Cleveland Circle,18,6.0,5.0,-1.0
+Cleveland Circle,19,7.0,4.0,-3.0
+Cleveland Circle,20,6.0,5.0,-1.0
+Cleveland Circle,21,2.0,3.0,1.0
+Cleveland Circle,22,7.0,7.0,0.0
+Cleveland Circle,23,6.0,3.0,-3.0
+Clinton St at North St,20,2.0,0.0,-2.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,0,1.0,0.0,-1.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,6,1.0,1.0,0.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,7,1.0,0.0,-1.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,8,1.0,0.0,-1.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,10,1.0,1.0,0.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,15,1.0,1.0,0.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,17,1.0,2.0,1.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,18,1.0,2.0,1.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,20,3.0,2.0,-1.0
+Colleges of the Fenway - Fenway at Avenue Louis Pasteur,21,1.0,0.0,-1.0
+Columbia Rd at Ceylon St,1,6.0,0.0,-6.0
+Columbia Rd at Ceylon St,2,2.0,0.0,-2.0
+Columbia Rd at Ceylon St,3,1.0,0.0,-1.0
+Columbia Rd at Ceylon St,17,2.0,0.0,-2.0
+Columbia Rd at Ceylon St,18,4.0,0.0,-4.0
+Columbia Rd at Ceylon St,20,1.0,0.0,-1.0
+Columbia Rd at Ceylon St,21,5.0,0.0,-5.0
+Columbia Rd at Tierney Community Center,10,1.0,0.0,-1.0
+Columbia Rd at Tierney Community Center,18,1.0,0.0,-1.0
+Columbus Ave at W. Canton St,8,3.0,0.0,-3.0
+Columbus Ave at W. Canton St,10,1.0,2.0,1.0
+Columbus Ave at W. Canton St,12,2.0,0.0,-2.0
+Columbus Ave at W. Canton St,15,1.0,2.0,1.0
+Columbus Ave at W. Canton St,16,4.0,1.0,-3.0
+Columbus Ave at W. Canton St,20,2.0,0.0,-2.0
+Commercial St at Charter St,11,2.0,0.0,-2.0
+Commercial St at Charter St,12,1.0,0.0,-1.0
+Commercial St at Charter St,14,1.0,0.0,-1.0
+Commercial St at Charter St,18,1.0,0.0,-1.0
+Commonwealth Ave At Babcock St,0,5.0,6.0,1.0
+Commonwealth Ave At Babcock St,1,8.0,4.0,-4.0
+Commonwealth Ave At Babcock St,4,3.0,0.0,-3.0
+Commonwealth Ave At Babcock St,6,1.0,1.0,0.0
+Commonwealth Ave At Babcock St,7,1.0,3.0,2.0
+Commonwealth Ave At Babcock St,8,1.0,7.0,6.0
+Commonwealth Ave At Babcock St,9,1.0,4.0,3.0
+Commonwealth Ave At Babcock St,11,2.0,5.0,3.0
+Commonwealth Ave At Babcock St,12,7.0,26.0,19.0
+Commonwealth Ave At Babcock St,13,5.0,7.0,2.0
+Commonwealth Ave At Babcock St,14,4.0,13.0,9.0
+Commonwealth Ave At Babcock St,15,6.0,13.0,7.0
+Commonwealth Ave At Babcock St,16,9.0,26.0,17.0
+Commonwealth Ave At Babcock St,17,7.0,13.0,6.0
+Commonwealth Ave At Babcock St,18,9.0,17.0,8.0
+Commonwealth Ave At Babcock St,19,8.0,7.0,-1.0
+Commonwealth Ave At Babcock St,20,9.0,10.0,1.0
+Commonwealth Ave At Babcock St,21,7.0,13.0,6.0
+Commonwealth Ave At Babcock St,22,4.0,6.0,2.0
+Commonwealth Ave at Agganis Way,0,6.0,4.0,-2.0
+Commonwealth Ave at Agganis Way,1,6.0,1.0,-5.0
+Commonwealth Ave at Agganis Way,2,2.0,1.0,-1.0
+Commonwealth Ave at Agganis Way,3,5.0,2.0,-3.0
+Commonwealth Ave at Agganis Way,5,1.0,0.0,-1.0
+Commonwealth Ave at Agganis Way,6,1.0,1.0,0.0
+Commonwealth Ave at Agganis Way,8,2.0,0.0,-2.0
+Commonwealth Ave at Agganis Way,9,6.0,5.0,-1.0
+Commonwealth Ave at Agganis Way,10,8.0,5.0,-3.0
+Commonwealth Ave at Agganis Way,11,12.0,7.0,-5.0
+Commonwealth Ave at Agganis Way,12,14.0,6.0,-8.0
+Commonwealth Ave at Agganis Way,13,14.0,3.0,-11.0
+Commonwealth Ave at Agganis Way,14,22.0,8.0,-14.0
+Commonwealth Ave at Agganis Way,15,18.0,18.0,0.0
+Commonwealth Ave at Agganis Way,16,31.0,13.0,-18.0
+Commonwealth Ave at Agganis Way,17,33.0,9.0,-24.0
+Commonwealth Ave at Agganis Way,18,27.0,15.0,-12.0
+Commonwealth Ave at Agganis Way,19,11.0,12.0,1.0
+Commonwealth Ave at Agganis Way,20,11.0,11.0,0.0
+Commonwealth Ave at Agganis Way,21,18.0,9.0,-9.0
+Commonwealth Ave at Agganis Way,22,24.0,4.0,-20.0
+Commonwealth Ave at Agganis Way,23,12.0,6.0,-6.0
+Commonwealth Ave at Blandford Mall,11,1.0,0.0,-1.0
+Commonwealth Ave at Blandford Mall,16,1.0,6.0,5.0
+Commonwealth Ave at Blandford Mall,17,1.0,10.0,9.0
+Commonwealth Ave at Blandford Mall,18,2.0,17.0,15.0
+Commonwealth Ave at Chiswick Rd,2,1.0,0.0,-1.0
+Commonwealth Ave at Chiswick Rd,6,1.0,0.0,-1.0
+Commonwealth Ave at Chiswick Rd,7,5.0,0.0,-5.0
+Commonwealth Ave at Chiswick Rd,8,20.0,0.0,-20.0
+Commonwealth Ave at Chiswick Rd,9,9.0,1.0,-8.0
+Commonwealth Ave at Chiswick Rd,10,17.0,1.0,-16.0
+Commonwealth Ave at Chiswick Rd,11,15.0,5.0,-10.0
+Commonwealth Ave at Chiswick Rd,12,39.0,9.0,-30.0
+Commonwealth Ave at Chiswick Rd,13,18.0,3.0,-15.0
+Commonwealth Ave at Chiswick Rd,14,8.0,7.0,-1.0
+Commonwealth Ave at Chiswick Rd,15,7.0,7.0,0.0
+Commonwealth Ave at Chiswick Rd,16,13.0,8.0,-5.0
+Commonwealth Ave at Chiswick Rd,17,14.0,19.0,5.0
+Commonwealth Ave at Chiswick Rd,18,17.0,12.0,-5.0
+Commonwealth Ave at Chiswick Rd,19,8.0,15.0,7.0
+Commonwealth Ave at Chiswick Rd,20,9.0,10.0,1.0
+Commonwealth Ave at Chiswick Rd,21,7.0,27.0,20.0
+Commonwealth Ave at Chiswick Rd,22,9.0,7.0,-2.0
+Commonwealth Ave at Chiswick Rd,23,4.0,3.0,-1.0
+Commonwealth Ave at Fidelis Way,6,1.0,0.0,-1.0
+Commonwealth Ave at Fidelis Way,9,1.0,0.0,-1.0
+Commonwealth Ave at Fidelis Way,11,1.0,0.0,-1.0
+Commonwealth Ave at Fidelis Way,12,2.0,0.0,-2.0
+Commonwealth Ave at Fidelis Way,13,1.0,0.0,-1.0
+Commonwealth Ave at Fidelis Way,16,1.0,0.0,-1.0
+Commonwealth Ave at Granby St,8,6.0,1.0,-5.0
+Commonwealth Ave at Granby St,17,1.0,1.0,0.0
+Commonwealth Ave at Griggs St,0,1.0,4.0,3.0
+Commonwealth Ave at Griggs St,1,2.0,4.0,2.0
+Commonwealth Ave at Griggs St,2,3.0,4.0,1.0
+Commonwealth Ave at Griggs St,3,1.0,0.0,-1.0
+Commonwealth Ave at Griggs St,5,16.0,0.0,-16.0
+Commonwealth Ave at Griggs St,6,11.0,4.0,-7.0
+Commonwealth Ave at Griggs St,7,5.0,13.0,8.0
+Commonwealth Ave at Griggs St,8,9.0,4.0,-5.0
+Commonwealth Ave at Griggs St,9,5.0,4.0,-1.0
+Commonwealth Ave at Griggs St,10,6.0,3.0,-3.0
+Commonwealth Ave at Griggs St,11,7.0,5.0,-2.0
+Commonwealth Ave at Griggs St,12,8.0,8.0,0.0
+Commonwealth Ave at Griggs St,13,10.0,6.0,-4.0
+Commonwealth Ave at Griggs St,14,12.0,12.0,0.0
+Commonwealth Ave at Griggs St,15,16.0,15.0,-1.0
+Commonwealth Ave at Griggs St,16,20.0,13.0,-7.0
+Commonwealth Ave at Griggs St,17,23.0,22.0,-1.0
+Commonwealth Ave at Griggs St,18,20.0,8.0,-12.0
+Commonwealth Ave at Griggs St,19,16.0,20.0,4.0
+Commonwealth Ave at Griggs St,20,7.0,15.0,8.0
+Commonwealth Ave at Griggs St,21,4.0,15.0,11.0
+Commonwealth Ave at Griggs St,22,9.0,8.0,-1.0
+Commonwealth Ave at Griggs St,23,1.0,3.0,2.0
+Commonwealth Ave at Kelton St,0,5.0,5.0,0.0
+Commonwealth Ave at Kelton St,1,2.0,6.0,4.0
+Commonwealth Ave at Kelton St,2,1.0,0.0,-1.0
+Commonwealth Ave at Kelton St,3,67.0,0.0,-67.0
+Commonwealth Ave at Kelton St,4,156.0,1.0,-155.0
+Commonwealth Ave at Kelton St,5,3.0,0.0,-3.0
+Commonwealth Ave at Kelton St,6,4.0,2.0,-2.0
+Commonwealth Ave at Kelton St,7,6.0,2.0,-4.0
+Commonwealth Ave at Kelton St,8,12.0,2.0,-10.0
+Commonwealth Ave at Kelton St,9,22.0,47.0,25.0
+Commonwealth Ave at Kelton St,10,11.0,91.0,80.0
+Commonwealth Ave at Kelton St,11,13.0,41.0,28.0
+Commonwealth Ave at Kelton St,12,11.0,14.0,3.0
+Commonwealth Ave at Kelton St,13,10.0,17.0,7.0
+Commonwealth Ave at Kelton St,14,10.0,16.0,6.0
+Commonwealth Ave at Kelton St,15,11.0,17.0,6.0
+Commonwealth Ave at Kelton St,16,21.0,40.0,19.0
+Commonwealth Ave at Kelton St,17,19.0,42.0,23.0
+Commonwealth Ave at Kelton St,18,13.0,22.0,9.0
+Commonwealth Ave at Kelton St,19,13.0,21.0,8.0
+Commonwealth Ave at Kelton St,20,6.0,16.0,10.0
+Commonwealth Ave at Kelton St,21,10.0,14.0,4.0
+Commonwealth Ave at Kelton St,22,7.0,9.0,2.0
+Commonwealth Ave at Kelton St,23,3.0,4.0,1.0
+Commonwealth Ave at Naples Rd,0,3.0,0.0,-3.0
+Commonwealth Ave at Naples Rd,8,1.0,0.0,-1.0
+Commonwealth Ave at Naples Rd,12,1.0,4.0,3.0
+Commonwealth Ave at Naples Rd,16,3.0,4.0,1.0
+Commonwealth Ave at Naples Rd,17,5.0,7.0,2.0
+Commonwealth Ave at Naples Rd,18,2.0,3.0,1.0
+Commonwealth Ave at Naples Rd,19,4.0,1.0,-3.0
+Commonwealth Ave at Naples Rd,20,4.0,5.0,1.0
+Commonwealth Ave at Naples Rd,22,1.0,3.0,2.0
+Community Path at Cedar Street,6,1.0,0.0,-1.0
+Community Path at Cedar Street,7,2.0,1.0,-1.0
+Community Path at Cedar Street,9,4.0,2.0,-2.0
+Community Path at Cedar Street,10,2.0,3.0,1.0
+Community Path at Cedar Street,11,3.0,0.0,-3.0
+Community Path at Cedar Street,13,1.0,1.0,0.0
+Community Path at Cedar Street,14,2.0,0.0,-2.0
+Community Path at Cedar Street,15,2.0,2.0,0.0
+Community Path at Cedar Street,16,1.0,5.0,4.0
+Community Path at Cedar Street,17,2.0,6.0,4.0
+Community Path at Cedar Street,18,1.0,4.0,3.0
+Community Path at Cedar Street,19,1.0,2.0,1.0
+Community Path at Cedar Street,20,1.0,1.0,0.0
+Community Path at Lowell St,7,3.0,1.0,-2.0
+Community Path at Lowell St,8,5.0,1.0,-4.0
+Community Path at Lowell St,9,1.0,0.0,-1.0
+Community Path at Lowell St,10,1.0,0.0,-1.0
+Community Path at Lowell St,14,1.0,0.0,-1.0
+Community Path at Lowell St,15,12.0,2.0,-10.0
+Community Path at Lowell St,16,4.0,1.0,-3.0
+Community Path at Lowell St,17,4.0,2.0,-2.0
+Community Path at Lowell St,18,2.0,1.0,-1.0
+Community Path at Lowell St,20,1.0,2.0,1.0
+Community Path at Lowell St,21,2.0,1.0,-1.0
+Concord Ave at Spinelli Place,3,1.0,0.0,-1.0
+Concord Ave at Spinelli Place,6,2.0,0.0,-2.0
+Concord Ave at Spinelli Place,7,13.0,13.0,0.0
+Concord Ave at Spinelli Place,8,70.0,7.0,-63.0
+Concord Ave at Spinelli Place,9,14.0,4.0,-10.0
+Concord Ave at Spinelli Place,10,9.0,3.0,-6.0
+Concord Ave at Spinelli Place,11,7.0,6.0,-1.0
+Concord Ave at Spinelli Place,12,6.0,10.0,4.0
+Concord Ave at Spinelli Place,13,5.0,10.0,5.0
+Concord Ave at Spinelli Place,14,5.0,14.0,9.0
+Concord Ave at Spinelli Place,15,14.0,11.0,-3.0
+Concord Ave at Spinelli Place,16,22.0,29.0,7.0
+Concord Ave at Spinelli Place,17,10.0,58.0,48.0
+Concord Ave at Spinelli Place,18,9.0,9.0,0.0
+Concord Ave at Spinelli Place,19,4.0,13.0,9.0
+Concord Ave at Spinelli Place,20,1.0,2.0,1.0
+Concord Ave at Spinelli Place,21,8.0,5.0,-3.0
+Concord Ave at Spinelli Place,22,5.0,3.0,-2.0
+Concord Ave at Spinelli Place,23,2.0,2.0,0.0
+Congress St at Boston City Hall,0,1.0,0.0,-1.0
+Congress St at Boston City Hall,13,1.0,0.0,-1.0
+Congress St at Boston City Hall,16,2.0,1.0,-1.0
+Congress St at Boston City Hall,17,2.0,0.0,-2.0
+Congress St at Boston City Hall,18,1.0,2.0,1.0
+Congress St at Boston City Hall,20,3.0,0.0,-3.0
+Congress St at Boston City Hall,21,1.0,0.0,-1.0
+Congress St at Boston City Hall,23,2.0,0.0,-2.0
+Congress St at Northern Ave,8,2.0,0.0,-2.0
+Congress St at Northern Ave,11,1.0,0.0,-1.0
+Congress St at Northern Ave,16,1.0,0.0,-1.0
+Congress St at Northern Ave,19,1.0,0.0,-1.0
+Congress St at Sleeper St,17,1.0,0.0,-1.0
+Congress St at Sleeper St,21,1.0,0.0,-1.0
+Constitution Rd at Chelsea St,16,1.0,0.0,-1.0
+Conway Park - Somerville Avenue,3,1.0,0.0,-1.0
+Conway Park - Somerville Avenue,4,1.0,0.0,-1.0
+Conway Park - Somerville Avenue,9,3.0,0.0,-3.0
+Conway Park - Somerville Avenue,10,5.0,0.0,-5.0
+Conway Park - Somerville Avenue,13,2.0,1.0,-1.0
+Conway Park - Somerville Avenue,14,16.0,4.0,-12.0
+Conway Park - Somerville Avenue,15,3.0,2.0,-1.0
+Conway Park - Somerville Avenue,16,4.0,7.0,3.0
+Conway Park - Somerville Avenue,17,3.0,9.0,6.0
+Conway Park - Somerville Avenue,18,2.0,4.0,2.0
+Conway Park - Somerville Avenue,19,1.0,2.0,1.0
+Coolidge Corner - Beacon St at Centre St,6,2.0,0.0,-2.0
+Coolidge Corner - Beacon St at Centre St,7,6.0,0.0,-6.0
+Coolidge Corner - Beacon St at Centre St,8,12.0,1.0,-11.0
+Coolidge Corner - Beacon St at Centre St,9,3.0,2.0,-1.0
+Coolidge Corner - Beacon St at Centre St,10,4.0,3.0,-1.0
+Coolidge Corner - Beacon St at Centre St,11,11.0,1.0,-10.0
+Coolidge Corner - Beacon St at Centre St,12,11.0,5.0,-6.0
+Coolidge Corner - Beacon St at Centre St,13,7.0,2.0,-5.0
+Coolidge Corner - Beacon St at Centre St,14,2.0,9.0,7.0
+Coolidge Corner - Beacon St at Centre St,15,1.0,13.0,12.0
+Coolidge Corner - Beacon St at Centre St,16,8.0,10.0,2.0
+Coolidge Corner - Beacon St at Centre St,17,4.0,11.0,7.0
+Coolidge Corner - Beacon St at Centre St,18,11.0,5.0,-6.0
+Coolidge Corner - Beacon St at Centre St,19,6.0,5.0,-1.0
+Coolidge Corner - Beacon St at Centre St,20,6.0,7.0,1.0
+Coolidge Corner - Beacon St at Centre St,21,2.0,4.0,2.0
+Coolidge Corner - Beacon St at Centre St,22,1.0,3.0,2.0
+Coolidge Corner - Beacon St at Centre St,23,1.0,4.0,3.0
+Coolidge Sq.,0,8.0,8.0,0.0
+Coolidge Sq.,1,1.0,4.0,3.0
+Coolidge Sq.,4,38.0,0.0,-38.0
+Coolidge Sq.,5,8.0,2.0,-6.0
+Coolidge Sq.,6,13.0,3.0,-10.0
+Coolidge Sq.,7,46.0,2.0,-44.0
+Coolidge Sq.,8,23.0,10.0,-13.0
+Coolidge Sq.,9,37.0,18.0,-19.0
+Coolidge Sq.,10,40.0,25.0,-15.0
+Coolidge Sq.,11,52.0,22.0,-30.0
+Coolidge Sq.,12,102.0,33.0,-69.0
+Coolidge Sq.,13,62.0,36.0,-26.0
+Coolidge Sq.,14,54.0,52.0,-2.0
+Coolidge Sq.,15,78.0,47.0,-31.0
+Coolidge Sq.,16,91.0,62.0,-29.0
+Coolidge Sq.,17,56.0,50.0,-6.0
+Coolidge Sq.,18,41.0,74.0,33.0
+Coolidge Sq.,19,32.0,65.0,33.0
+Coolidge Sq.,20,26.0,70.0,44.0
+Coolidge Sq.,21,31.0,137.0,106.0
+Coolidge Sq.,22,12.0,72.0,60.0
+Coolidge Sq.,23,7.0,23.0,16.0
+Copley Square - Dartmouth St at Boylston St,7,3.0,2.0,-1.0
+Copley Square - Dartmouth St at Boylston St,8,5.0,0.0,-5.0
+Copley Square - Dartmouth St at Boylston St,10,1.0,0.0,-1.0
+Copley Square - Dartmouth St at Boylston St,11,1.0,3.0,2.0
+Copley Square - Dartmouth St at Boylston St,14,2.0,2.0,0.0
+Copley Square - Dartmouth St at Boylston St,15,2.0,3.0,1.0
+Copley Square - Dartmouth St at Boylston St,16,2.0,8.0,6.0
+Copley Square - Dartmouth St at Boylston St,17,4.0,2.0,-2.0
+Copley Square - Dartmouth St at Boylston St,19,2.0,0.0,-2.0
+Copley Square - Dartmouth St at Boylston St,20,2.0,0.0,-2.0
+Copley Square - Dartmouth St at Boylston St,21,4.0,2.0,-2.0
+Copley Square - Dartmouth St at Boylston St,22,2.0,2.0,0.0
+Craigie & Summer at Conway Park (Temp. Winter Location),10,1.0,0.0,-1.0
+Craigie St at Summer St,18,1.0,0.0,-1.0
+Craigie St at Summer St,19,1.0,0.0,-1.0
+Craigie at Summer St,16,1.0,0.0,-1.0
+Craigie at Summer St,18,1.0,0.0,-1.0
+Craigie at Summer St,19,1.0,0.0,-1.0
+Cross St at Hanover St,0,2.0,0.0,-2.0
+Cross St at Hanover St,1,2.0,0.0,-2.0
+Cross St at Hanover St,2,2.0,0.0,-2.0
+Cross St at Hanover St,5,2.0,0.0,-2.0
+Cross St at Hanover St,13,2.0,2.0,0.0
+Cross St at Hanover St,15,4.0,0.0,-4.0
+Cross St at Hanover St,16,4.0,4.0,0.0
+Cross St at Hanover St,17,4.0,2.0,-2.0
+Cross St at Hanover St,18,5.0,2.0,-3.0
+Cross St at Hanover St,19,1.0,0.0,-1.0
+Cross St at Hanover St,22,1.0,0.0,-1.0
+Curtis Hall - South St at Centre St,13,1.0,0.0,-1.0
+Cypress St at Clark Playground,11,1.0,0.0,-1.0
+Cypress St at Clark Playground,14,2.0,2.0,0.0
+Cypress St at Clark Playground,15,1.0,0.0,-1.0
+Damrell St at Old Colony,5,2.0,0.0,-2.0
+Damrell St at Old Colony,17,1.0,0.0,-1.0
+Dana Park,0,3.0,1.0,-2.0
+Dana Park,1,2.0,0.0,-2.0
+Dana Park,4,1.0,0.0,-1.0
+Dana Park,6,1.0,0.0,-1.0
+Dana Park,7,1.0,0.0,-1.0
+Dana Park,9,4.0,1.0,-3.0
+Dana Park,10,3.0,1.0,-2.0
+Dana Park,11,6.0,3.0,-3.0
+Dana Park,12,3.0,3.0,0.0
+Dana Park,13,4.0,3.0,-1.0
+Dana Park,14,2.0,4.0,2.0
+Dana Park,15,2.0,7.0,5.0
+Dana Park,16,5.0,14.0,9.0
+Dana Park,17,6.0,5.0,-1.0
+Dana Park,18,4.0,9.0,5.0
+Dana Park,19,1.0,5.0,4.0
+Dana Park,20,2.0,7.0,5.0
+Dana Park,21,5.0,2.0,-3.0
+Dana Park,22,2.0,4.0,2.0
+Dana Park,23,3.0,2.0,-1.0
+Danehy Park,0,1.0,3.0,2.0
+Danehy Park,5,2.0,0.0,-2.0
+Danehy Park,8,3.0,1.0,-2.0
+Danehy Park,9,4.0,2.0,-2.0
+Danehy Park,10,4.0,2.0,-2.0
+Danehy Park,11,2.0,2.0,0.0
+Danehy Park,12,9.0,1.0,-8.0
+Danehy Park,13,6.0,2.0,-4.0
+Danehy Park,14,7.0,5.0,-2.0
+Danehy Park,15,8.0,2.0,-6.0
+Danehy Park,16,7.0,6.0,-1.0
+Danehy Park,17,9.0,3.0,-6.0
+Danehy Park,18,9.0,5.0,-4.0
+Danehy Park,19,3.0,7.0,4.0
+Danehy Park,20,3.0,5.0,2.0
+Danehy Park,22,1.0,1.0,0.0
+Danehy Park,23,1.0,1.0,0.0
+Danehy Park at New Street,0,3.0,1.0,-2.0
+Danehy Park at New Street,8,3.0,7.0,4.0
+Danehy Park at New Street,9,4.0,6.0,2.0
+Danehy Park at New Street,10,6.0,5.0,-1.0
+Danehy Park at New Street,11,4.0,11.0,7.0
+Danehy Park at New Street,12,8.0,17.0,9.0
+Danehy Park at New Street,13,22.0,19.0,-3.0
+Danehy Park at New Street,14,15.0,15.0,0.0
+Danehy Park at New Street,15,23.0,17.0,-6.0
+Danehy Park at New Street,16,25.0,19.0,-6.0
+Danehy Park at New Street,17,27.0,23.0,-4.0
+Danehy Park at New Street,18,29.0,20.0,-9.0
+Danehy Park at New Street,19,27.0,16.0,-11.0
+Danehy Park at New Street,20,10.0,10.0,0.0
+Danehy Park at New Street,21,4.0,16.0,12.0
+Danehy Park at New Street,22,4.0,30.0,26.0
+Danehy Park at New Street,23,4.0,4.0,0.0
+Dartmouth St at Newbury St,0,1.0,0.0,-1.0
+Dartmouth St at Newbury St,1,2.0,0.0,-2.0
+Dartmouth St at Newbury St,3,1.0,0.0,-1.0
+Dartmouth St at Newbury St,6,1.0,0.0,-1.0
+Dartmouth St at Newbury St,8,1.0,0.0,-1.0
+Dartmouth St at Newbury St,9,1.0,1.0,0.0
+Dartmouth St at Newbury St,12,2.0,0.0,-2.0
+Dartmouth St at Newbury St,13,2.0,1.0,-1.0
+Dartmouth St at Newbury St,14,4.0,1.0,-3.0
+Dartmouth St at Newbury St,15,4.0,4.0,0.0
+Dartmouth St at Newbury St,16,3.0,4.0,1.0
+Dartmouth St at Newbury St,17,1.0,6.0,5.0
+Dartmouth St at Newbury St,18,3.0,0.0,-3.0
+Dartmouth St at Newbury St,19,3.0,1.0,-2.0
+Dartmouth St at Newbury St,20,6.0,0.0,-6.0
+Dartmouth St at Newbury St,21,2.0,5.0,3.0
+Dartmouth St at Newbury St,22,3.0,1.0,-2.0
+Dartmouth St at Newbury St,23,1.0,0.0,-1.0
+Davis Square,0,2.0,0.0,-2.0
+Davis Square,1,1.0,3.0,2.0
+Davis Square,2,1.0,0.0,-1.0
+Davis Square,7,26.0,1.0,-25.0
+Davis Square,8,38.0,0.0,-38.0
+Davis Square,9,7.0,5.0,-2.0
+Davis Square,10,8.0,1.0,-7.0
+Davis Square,11,3.0,4.0,1.0
+Davis Square,12,9.0,13.0,4.0
+Davis Square,13,15.0,13.0,-2.0
+Davis Square,14,10.0,9.0,-1.0
+Davis Square,15,12.0,6.0,-6.0
+Davis Square,16,6.0,18.0,12.0
+Davis Square,17,10.0,35.0,25.0
+Davis Square,18,17.0,13.0,-4.0
+Davis Square,19,5.0,17.0,12.0
+Davis Square,20,5.0,11.0,6.0
+Davis Square,21,3.0,9.0,6.0
+Davis Square,22,7.0,7.0,0.0
+Davis Square,23,5.0,4.0,-1.0
+Deerfield St at Commonwealth Ave,0,2.0,0.0,-2.0
+Deerfield St at Commonwealth Ave,1,1.0,0.0,-1.0
+Deerfield St at Commonwealth Ave,2,3.0,0.0,-3.0
+Deerfield St at Commonwealth Ave,4,1.0,0.0,-1.0
+Deerfield St at Commonwealth Ave,8,1.0,3.0,2.0
+Deerfield St at Commonwealth Ave,9,3.0,6.0,3.0
+Deerfield St at Commonwealth Ave,10,3.0,1.0,-2.0
+Deerfield St at Commonwealth Ave,11,3.0,6.0,3.0
+Deerfield St at Commonwealth Ave,12,2.0,0.0,-2.0
+Deerfield St at Commonwealth Ave,13,3.0,5.0,2.0
+Deerfield St at Commonwealth Ave,14,7.0,2.0,-5.0
+Deerfield St at Commonwealth Ave,15,3.0,3.0,0.0
+Deerfield St at Commonwealth Ave,16,14.0,2.0,-12.0
+Deerfield St at Commonwealth Ave,17,20.0,4.0,-16.0
+Deerfield St at Commonwealth Ave,18,10.0,2.0,-8.0
+Deerfield St at Commonwealth Ave,21,9.0,3.0,-6.0
+Deerfield St at Commonwealth Ave,22,6.0,1.0,-5.0
+Deerfield St at Commonwealth Ave,23,5.0,1.0,-4.0
+Discovery Park - 30 Acorn Park Drive,7,2.0,3.0,1.0
+Discovery Park - 30 Acorn Park Drive,8,1.0,3.0,2.0
+Discovery Park - 30 Acorn Park Drive,10,1.0,1.0,0.0
+Discovery Park - 30 Acorn Park Drive,11,4.0,2.0,-2.0
+Discovery Park - 30 Acorn Park Drive,12,4.0,4.0,0.0
+Discovery Park - 30 Acorn Park Drive,13,1.0,5.0,4.0
+Discovery Park - 30 Acorn Park Drive,14,3.0,1.0,-2.0
+Discovery Park - 30 Acorn Park Drive,15,4.0,3.0,-1.0
+Discovery Park - 30 Acorn Park Drive,16,9.0,8.0,-1.0
+Discovery Park - 30 Acorn Park Drive,17,3.0,5.0,2.0
+Discovery Park - 30 Acorn Park Drive,18,4.0,3.0,-1.0
+Discovery Park - 30 Acorn Park Drive,19,1.0,4.0,3.0
+Discovery Park - 30 Acorn Park Drive,20,2.0,1.0,-1.0
+Discovery Park - 30 Acorn Park Drive,21,1.0,2.0,1.0
+Dorchester Ave at Gillette Park,15,1.0,0.0,-1.0
+E Cottage St at Columbia Rd,7,1.0,0.0,-1.0
+E Cottage St at Columbia Rd,18,1.0,0.0,-1.0
+EF - North Point Park,6,1.0,0.0,-1.0
+EF - North Point Park,11,2.0,1.0,-1.0
+EF - North Point Park,12,1.0,2.0,1.0
+EF - North Point Park,13,1.0,0.0,-1.0
+EF - North Point Park,16,1.0,2.0,1.0
+EF - North Point Park,17,6.0,1.0,-5.0
+EF - North Point Park,18,2.0,0.0,-2.0
+EF - North Point Park,19,1.0,3.0,2.0
+East Somerville Library (Broadway and Illinois),7,1.0,0.0,-1.0
+East Somerville Library (Broadway and Illinois),8,1.0,0.0,-1.0
+East Somerville Library (Broadway and Illinois),10,1.0,0.0,-1.0
+East Somerville Library (Broadway and Illinois),11,2.0,0.0,-2.0
+East Somerville Library (Broadway and Illinois),13,2.0,0.0,-2.0
+East Somerville Library (Broadway and Illinois),16,2.0,0.0,-2.0
+Edgerly Education Center,5,10.0,1.0,-9.0
+Edgerly Education Center,6,5.0,0.0,-5.0
+Edgerly Education Center,8,11.0,0.0,-11.0
+Edgerly Education Center,10,1.0,0.0,-1.0
+Edgerly Education Center,11,5.0,0.0,-5.0
+Edgerly Education Center,12,24.0,0.0,-24.0
+Edgerly Education Center,13,8.0,0.0,-8.0
+Edgerly Education Center,14,7.0,1.0,-6.0
+Edgerly Education Center,15,1.0,2.0,1.0
+Edgerly Education Center,16,2.0,1.0,-1.0
+Edgerly Education Center,18,2.0,2.0,0.0
+Edgerly Education Center,19,4.0,1.0,-3.0
+Edgerly Education Center,20,1.0,7.0,6.0
+Edwards Playground - Main St at Eden St,17,1.0,0.0,-1.0
+Elevate at One Leighton,9,2.0,0.0,-2.0
+Elevate at One Leighton,16,1.0,0.0,-1.0
+Elevate at One Leighton,17,1.0,0.0,-1.0
+Elevate at One Leighton,20,1.0,0.0,-1.0
+Elevate at One Leighton,21,2.0,0.0,-2.0
+Elm St at White St,6,1.0,0.0,-1.0
+Elm St at White St,7,6.0,0.0,-6.0
+Elm St at White St,9,1.0,0.0,-1.0
+Elm St at White St,12,2.0,3.0,1.0
+Elm St at White St,13,3.0,1.0,-2.0
+Elm St at White St,14,3.0,1.0,-2.0
+Elm St at White St,15,1.0,2.0,1.0
+Elm St at White St,16,2.0,3.0,1.0
+Elm St at White St,17,2.0,5.0,3.0
+Elm St at White St,19,1.0,4.0,3.0
+Elm St at White St,21,2.0,3.0,1.0
+Elm St at White St,22,1.0,3.0,2.0
+Everett Square (Broadway at Chelsea St),10,1.0,0.0,-1.0
+Everett Square (Broadway at Chelsea St),11,1.0,0.0,-1.0
+Everett Square (Broadway at Norwood St),9,1.0,0.0,-1.0
+Everett Square (Broadway at Norwood St),13,1.0,0.0,-1.0
+Everett Square (Broadway at Norwood St),14,1.0,0.0,-1.0
+Fan Pier,1,1.0,0.0,-1.0
+Fan Pier,14,1.0,0.0,-1.0
+Fan Pier,21,1.0,0.0,-1.0
+Faneuil St at Arlington St,0,2.0,6.0,4.0
+Faneuil St at Arlington St,1,2.0,7.0,5.0
+Faneuil St at Arlington St,5,2.0,0.0,-2.0
+Faneuil St at Arlington St,7,1.0,0.0,-1.0
+Faneuil St at Arlington St,8,5.0,1.0,-4.0
+Faneuil St at Arlington St,11,3.0,0.0,-3.0
+Faneuil St at Arlington St,12,2.0,1.0,-1.0
+Faneuil St at Arlington St,13,3.0,3.0,0.0
+Faneuil St at Arlington St,15,4.0,4.0,0.0
+Faneuil St at Arlington St,16,6.0,7.0,1.0
+Faneuil St at Arlington St,17,6.0,3.0,-3.0
+Faneuil St at Arlington St,18,3.0,7.0,4.0
+Faneuil St at Arlington St,19,6.0,7.0,1.0
+Faneuil St at Arlington St,20,4.0,6.0,2.0
+Faneuil St at Arlington St,21,13.0,7.0,-6.0
+Faneuil St at Arlington St,22,14.0,8.0,-6.0
+Faneuil St at Arlington St,23,1.0,4.0,3.0
+Faneuil St at Bothwell Rd,11,1.0,0.0,-1.0
+Faneuil St at Bothwell Rd,12,2.0,1.0,-1.0
+Faneuil St at Bothwell Rd,15,1.0,0.0,-1.0
+Faneuil St at Bothwell Rd,17,1.0,1.0,0.0
+Foley St at Grand Union Blvd,5,1.0,0.0,-1.0
+Foley St at Grand Union Blvd,14,1.0,0.0,-1.0
+Foley St at Grand Union Blvd,18,1.0,1.0,0.0
+Foley St at Grand Union Blvd,19,2.0,0.0,-2.0
+Foley St at Grand Union Blvd,20,1.0,0.0,-1.0
+Foley St at Grand Union Blvd,21,2.0,0.0,-2.0
+Forest Hills,1,3.0,0.0,-3.0
+Forest Hills,2,4.0,0.0,-4.0
+Forest Hills,8,4.0,0.0,-4.0
+Forest Hills,13,1.0,0.0,-1.0
+Forest Hills,16,1.0,5.0,4.0
+Forest Hills,18,1.0,2.0,1.0
+Forest Hills,21,1.0,2.0,1.0
+Forsyth St at Huntington Ave,5,1.0,0.0,-1.0
+Forsyth St at Huntington Ave,7,2.0,0.0,-2.0
+Forsyth St at Huntington Ave,8,16.0,0.0,-16.0
+Forsyth St at Huntington Ave,10,1.0,2.0,1.0
+Forsyth St at Huntington Ave,13,3.0,0.0,-3.0
+Forsyth St at Huntington Ave,14,1.0,6.0,5.0
+Forsyth St at Huntington Ave,15,1.0,2.0,1.0
+Forsyth St at Huntington Ave,19,1.0,1.0,0.0
+Forsyth St at Huntington Ave,22,1.0,0.0,-1.0
+Foss Park,17,1.0,1.0,0.0
+Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave,18,1.0,0.0,-1.0
+Franklin St at Cambridge St,17,1.0,0.0,-1.0
+Franklin St at Cambridge St,18,2.0,0.0,-2.0
+Fresh Pond Reservation,0,1.0,5.0,4.0
+Fresh Pond Reservation,2,1.0,0.0,-1.0
+Fresh Pond Reservation,6,3.0,4.0,1.0
+Fresh Pond Reservation,7,13.0,5.0,-8.0
+Fresh Pond Reservation,8,33.0,13.0,-20.0
+Fresh Pond Reservation,9,22.0,11.0,-11.0
+Fresh Pond Reservation,10,19.0,17.0,-2.0
+Fresh Pond Reservation,11,40.0,28.0,-12.0
+Fresh Pond Reservation,12,69.0,25.0,-44.0
+Fresh Pond Reservation,13,35.0,42.0,7.0
+Fresh Pond Reservation,14,30.0,53.0,23.0
+Fresh Pond Reservation,15,49.0,40.0,-9.0
+Fresh Pond Reservation,16,58.0,47.0,-11.0
+Fresh Pond Reservation,17,67.0,53.0,-14.0
+Fresh Pond Reservation,18,48.0,41.0,-7.0
+Fresh Pond Reservation,19,39.0,26.0,-13.0
+Fresh Pond Reservation,20,18.0,17.0,-1.0
+Fresh Pond Reservation,21,22.0,18.0,-4.0
+Fresh Pond Reservation,22,9.0,18.0,9.0
+Fresh Pond Reservation,23,6.0,14.0,8.0
+Galen St at Watertown St,4,2.0,0.0,-2.0
+Galen St at Watertown St,8,1.0,4.0,3.0
+Galen St at Watertown St,9,1.0,2.0,1.0
+Galen St at Watertown St,10,5.0,0.0,-5.0
+Galen St at Watertown St,11,4.0,2.0,-2.0
+Galen St at Watertown St,12,1.0,2.0,1.0
+Galen St at Watertown St,13,2.0,4.0,2.0
+Galen St at Watertown St,14,8.0,4.0,-4.0
+Galen St at Watertown St,15,2.0,2.0,0.0
+Galen St at Watertown St,16,5.0,4.0,-1.0
+Galen St at Watertown St,17,8.0,0.0,-8.0
+Galen St at Watertown St,18,9.0,1.0,-8.0
+Galen St at Watertown St,19,5.0,3.0,-2.0
+Galileo Galilei Way at Fulkerson St/Binney St,11,1.0,1.0,0.0
+Galileo Galilei Way at Fulkerson St/Binney St,14,2.0,1.0,-1.0
+Galileo Galilei Way at Fulkerson St/Binney St,15,1.0,0.0,-1.0
+Galileo Galilei Way at Fulkerson St/Binney St,16,2.0,2.0,0.0
+Galileo Galilei Way at Fulkerson St/Binney St,17,2.0,0.0,-2.0
+Galileo Galilei Way at Main Street,9,1.0,0.0,-1.0
+Galileo Galilei Way at Main Street,10,1.0,0.0,-1.0
+Galileo Galilei Way at Main Street,13,3.0,3.0,0.0
+Galileo Galilei Way at Main Street,14,4.0,0.0,-4.0
+Galileo Galilei Way at Main Street,15,4.0,1.0,-3.0
+Galileo Galilei Way at Main Street,16,2.0,0.0,-2.0
+Galileo Galilei Way at Main Street,17,2.0,1.0,-1.0
+Galileo Galilei Way at Main Street,18,2.0,0.0,-2.0
+Gardner St at Harvard Ave,6,2.0,0.0,-2.0
+Gardner St at Harvard Ave,12,1.0,0.0,-1.0
+Gardner St at Harvard Ave,17,1.0,0.0,-1.0
+Gardner St at Harvard Ave,20,1.0,0.0,-1.0
+Gilman Square T at Medford St,8,3.0,0.0,-3.0
+Gilman Square T at Medford St,9,1.0,0.0,-1.0
+Gilman Square T at Medford St,13,1.0,1.0,0.0
+Gilman Square T at Medford St,19,2.0,0.0,-2.0
+Glendale Square (Ferry St at Broadway),10,1.0,0.0,-1.0
+Gore Street at Lambert Street,6,1.0,0.0,-1.0
+Gore Street at Lambert Street,7,6.0,1.0,-5.0
+Gore Street at Lambert Street,8,1.0,0.0,-1.0
+Gore Street at Lambert Street,9,1.0,0.0,-1.0
+Gore Street at Lambert Street,10,1.0,2.0,1.0
+Gore Street at Lambert Street,12,1.0,0.0,-1.0
+Gore Street at Lambert Street,14,2.0,3.0,1.0
+Gore Street at Lambert Street,16,1.0,2.0,1.0
+Gore Street at Lambert Street,17,2.0,1.0,-1.0
+Gore Street at Lambert Street,18,1.0,3.0,2.0
+Government Center - Cambridge St at Court St,1,2.0,1.0,-1.0
+Government Center - Cambridge St at Court St,7,1.0,5.0,4.0
+Government Center - Cambridge St at Court St,11,2.0,2.0,0.0
+Government Center - Cambridge St at Court St,13,2.0,2.0,0.0
+Government Center - Cambridge St at Court St,16,1.0,2.0,1.0
+Government Center - Cambridge St at Court St,17,3.0,0.0,-3.0
+Government Center - Cambridge St at Court St,18,2.0,0.0,-2.0
+Government Center - Cambridge St at Court St,19,1.0,0.0,-1.0
+Government Center - Cambridge St at Court St,20,1.0,1.0,0.0
+Government Center - Cambridge St at Court St,23,2.0,0.0,-2.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,0,3.0,1.0,-2.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,6,6.0,0.0,-6.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,7,1.0,1.0,0.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,8,17.0,0.0,-17.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,9,85.0,1.0,-84.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,10,7.0,2.0,-5.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,11,2.0,5.0,3.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,12,4.0,5.0,1.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,13,10.0,6.0,-4.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,14,10.0,3.0,-7.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,15,7.0,6.0,-1.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,16,9.0,4.0,-5.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,17,3.0,11.0,8.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,18,6.0,2.0,-4.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,19,3.0,7.0,4.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,20,3.0,89.0,86.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,21,3.0,11.0,8.0
+Graham and Parks School ‚Äì Linnaean St at Walker St,22,2.0,5.0,3.0
+Gramsdorf Playground,9,1.0,0.0,-1.0
+Gramsdorf Playground,10,1.0,0.0,-1.0
+Grand Union Blvd at Revolution Dr,16,1.0,0.0,-1.0
+Green Street T Stop - Green St at Amory St,9,1.0,0.0,-1.0
+Green Street T Stop - Green St at Amory St,10,1.0,0.0,-1.0
+Green Street T Stop - Green St at Amory St,11,1.0,0.0,-1.0
+Green Street T Stop - Green St at Amory St,14,1.0,0.0,-1.0
+Grove St at Community Path,0,1.0,0.0,-1.0
+Grove St at Community Path,3,1.0,0.0,-1.0
+Grove St at Community Path,6,1.0,0.0,-1.0
+Grove St at Community Path,7,6.0,0.0,-6.0
+Grove St at Community Path,8,5.0,0.0,-5.0
+Grove St at Community Path,9,5.0,1.0,-4.0
+Grove St at Community Path,10,3.0,2.0,-1.0
+Grove St at Community Path,11,1.0,1.0,0.0
+Grove St at Community Path,12,3.0,3.0,0.0
+Grove St at Community Path,13,4.0,3.0,-1.0
+Grove St at Community Path,14,1.0,1.0,0.0
+Grove St at Community Path,15,2.0,2.0,0.0
+Grove St at Community Path,16,4.0,1.0,-3.0
+Grove St at Community Path,17,5.0,6.0,1.0
+Grove St at Community Path,18,7.0,0.0,-7.0
+Grove St at Community Path,20,3.0,1.0,-2.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,9,2.0,2.0,0.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,10,2.0,8.0,6.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,11,1.0,1.0,0.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,12,1.0,3.0,2.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,13,1.0,2.0,1.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,15,8.0,2.0,-6.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,16,4.0,1.0,-3.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,17,2.0,0.0,-2.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,18,3.0,2.0,-1.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,19,7.0,1.0,-6.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,20,2.0,1.0,-1.0
+HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,22,1.0,0.0,-1.0
+Hale Park,11,1.0,0.0,-1.0
+Hancock St at Pleasant St,10,2.0,0.0,-2.0
+Hancock St at Pleasant St,11,1.0,0.0,-1.0
+Hancock St at Pleasant St,12,4.0,0.0,-4.0
+Hancock St at Pleasant St,15,2.0,0.0,-2.0
+Hancock St at Pleasant St,16,1.0,0.0,-1.0
+Hancock St at Pleasant St,17,1.0,0.0,-1.0
+Hancock St at Pleasant St,18,2.0,0.0,-2.0
+Harbor St at Channel St,6,1.0,0.0,-1.0
+Harrison Ave at Bennet St,6,4.0,0.0,-4.0
+Harrison Ave at Bennet St,16,1.0,0.0,-1.0
+Harrison Ave at Bennet St,17,2.0,1.0,-1.0
+Harrison Ave at Bennet St,19,2.0,2.0,0.0
+Harrison Ave at Bennet St,21,1.0,0.0,-1.0
+Harrison Ave at E. Dedham St,5,1.0,0.0,-1.0
+Harrison Ave at E. Dedham St,8,1.0,0.0,-1.0
+Harrison Ave at Mullins Way,8,2.0,0.0,-2.0
+Harrison Ave at Mullins Way,11,1.0,2.0,1.0
+Harrison Ave at Mullins Way,17,1.0,0.0,-1.0
+Harvard Ave at Brainerd Rd,1,2.0,3.0,1.0
+Harvard Ave at Brainerd Rd,4,1.0,0.0,-1.0
+Harvard Ave at Brainerd Rd,5,1.0,0.0,-1.0
+Harvard Ave at Brainerd Rd,6,3.0,1.0,-2.0
+Harvard Ave at Brainerd Rd,7,2.0,6.0,4.0
+Harvard Ave at Brainerd Rd,8,2.0,4.0,2.0
+Harvard Ave at Brainerd Rd,9,6.0,5.0,-1.0
+Harvard Ave at Brainerd Rd,10,4.0,3.0,-1.0
+Harvard Ave at Brainerd Rd,11,10.0,9.0,-1.0
+Harvard Ave at Brainerd Rd,12,16.0,9.0,-7.0
+Harvard Ave at Brainerd Rd,13,10.0,6.0,-4.0
+Harvard Ave at Brainerd Rd,14,13.0,10.0,-3.0
+Harvard Ave at Brainerd Rd,15,11.0,8.0,-3.0
+Harvard Ave at Brainerd Rd,16,8.0,17.0,9.0
+Harvard Ave at Brainerd Rd,17,14.0,16.0,2.0
+Harvard Ave at Brainerd Rd,18,13.0,10.0,-3.0
+Harvard Ave at Brainerd Rd,19,8.0,22.0,14.0
+Harvard Ave at Brainerd Rd,20,4.0,13.0,9.0
+Harvard Ave at Brainerd Rd,21,6.0,10.0,4.0
+Harvard Ave at Brainerd Rd,22,9.0,10.0,1.0
+Harvard Ave at Brainerd Rd,23,4.0,5.0,1.0
+Harvard Kennedy School at Bennett St / Eliot St,0,9.0,6.0,-3.0
+Harvard Kennedy School at Bennett St / Eliot St,1,6.0,3.0,-3.0
+Harvard Kennedy School at Bennett St / Eliot St,2,2.0,3.0,1.0
+Harvard Kennedy School at Bennett St / Eliot St,3,7.0,0.0,-7.0
+Harvard Kennedy School at Bennett St / Eliot St,4,1.0,1.0,0.0
+Harvard Kennedy School at Bennett St / Eliot St,6,2.0,1.0,-1.0
+Harvard Kennedy School at Bennett St / Eliot St,7,4.0,7.0,3.0
+Harvard Kennedy School at Bennett St / Eliot St,8,4.0,12.0,8.0
+Harvard Kennedy School at Bennett St / Eliot St,9,9.0,18.0,9.0
+Harvard Kennedy School at Bennett St / Eliot St,10,8.0,29.0,21.0
+Harvard Kennedy School at Bennett St / Eliot St,11,26.0,46.0,20.0
+Harvard Kennedy School at Bennett St / Eliot St,12,30.0,43.0,13.0
+Harvard Kennedy School at Bennett St / Eliot St,13,33.0,35.0,2.0
+Harvard Kennedy School at Bennett St / Eliot St,14,49.0,23.0,-26.0
+Harvard Kennedy School at Bennett St / Eliot St,15,60.0,42.0,-18.0
+Harvard Kennedy School at Bennett St / Eliot St,16,43.0,36.0,-7.0
+Harvard Kennedy School at Bennett St / Eliot St,17,36.0,42.0,6.0
+Harvard Kennedy School at Bennett St / Eliot St,18,43.0,39.0,-4.0
+Harvard Kennedy School at Bennett St / Eliot St,19,35.0,19.0,-16.0
+Harvard Kennedy School at Bennett St / Eliot St,20,17.0,19.0,2.0
+Harvard Kennedy School at Bennett St / Eliot St,21,25.0,15.0,-10.0
+Harvard Kennedy School at Bennett St / Eliot St,22,20.0,15.0,-5.0
+Harvard Kennedy School at Bennett St / Eliot St,23,14.0,11.0,-3.0
+Harvard Law School at Mass Ave / Jarvis St,0,1.0,1.0,0.0
+Harvard Law School at Mass Ave / Jarvis St,1,1.0,0.0,-1.0
+Harvard Law School at Mass Ave / Jarvis St,4,2.0,0.0,-2.0
+Harvard Law School at Mass Ave / Jarvis St,6,5.0,0.0,-5.0
+Harvard Law School at Mass Ave / Jarvis St,7,7.0,0.0,-7.0
+Harvard Law School at Mass Ave / Jarvis St,8,3.0,3.0,0.0
+Harvard Law School at Mass Ave / Jarvis St,9,1.0,5.0,4.0
+Harvard Law School at Mass Ave / Jarvis St,10,4.0,17.0,13.0
+Harvard Law School at Mass Ave / Jarvis St,11,1.0,12.0,11.0
+Harvard Law School at Mass Ave / Jarvis St,12,3.0,21.0,18.0
+Harvard Law School at Mass Ave / Jarvis St,13,10.0,9.0,-1.0
+Harvard Law School at Mass Ave / Jarvis St,14,7.0,6.0,-1.0
+Harvard Law School at Mass Ave / Jarvis St,15,8.0,8.0,0.0
+Harvard Law School at Mass Ave / Jarvis St,16,13.0,6.0,-7.0
+Harvard Law School at Mass Ave / Jarvis St,17,24.0,8.0,-16.0
+Harvard Law School at Mass Ave / Jarvis St,18,18.0,7.0,-11.0
+Harvard Law School at Mass Ave / Jarvis St,19,4.0,12.0,8.0
+Harvard Law School at Mass Ave / Jarvis St,20,9.0,9.0,0.0
+Harvard Law School at Mass Ave / Jarvis St,21,7.0,3.0,-4.0
+Harvard Law School at Mass Ave / Jarvis St,22,4.0,1.0,-3.0
+Harvard Law School at Mass Ave / Jarvis St,23,1.0,3.0,2.0
+Harvard Square at Brattle St / Eliot St,0,9.0,0.0,-9.0
+Harvard Square at Brattle St / Eliot St,1,5.0,2.0,-3.0
+Harvard Square at Brattle St / Eliot St,2,4.0,1.0,-3.0
+Harvard Square at Brattle St / Eliot St,3,5.0,0.0,-5.0
+Harvard Square at Brattle St / Eliot St,5,3.0,0.0,-3.0
+Harvard Square at Brattle St / Eliot St,6,2.0,6.0,4.0
+Harvard Square at Brattle St / Eliot St,8,6.0,13.0,7.0
+Harvard Square at Brattle St / Eliot St,9,7.0,10.0,3.0
+Harvard Square at Brattle St / Eliot St,10,7.0,12.0,5.0
+Harvard Square at Brattle St / Eliot St,11,11.0,20.0,9.0
+Harvard Square at Brattle St / Eliot St,12,20.0,28.0,8.0
+Harvard Square at Brattle St / Eliot St,13,33.0,21.0,-12.0
+Harvard Square at Brattle St / Eliot St,14,31.0,22.0,-9.0
+Harvard Square at Brattle St / Eliot St,15,42.0,24.0,-18.0
+Harvard Square at Brattle St / Eliot St,16,33.0,36.0,3.0
+Harvard Square at Brattle St / Eliot St,17,39.0,31.0,-8.0
+Harvard Square at Brattle St / Eliot St,18,43.0,50.0,7.0
+Harvard Square at Brattle St / Eliot St,19,34.0,29.0,-5.0
+Harvard Square at Brattle St / Eliot St,20,25.0,22.0,-3.0
+Harvard Square at Brattle St / Eliot St,21,20.0,25.0,5.0
+Harvard Square at Brattle St / Eliot St,22,26.0,13.0,-13.0
+Harvard Square at Brattle St / Eliot St,23,19.0,6.0,-13.0
+Harvard Square at Mass Ave/ Dunster,0,9.0,4.0,-5.0
+Harvard Square at Mass Ave/ Dunster,1,10.0,7.0,-3.0
+Harvard Square at Mass Ave/ Dunster,2,2.0,0.0,-2.0
+Harvard Square at Mass Ave/ Dunster,3,2.0,2.0,0.0
+Harvard Square at Mass Ave/ Dunster,5,1.0,1.0,0.0
+Harvard Square at Mass Ave/ Dunster,7,2.0,7.0,5.0
+Harvard Square at Mass Ave/ Dunster,8,8.0,12.0,4.0
+Harvard Square at Mass Ave/ Dunster,9,8.0,18.0,10.0
+Harvard Square at Mass Ave/ Dunster,10,16.0,8.0,-8.0
+Harvard Square at Mass Ave/ Dunster,11,14.0,24.0,10.0
+Harvard Square at Mass Ave/ Dunster,12,24.0,21.0,-3.0
+Harvard Square at Mass Ave/ Dunster,13,19.0,35.0,16.0
+Harvard Square at Mass Ave/ Dunster,14,29.0,35.0,6.0
+Harvard Square at Mass Ave/ Dunster,15,48.0,37.0,-11.0
+Harvard Square at Mass Ave/ Dunster,16,34.0,35.0,1.0
+Harvard Square at Mass Ave/ Dunster,17,37.0,47.0,10.0
+Harvard Square at Mass Ave/ Dunster,18,37.0,26.0,-11.0
+Harvard Square at Mass Ave/ Dunster,19,49.0,21.0,-28.0
+Harvard Square at Mass Ave/ Dunster,20,23.0,27.0,4.0
+Harvard Square at Mass Ave/ Dunster,21,26.0,22.0,-4.0
+Harvard Square at Mass Ave/ Dunster,22,14.0,22.0,8.0
+Harvard Square at Mass Ave/ Dunster,23,11.0,13.0,2.0
+Harvard St and Stedman St,1,3.0,0.0,-3.0
+Harvard St and Stedman St,3,2.0,0.0,-2.0
+Harvard St and Stedman St,7,2.0,1.0,-1.0
+Harvard St and Stedman St,9,3.0,2.0,-1.0
+Harvard St and Stedman St,10,5.0,2.0,-3.0
+Harvard St and Stedman St,11,3.0,0.0,-3.0
+Harvard St and Stedman St,12,6.0,6.0,0.0
+Harvard St and Stedman St,13,3.0,3.0,0.0
+Harvard St and Stedman St,14,2.0,6.0,4.0
+Harvard St and Stedman St,15,7.0,5.0,-2.0
+Harvard St and Stedman St,16,6.0,4.0,-2.0
+Harvard St and Stedman St,17,6.0,7.0,1.0
+Harvard St and Stedman St,18,6.0,0.0,-6.0
+Harvard St and Stedman St,19,5.0,2.0,-3.0
+Harvard St and Stedman St,20,2.0,3.0,1.0
+Harvard St and Stedman St,21,4.0,3.0,-1.0
+Harvard St and Stedman St,23,3.0,1.0,-2.0
+Harvard St at Greene-Rose Heritage Park,0,1.0,2.0,1.0
+Harvard St at Greene-Rose Heritage Park,7,5.0,0.0,-5.0
+Harvard St at Greene-Rose Heritage Park,8,14.0,0.0,-14.0
+Harvard St at Greene-Rose Heritage Park,9,2.0,0.0,-2.0
+Harvard St at Greene-Rose Heritage Park,10,3.0,1.0,-2.0
+Harvard St at Greene-Rose Heritage Park,11,2.0,2.0,0.0
+Harvard St at Greene-Rose Heritage Park,12,5.0,0.0,-5.0
+Harvard St at Greene-Rose Heritage Park,13,2.0,4.0,2.0
+Harvard St at Greene-Rose Heritage Park,14,1.0,10.0,9.0
+Harvard St at Greene-Rose Heritage Park,15,2.0,22.0,20.0
+Harvard St at Greene-Rose Heritage Park,16,2.0,6.0,4.0
+Harvard St at Greene-Rose Heritage Park,17,1.0,19.0,18.0
+Harvard St at Greene-Rose Heritage Park,18,3.0,24.0,21.0
+Harvard St at Greene-Rose Heritage Park,19,1.0,6.0,5.0
+Harvard St at Greene-Rose Heritage Park,21,3.0,2.0,-1.0
+Harvard St at Greene-Rose Heritage Park,23,1.0,1.0,0.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,0,3.0,5.0,2.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,1,2.0,2.0,0.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,7,4.0,16.0,12.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,8,4.0,5.0,1.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,9,5.0,8.0,3.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,10,7.0,8.0,1.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,11,20.0,8.0,-12.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,12,13.0,20.0,7.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,13,12.0,12.0,0.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,14,20.0,14.0,-6.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,15,25.0,20.0,-5.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,16,24.0,12.0,-12.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,17,28.0,21.0,-7.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,18,19.0,18.0,-1.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,19,21.0,8.0,-13.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,20,14.0,16.0,2.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,21,10.0,7.0,-3.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,22,4.0,7.0,3.0
+Harvard Stadium: N. Harvard St at Soldiers Field Rd,23,2.0,1.0,-1.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,0,1.0,0.0,-1.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,6,1.0,0.0,-1.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,7,1.0,1.0,0.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,8,2.0,7.0,5.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,9,1.0,6.0,5.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,10,6.0,8.0,2.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,11,2.0,9.0,7.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,12,6.0,6.0,0.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,13,10.0,7.0,-3.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,14,10.0,4.0,-6.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,15,4.0,8.0,4.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,16,7.0,3.0,-4.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,17,9.0,1.0,-8.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,18,7.0,2.0,-5.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,19,2.0,3.0,1.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,20,7.0,1.0,-6.0
+Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,21,1.0,3.0,2.0
+Harvard University Gund Hall at Quincy St / Kirkland St,2,1.0,1.0,0.0
+Harvard University Gund Hall at Quincy St / Kirkland St,7,1.0,1.0,0.0
+Harvard University Gund Hall at Quincy St / Kirkland St,8,2.0,3.0,1.0
+Harvard University Gund Hall at Quincy St / Kirkland St,9,7.0,3.0,-4.0
+Harvard University Gund Hall at Quincy St / Kirkland St,10,2.0,5.0,3.0
+Harvard University Gund Hall at Quincy St / Kirkland St,11,1.0,6.0,5.0
+Harvard University Gund Hall at Quincy St / Kirkland St,12,5.0,9.0,4.0
+Harvard University Gund Hall at Quincy St / Kirkland St,13,4.0,3.0,-1.0
+Harvard University Gund Hall at Quincy St / Kirkland St,14,5.0,4.0,-1.0
+Harvard University Gund Hall at Quincy St / Kirkland St,15,8.0,9.0,1.0
+Harvard University Gund Hall at Quincy St / Kirkland St,16,3.0,8.0,5.0
+Harvard University Gund Hall at Quincy St / Kirkland St,17,4.0,8.0,4.0
+Harvard University Gund Hall at Quincy St / Kirkland St,18,12.0,7.0,-5.0
+Harvard University Gund Hall at Quincy St / Kirkland St,19,10.0,6.0,-4.0
+Harvard University Gund Hall at Quincy St / Kirkland St,20,15.0,4.0,-11.0
+Harvard University Gund Hall at Quincy St / Kirkland St,21,2.0,5.0,3.0
+Harvard University Gund Hall at Quincy St / Kirkland St,22,3.0,0.0,-3.0
+Harvard University Gund Hall at Quincy St / Kirkland St,23,2.0,1.0,-1.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,0,3.0,2.0,-1.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,6,1.0,0.0,-1.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,7,4.0,0.0,-4.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,8,5.0,0.0,-5.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,9,6.0,3.0,-3.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,10,2.0,5.0,3.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,11,7.0,5.0,-2.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,12,13.0,8.0,-5.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,13,4.0,13.0,9.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,14,14.0,16.0,2.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,15,8.0,14.0,6.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,16,12.0,22.0,10.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,17,12.0,26.0,14.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,18,17.0,12.0,-5.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,19,14.0,12.0,-2.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,20,6.0,12.0,6.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,21,6.0,6.0,0.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,22,5.0,0.0,-5.0
+Harvard University Housing - 115 Putnam Ave at Peabody Terrace,23,5.0,3.0,-2.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,0,2.0,0.0,-2.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,1,2.0,0.0,-2.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,3,2.0,1.0,-1.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,6,12.0,0.0,-12.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,7,8.0,1.0,-7.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,8,5.0,3.0,-2.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,9,16.0,3.0,-13.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,10,4.0,3.0,-1.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,11,4.0,5.0,1.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,12,2.0,6.0,4.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,13,2.0,3.0,1.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,14,7.0,7.0,0.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,15,5.0,9.0,4.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,16,13.0,9.0,-4.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,17,19.0,10.0,-9.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,18,14.0,6.0,-8.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,19,8.0,19.0,11.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,20,4.0,14.0,10.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,21,6.0,5.0,-1.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,22,4.0,7.0,3.0
+Harvard University Radcliffe Quadrangle at Shepard St / Garden St,23,3.0,0.0,-3.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,0,9.0,19.0,10.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,1,3.0,11.0,8.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,2,1.0,4.0,3.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,3,1.0,2.0,1.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,4,2.0,0.0,-2.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,6,3.0,6.0,3.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,7,8.0,8.0,0.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,8,10.0,4.0,-6.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,9,9.0,21.0,12.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,10,24.0,25.0,1.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,11,40.0,32.0,-8.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,12,35.0,32.0,-3.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,13,36.0,48.0,12.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,14,39.0,32.0,-7.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,15,67.0,48.0,-19.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,16,57.0,57.0,0.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,17,41.0,42.0,1.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,18,42.0,34.0,-8.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,19,32.0,41.0,9.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,20,6.0,30.0,24.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,21,18.0,31.0,13.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,22,12.0,16.0,4.0
+Harvard University River Houses at DeWolfe St / Cowperthwaite St,23,14.0,7.0,-7.0
+Herter Park,7,1.0,24.0,23.0
+Herter Park,9,2.0,0.0,-2.0
+Herter Park,10,1.0,8.0,7.0
+Herter Park,11,4.0,2.0,-2.0
+Herter Park,12,2.0,4.0,2.0
+Herter Park,13,5.0,4.0,-1.0
+Herter Park,14,11.0,3.0,-8.0
+Herter Park,15,4.0,3.0,-1.0
+Herter Park,16,3.0,7.0,4.0
+Herter Park,17,7.0,6.0,-1.0
+Herter Park,18,12.0,6.0,-6.0
+Herter Park,19,8.0,3.0,-5.0
+Herter Park,20,2.0,0.0,-2.0
+High St at Cypress St,9,1.0,0.0,-1.0
+High St at Cypress St,16,2.0,0.0,-2.0
+High St at Cypress St,17,1.0,1.0,0.0
+Honan Library,0,1.0,9.0,8.0
+Honan Library,1,4.0,6.0,2.0
+Honan Library,2,2.0,11.0,9.0
+Honan Library,4,1.0,1.0,0.0
+Honan Library,6,4.0,0.0,-4.0
+Honan Library,7,12.0,0.0,-12.0
+Honan Library,8,6.0,3.0,-3.0
+Honan Library,9,29.0,5.0,-24.0
+Honan Library,10,28.0,22.0,-6.0
+Honan Library,11,37.0,9.0,-28.0
+Honan Library,12,16.0,19.0,3.0
+Honan Library,13,21.0,16.0,-5.0
+Honan Library,14,16.0,18.0,2.0
+Honan Library,15,18.0,20.0,2.0
+Honan Library,16,25.0,23.0,-2.0
+Honan Library,17,25.0,19.0,-6.0
+Honan Library,18,24.0,32.0,8.0
+Honan Library,19,16.0,35.0,19.0
+Honan Library,20,9.0,55.0,46.0
+Honan Library,21,12.0,40.0,28.0
+Honan Library,22,9.0,23.0,14.0
+Honan Library,23,3.0,28.0,25.0
+Hood Park,15,1.0,0.0,-1.0
+Hood Park,17,1.0,0.0,-1.0
+Hormel Stadium,13,1.0,1.0,0.0
+Hormel Stadium,16,1.0,0.0,-1.0
+Huntington Ave at Colburn St,23,1.0,0.0,-1.0
+Huntington Ave at Mass Art,5,1.0,0.0,-1.0
+Huntington Ave at Mass Art,8,6.0,1.0,-5.0
+Huntington Ave at Mass Art,9,1.0,1.0,0.0
+Huntington Ave at Mass Art,15,1.0,2.0,1.0
+Huntington Ave at Mass Art,16,2.0,2.0,0.0
+Huntington Ave at Mass Art,17,2.0,6.0,4.0
+Huntington Ave at Mass Art,18,1.0,1.0,0.0
+Huron Ave At Vassal Lane,0,1.0,3.0,2.0
+Huron Ave At Vassal Lane,6,2.0,1.0,-1.0
+Huron Ave At Vassal Lane,7,2.0,3.0,1.0
+Huron Ave At Vassal Lane,8,6.0,16.0,10.0
+Huron Ave At Vassal Lane,9,6.0,7.0,1.0
+Huron Ave At Vassal Lane,10,12.0,9.0,-3.0
+Huron Ave At Vassal Lane,11,7.0,9.0,2.0
+Huron Ave At Vassal Lane,12,4.0,15.0,11.0
+Huron Ave At Vassal Lane,13,9.0,14.0,5.0
+Huron Ave At Vassal Lane,14,8.0,10.0,2.0
+Huron Ave At Vassal Lane,15,17.0,13.0,-4.0
+Huron Ave At Vassal Lane,16,13.0,12.0,-1.0
+Huron Ave At Vassal Lane,17,16.0,21.0,5.0
+Huron Ave At Vassal Lane,18,27.0,9.0,-18.0
+Huron Ave At Vassal Lane,19,6.0,10.0,4.0
+Huron Ave At Vassal Lane,20,10.0,10.0,0.0
+Huron Ave At Vassal Lane,21,8.0,10.0,2.0
+Huron Ave At Vassal Lane,22,2.0,3.0,1.0
+Huron Ave At Vassal Lane,23,3.0,0.0,-3.0
+Hyde Park Ave at Walk Hill St,10,1.0,0.0,-1.0
+Hyde Square - Barbara St at Centre St,7,2.0,0.0,-2.0
+Hyde Square - Barbara St at Centre St,8,1.0,0.0,-1.0
+Hyde Square - Centre St at Perkins St,8,1.0,0.0,-1.0
+Hyde Square - Centre St at Perkins St,12,1.0,0.0,-1.0
+Hyde Square - Centre St at Perkins St,13,1.0,1.0,0.0
+Hyde Square - Centre St at Perkins St,16,1.0,1.0,0.0
+Hyde Square - Centre St at Perkins St,18,1.0,1.0,0.0
+Hyde Square - Centre St at Perkins St,20,2.0,0.0,-2.0
+ID Building West,10,1.0,0.0,-1.0
+ID Building West,13,1.0,0.0,-1.0
+Inman Square at Springfield St.,9,1.0,2.0,1.0
+Inman Square at Springfield St.,10,1.0,1.0,0.0
+Inman Square at Springfield St.,11,2.0,1.0,-1.0
+Inman Square at Springfield St.,12,4.0,6.0,2.0
+Inman Square at Springfield St.,14,4.0,1.0,-3.0
+Inman Square at Springfield St.,15,5.0,3.0,-2.0
+Inman Square at Springfield St.,16,11.0,4.0,-7.0
+Inman Square at Springfield St.,17,3.0,4.0,1.0
+Inman Square at Springfield St.,18,3.0,2.0,-1.0
+Inman Square at Springfield St.,19,2.0,3.0,1.0
+Inman Square at Springfield St.,20,1.0,2.0,1.0
+Inman Square at Springfield St.,21,2.0,1.0,-1.0
+Inman Square at Springfield St.,22,3.0,3.0,0.0
+Inman Square at Springfield St.,23,4.0,3.0,-1.0
+Innovation Lab - 125 Western Ave at Batten Way,0,7.0,1.0,-6.0
+Innovation Lab - 125 Western Ave at Batten Way,1,1.0,0.0,-1.0
+Innovation Lab - 125 Western Ave at Batten Way,3,1.0,0.0,-1.0
+Innovation Lab - 125 Western Ave at Batten Way,4,2.0,1.0,-1.0
+Innovation Lab - 125 Western Ave at Batten Way,5,1.0,0.0,-1.0
+Innovation Lab - 125 Western Ave at Batten Way,6,2.0,0.0,-2.0
+Innovation Lab - 125 Western Ave at Batten Way,7,3.0,5.0,2.0
+Innovation Lab - 125 Western Ave at Batten Way,8,11.0,7.0,-4.0
+Innovation Lab - 125 Western Ave at Batten Way,9,17.0,7.0,-10.0
+Innovation Lab - 125 Western Ave at Batten Way,10,16.0,15.0,-1.0
+Innovation Lab - 125 Western Ave at Batten Way,11,19.0,9.0,-10.0
+Innovation Lab - 125 Western Ave at Batten Way,12,14.0,13.0,-1.0
+Innovation Lab - 125 Western Ave at Batten Way,13,23.0,3.0,-20.0
+Innovation Lab - 125 Western Ave at Batten Way,14,13.0,6.0,-7.0
+Innovation Lab - 125 Western Ave at Batten Way,15,16.0,11.0,-5.0
+Innovation Lab - 125 Western Ave at Batten Way,16,23.0,18.0,-5.0
+Innovation Lab - 125 Western Ave at Batten Way,17,31.0,10.0,-21.0
+Innovation Lab - 125 Western Ave at Batten Way,18,23.0,6.0,-17.0
+Innovation Lab - 125 Western Ave at Batten Way,19,18.0,19.0,1.0
+Innovation Lab - 125 Western Ave at Batten Way,20,17.0,11.0,-6.0
+Innovation Lab - 125 Western Ave at Batten Way,21,10.0,16.0,6.0
+Innovation Lab - 125 Western Ave at Batten Way,22,13.0,6.0,-7.0
+Innovation Lab - 125 Western Ave at Batten Way,23,6.0,4.0,-2.0
+JFK Crossing at Harvard St. / Thorndike St.,2,1.0,0.0,-1.0
+JFK Crossing at Harvard St. / Thorndike St.,3,1.0,0.0,-1.0
+JFK Crossing at Harvard St. / Thorndike St.,6,1.0,0.0,-1.0
+JFK Crossing at Harvard St. / Thorndike St.,8,1.0,1.0,0.0
+JFK Crossing at Harvard St. / Thorndike St.,10,2.0,10.0,8.0
+JFK Crossing at Harvard St. / Thorndike St.,11,1.0,11.0,10.0
+JFK Crossing at Harvard St. / Thorndike St.,12,4.0,8.0,4.0
+JFK Crossing at Harvard St. / Thorndike St.,13,5.0,5.0,0.0
+JFK Crossing at Harvard St. / Thorndike St.,14,2.0,4.0,2.0
+JFK Crossing at Harvard St. / Thorndike St.,15,7.0,20.0,13.0
+JFK Crossing at Harvard St. / Thorndike St.,16,2.0,16.0,14.0
+JFK Crossing at Harvard St. / Thorndike St.,17,4.0,7.0,3.0
+JFK Crossing at Harvard St. / Thorndike St.,18,6.0,9.0,3.0
+JFK Crossing at Harvard St. / Thorndike St.,20,2.0,6.0,4.0
+JFK Crossing at Harvard St. / Thorndike St.,21,1.0,6.0,5.0
+JFK Crossing at Harvard St. / Thorndike St.,22,2.0,2.0,0.0
+JFK Crossing at Harvard St. / Thorndike St.,23,2.0,4.0,2.0
+Jackson Square T Stop,7,1.0,0.0,-1.0
+Jackson Square T Stop,9,1.0,0.0,-1.0
+Jackson Square T Stop,14,2.0,1.0,-1.0
+Jackson Square T Stop,15,1.0,0.0,-1.0
+Jamaica St at South St,8,1.0,0.0,-1.0
+Jamaica St at South St,12,2.0,0.0,-2.0
+Jamaica St at South St,14,1.0,0.0,-1.0
+Jamaica St at South St,18,1.0,0.0,-1.0
+John Ahern Field at Kennedy-Longfellow School,6,2.0,0.0,-2.0
+John Ahern Field at Kennedy-Longfellow School,7,4.0,0.0,-4.0
+John Ahern Field at Kennedy-Longfellow School,8,2.0,0.0,-2.0
+Kearins Playground,14,1.0,0.0,-1.0
+Kendall Street,10,2.0,0.0,-2.0
+Kendall Street,16,1.0,1.0,0.0
+Kendall Street,17,2.0,0.0,-2.0
+Kendall Street,18,1.0,1.0,0.0
+Kendall Street,19,1.0,0.0,-1.0
+Kendall Street,23,1.0,0.0,-1.0
+Kendall T,3,1.0,0.0,-1.0
+Kendall T,12,4.0,0.0,-4.0
+Kendall T,13,1.0,3.0,2.0
+Kendall T,14,4.0,0.0,-4.0
+Kendall T,15,3.0,0.0,-3.0
+Kendall T,16,1.0,0.0,-1.0
+Kendall T,17,8.0,2.0,-6.0
+Kendall T,18,3.0,5.0,2.0
+Kendall T,19,2.0,1.0,-1.0
+Kendall T,21,1.0,0.0,-1.0
+Kendall T,22,3.0,0.0,-3.0
+Kendall T,23,1.0,0.0,-1.0
+Kenmore Square,0,3.0,0.0,-3.0
+Kenmore Square,1,3.0,0.0,-3.0
+Kenmore Square,2,4.0,2.0,-2.0
+Kenmore Square,3,1.0,0.0,-1.0
+Kenmore Square,6,1.0,13.0,12.0
+Kenmore Square,8,1.0,3.0,2.0
+Kenmore Square,9,1.0,2.0,1.0
+Kenmore Square,10,2.0,0.0,-2.0
+Kenmore Square,13,3.0,7.0,4.0
+Kenmore Square,15,1.0,7.0,6.0
+Kenmore Square,16,1.0,12.0,11.0
+Kenmore Square,17,10.0,7.0,-3.0
+Kenmore Square,18,5.0,8.0,3.0
+Kenmore Square,19,3.0,7.0,4.0
+Kenmore Square,20,7.0,0.0,-7.0
+Kenmore Square,21,4.0,3.0,-1.0
+Kenmore Square,22,4.0,2.0,-2.0
+Kenmore Square,23,1.0,0.0,-1.0
+Kenmore Square - 660 Beacon St,11,1.0,0.0,-1.0
+Kenmore Square - 660 Beacon St,14,1.0,0.0,-1.0
+Kenmore Square - 660 Beacon St,16,1.0,0.0,-1.0
+Kenmore Square - 660 Beacon St,18,1.0,0.0,-1.0
+Kennedy-Longfellow School 158 Spring St,3,1.0,0.0,-1.0
+Kennedy-Longfellow School 158 Spring St,6,1.0,0.0,-1.0
+Kennedy-Longfellow School 158 Spring St,7,1.0,0.0,-1.0
+Kennedy-Longfellow School 158 Spring St,8,3.0,0.0,-3.0
+Kennedy-Longfellow School 158 Spring St,10,4.0,1.0,-3.0
+Kennedy-Longfellow School 158 Spring St,11,2.0,0.0,-2.0
+Kennedy-Longfellow School 158 Spring St,12,2.0,0.0,-2.0
+Kennedy-Longfellow School 158 Spring St,13,3.0,1.0,-2.0
+Kennedy-Longfellow School 158 Spring St,14,1.0,1.0,0.0
+Kennedy-Longfellow School 158 Spring St,15,6.0,2.0,-4.0
+Kennedy-Longfellow School 158 Spring St,17,1.0,1.0,0.0
+Kennedy-Longfellow School 158 Spring St,19,1.0,3.0,2.0
+Kennedy-Longfellow School 158 Spring St,20,1.0,2.0,1.0
+Knoll St at Centre St,7,1.0,0.0,-1.0
+Knoll St at Centre St,9,1.0,0.0,-1.0
+Lafayette Square at Mass Ave / Main St / Columbia St,0,1.0,6.0,5.0
+Lafayette Square at Mass Ave / Main St / Columbia St,4,1.0,0.0,-1.0
+Lafayette Square at Mass Ave / Main St / Columbia St,5,2.0,0.0,-2.0
+Lafayette Square at Mass Ave / Main St / Columbia St,6,3.0,0.0,-3.0
+Lafayette Square at Mass Ave / Main St / Columbia St,7,1.0,0.0,-1.0
+Lafayette Square at Mass Ave / Main St / Columbia St,8,4.0,2.0,-2.0
+Lafayette Square at Mass Ave / Main St / Columbia St,9,6.0,0.0,-6.0
+Lafayette Square at Mass Ave / Main St / Columbia St,10,10.0,0.0,-10.0
+Lafayette Square at Mass Ave / Main St / Columbia St,11,2.0,1.0,-1.0
+Lafayette Square at Mass Ave / Main St / Columbia St,12,6.0,2.0,-4.0
+Lafayette Square at Mass Ave / Main St / Columbia St,13,5.0,2.0,-3.0
+Lafayette Square at Mass Ave / Main St / Columbia St,14,3.0,3.0,0.0
+Lafayette Square at Mass Ave / Main St / Columbia St,15,3.0,3.0,0.0
+Lafayette Square at Mass Ave / Main St / Columbia St,16,6.0,3.0,-3.0
+Lafayette Square at Mass Ave / Main St / Columbia St,17,4.0,2.0,-2.0
+Lafayette Square at Mass Ave / Main St / Columbia St,18,5.0,8.0,3.0
+Lafayette Square at Mass Ave / Main St / Columbia St,19,3.0,5.0,2.0
+Lafayette Square at Mass Ave / Main St / Columbia St,20,2.0,10.0,8.0
+Lafayette Square at Mass Ave / Main St / Columbia St,21,2.0,4.0,2.0
+Lafayette Square at Mass Ave / Main St / Columbia St,22,2.0,2.0,0.0
+Lafayette Square at Mass Ave / Main St / Columbia St,23,1.0,2.0,1.0
+Lake St. at Minuteman Bikeway,8,1.0,0.0,-1.0
+Lake St. at Minuteman Bikeway,13,1.0,0.0,-1.0
+Lake St. at Minuteman Bikeway,14,1.0,1.0,0.0
+Lake St. at Minuteman Bikeway,16,4.0,3.0,-1.0
+Lake St. at Minuteman Bikeway,18,3.0,0.0,-3.0
+Lake St. at Minuteman Bikeway,19,1.0,1.0,0.0
+Lake St. at Minuteman Bikeway,20,1.0,0.0,-1.0
+Lake St. at Minuteman Bikeway,21,2.0,0.0,-2.0
+Lake St. at Minuteman Bikeway,22,1.0,1.0,0.0
+Landmark Center - Brookline Ave at Park Dr,0,2.0,1.0,-1.0
+Landmark Center - Brookline Ave at Park Dr,6,1.0,0.0,-1.0
+Landmark Center - Brookline Ave at Park Dr,8,1.0,4.0,3.0
+Landmark Center - Brookline Ave at Park Dr,9,5.0,1.0,-4.0
+Landmark Center - Brookline Ave at Park Dr,10,1.0,2.0,1.0
+Landmark Center - Brookline Ave at Park Dr,11,1.0,3.0,2.0
+Landmark Center - Brookline Ave at Park Dr,12,2.0,2.0,0.0
+Landmark Center - Brookline Ave at Park Dr,13,3.0,7.0,4.0
+Landmark Center - Brookline Ave at Park Dr,14,1.0,4.0,3.0
+Landmark Center - Brookline Ave at Park Dr,15,5.0,4.0,-1.0
+Landmark Center - Brookline Ave at Park Dr,16,1.0,8.0,7.0
+Landmark Center - Brookline Ave at Park Dr,17,4.0,16.0,12.0
+Landmark Center - Brookline Ave at Park Dr,18,16.0,14.0,-2.0
+Landmark Center - Brookline Ave at Park Dr,19,8.0,12.0,4.0
+Landmark Center - Brookline Ave at Park Dr,20,11.0,7.0,-4.0
+Landmark Center - Brookline Ave at Park Dr,21,9.0,2.0,-7.0
+Landmark Center - Brookline Ave at Park Dr,22,7.0,1.0,-6.0
+Landmark Center - Brookline Ave at Park Dr,23,2.0,2.0,0.0
+Langley Lot,9,1.0,1.0,0.0
+Langley Lot,13,2.0,0.0,-2.0
+Langley Lot,14,1.0,0.0,-1.0
+Langley Lot,15,2.0,1.0,-1.0
+Langley Lot,17,3.0,1.0,-2.0
+Langley Lot,19,2.0,2.0,0.0
+Langley Lot,20,2.0,0.0,-2.0
+Langley Lot,21,2.0,1.0,-1.0
+Langley Lot,23,1.0,1.0,0.0
+Lansdowne T Stop,0,2.0,0.0,-2.0
+Lansdowne T Stop,1,2.0,0.0,-2.0
+Lansdowne T Stop,2,3.0,0.0,-3.0
+Lansdowne T Stop,4,1.0,0.0,-1.0
+Lansdowne T Stop,11,1.0,0.0,-1.0
+Lansdowne T Stop,12,2.0,2.0,0.0
+Lansdowne T Stop,14,1.0,3.0,2.0
+Lansdowne T Stop,16,1.0,6.0,5.0
+Lansdowne T Stop,17,7.0,8.0,1.0
+Lansdowne T Stop,18,2.0,9.0,7.0
+Lansdowne T Stop,19,1.0,2.0,1.0
+Lansdowne T Stop,20,5.0,0.0,-5.0
+Lansdowne T Stop,21,11.0,2.0,-9.0
+Lansdowne T Stop,22,5.0,5.0,0.0
+Lechmere Canal Park,16,1.0,0.0,-1.0
+Lenox St at Kendall St,7,1.0,0.0,-1.0
+Lenox St at Kendall St,17,1.0,0.0,-1.0
+Lesley University,1,1.0,0.0,-1.0
+Lesley University,6,1.0,4.0,3.0
+Lesley University,9,1.0,3.0,2.0
+Lesley University,10,1.0,2.0,1.0
+Lesley University,11,5.0,34.0,29.0
+Lesley University,12,4.0,28.0,24.0
+Lesley University,13,4.0,4.0,0.0
+Lesley University,15,5.0,4.0,-1.0
+Lesley University,16,2.0,1.0,-1.0
+Lesley University,17,4.0,8.0,4.0
+Lesley University,18,4.0,6.0,2.0
+Lesley University,19,1.0,4.0,3.0
+Lesley University,22,1.0,0.0,-1.0
+Lewis Wharf at Atlantic Ave,1,3.0,0.0,-3.0
+Lewis Wharf at Atlantic Ave,11,2.0,0.0,-2.0
+Lewis Wharf at Atlantic Ave,12,1.0,2.0,1.0
+Lewis Wharf at Atlantic Ave,13,1.0,2.0,1.0
+Lewis Wharf at Atlantic Ave,15,2.0,1.0,-1.0
+Lewis Wharf at Atlantic Ave,16,3.0,0.0,-3.0
+Lewis Wharf at Atlantic Ave,18,1.0,1.0,0.0
+Lincoln St at Empire St,6,3.0,0.0,-3.0
+Lincoln St at Empire St,7,9.0,0.0,-9.0
+Lincoln St at Empire St,8,3.0,2.0,-1.0
+Lincoln St at Empire St,9,5.0,0.0,-5.0
+Lincoln St at Empire St,10,8.0,4.0,-4.0
+Lincoln St at Empire St,11,8.0,12.0,4.0
+Lincoln St at Empire St,12,3.0,6.0,3.0
+Lincoln St at Empire St,13,7.0,8.0,1.0
+Lincoln St at Empire St,14,6.0,5.0,-1.0
+Lincoln St at Empire St,15,1.0,5.0,4.0
+Lincoln St at Empire St,16,4.0,8.0,4.0
+Lincoln St at Empire St,17,8.0,16.0,8.0
+Lincoln St at Empire St,18,3.0,16.0,13.0
+Lincoln St at Empire St,19,4.0,6.0,2.0
+Lincoln St at Empire St,20,4.0,4.0,0.0
+Lincoln St at Empire St,21,1.0,5.0,4.0
+Lincoln St at Empire St,22,2.0,3.0,1.0
+Linear Park - Mass. Ave. at Cameron Ave. ,0,1.0,0.0,-1.0
+Linear Park - Mass. Ave. at Cameron Ave. ,6,1.0,0.0,-1.0
+Linear Park - Mass. Ave. at Cameron Ave. ,7,6.0,0.0,-6.0
+Linear Park - Mass. Ave. at Cameron Ave. ,8,39.0,2.0,-37.0
+Linear Park - Mass. Ave. at Cameron Ave. ,9,6.0,1.0,-5.0
+Linear Park - Mass. Ave. at Cameron Ave. ,10,11.0,3.0,-8.0
+Linear Park - Mass. Ave. at Cameron Ave. ,11,19.0,5.0,-14.0
+Linear Park - Mass. Ave. at Cameron Ave. ,12,32.0,4.0,-28.0
+Linear Park - Mass. Ave. at Cameron Ave. ,13,7.0,8.0,1.0
+Linear Park - Mass. Ave. at Cameron Ave. ,14,6.0,6.0,0.0
+Linear Park - Mass. Ave. at Cameron Ave. ,15,4.0,6.0,2.0
+Linear Park - Mass. Ave. at Cameron Ave. ,16,14.0,12.0,-2.0
+Linear Park - Mass. Ave. at Cameron Ave. ,17,2.0,4.0,2.0
+Linear Park - Mass. Ave. at Cameron Ave. ,18,5.0,11.0,6.0
+Linear Park - Mass. Ave. at Cameron Ave. ,19,8.0,9.0,1.0
+Linear Park - Mass. Ave. at Cameron Ave. ,20,1.0,15.0,14.0
+Linear Park - Mass. Ave. at Cameron Ave. ,23,2.0,4.0,2.0
+Linwood St at Minuteman Bikeway,8,4.0,0.0,-4.0
+Linwood St at Minuteman Bikeway,9,7.0,0.0,-7.0
+Linwood St at Minuteman Bikeway,10,3.0,3.0,0.0
+Linwood St at Minuteman Bikeway,11,1.0,1.0,0.0
+Linwood St at Minuteman Bikeway,12,3.0,0.0,-3.0
+Linwood St at Minuteman Bikeway,13,2.0,0.0,-2.0
+Linwood St at Minuteman Bikeway,14,3.0,0.0,-3.0
+Linwood St at Minuteman Bikeway,15,3.0,3.0,0.0
+Linwood St at Minuteman Bikeway,16,3.0,6.0,3.0
+Linwood St at Minuteman Bikeway,17,11.0,5.0,-6.0
+Linwood St at Minuteman Bikeway,18,4.0,4.0,0.0
+Linwood St at Minuteman Bikeway,19,1.0,2.0,1.0
+Linwood St at Minuteman Bikeway,20,1.0,2.0,1.0
+Logan Park,17,1.0,0.0,-1.0
+Longwood Ave at Binney St,0,1.0,0.0,-1.0
+Longwood Ave at Binney St,8,2.0,36.0,34.0
+Longwood Ave at Binney St,9,3.0,14.0,11.0
+Longwood Ave at Binney St,10,6.0,26.0,20.0
+Longwood Ave at Binney St,11,11.0,14.0,3.0
+Longwood Ave at Binney St,12,6.0,6.0,0.0
+Longwood Ave at Binney St,13,2.0,5.0,3.0
+Longwood Ave at Binney St,14,5.0,4.0,-1.0
+Longwood Ave at Binney St,15,18.0,4.0,-14.0
+Longwood Ave at Binney St,16,25.0,3.0,-22.0
+Longwood Ave at Binney St,17,28.0,2.0,-26.0
+Longwood Ave at Binney St,18,7.0,3.0,-4.0
+Longwood Ave at Binney St,19,4.0,3.0,-1.0
+Longwood Ave at Binney St,20,4.0,2.0,-2.0
+Longwood Ave at Binney St,21,18.0,2.0,-16.0
+Longwood Ave at Binney St,22,8.0,2.0,-6.0
+Longwood Ave at Binney St,23,2.0,4.0,2.0
+Lower Cambridgeport at Magazine St / Riverside Rd,0,1.0,3.0,2.0
+Lower Cambridgeport at Magazine St / Riverside Rd,5,1.0,0.0,-1.0
+Lower Cambridgeport at Magazine St / Riverside Rd,8,3.0,3.0,0.0
+Lower Cambridgeport at Magazine St / Riverside Rd,9,9.0,6.0,-3.0
+Lower Cambridgeport at Magazine St / Riverside Rd,10,8.0,6.0,-2.0
+Lower Cambridgeport at Magazine St / Riverside Rd,11,4.0,15.0,11.0
+Lower Cambridgeport at Magazine St / Riverside Rd,12,9.0,9.0,0.0
+Lower Cambridgeport at Magazine St / Riverside Rd,13,16.0,10.0,-6.0
+Lower Cambridgeport at Magazine St / Riverside Rd,14,9.0,12.0,3.0
+Lower Cambridgeport at Magazine St / Riverside Rd,15,21.0,15.0,-6.0
+Lower Cambridgeport at Magazine St / Riverside Rd,16,13.0,21.0,8.0
+Lower Cambridgeport at Magazine St / Riverside Rd,17,14.0,27.0,13.0
+Lower Cambridgeport at Magazine St / Riverside Rd,18,17.0,11.0,-6.0
+Lower Cambridgeport at Magazine St / Riverside Rd,19,6.0,16.0,10.0
+Lower Cambridgeport at Magazine St / Riverside Rd,20,8.0,13.0,5.0
+Lower Cambridgeport at Magazine St / Riverside Rd,21,6.0,14.0,8.0
+Lower Cambridgeport at Magazine St / Riverside Rd,22,8.0,5.0,-3.0
+Lower Cambridgeport at Magazine St / Riverside Rd,23,2.0,8.0,6.0
+MIT Carleton St at Amherst St,0,1.0,0.0,-1.0
+MIT Carleton St at Amherst St,7,2.0,0.0,-2.0
+MIT Carleton St at Amherst St,11,2.0,0.0,-2.0
+MIT Carleton St at Amherst St,12,2.0,3.0,1.0
+MIT Carleton St at Amherst St,13,1.0,4.0,3.0
+MIT Carleton St at Amherst St,15,7.0,0.0,-7.0
+MIT Carleton St at Amherst St,16,1.0,1.0,0.0
+MIT Carleton St at Amherst St,18,3.0,1.0,-2.0
+MIT Carleton St at Amherst St,19,4.0,3.0,-1.0
+MIT Carleton St at Amherst St,23,1.0,0.0,-1.0
+MIT Hayward St at Amherst St,0,1.0,0.0,-1.0
+MIT Hayward St at Amherst St,9,1.0,1.0,0.0
+MIT Hayward St at Amherst St,14,2.0,0.0,-2.0
+MIT Hayward St at Amherst St,15,5.0,1.0,-4.0
+MIT Hayward St at Amherst St,16,6.0,2.0,-4.0
+MIT Hayward St at Amherst St,17,3.0,0.0,-3.0
+MIT Hayward St at Amherst St,20,1.0,1.0,0.0
+MIT Hayward St at Amherst St,21,1.0,0.0,-1.0
+MIT Hayward St at Amherst St,22,1.0,1.0,0.0
+MIT Hayward St at Amherst St,23,3.0,0.0,-3.0
+MIT Pacific St at Purrington St,0,1.0,0.0,-1.0
+MIT Pacific St at Purrington St,2,1.0,0.0,-1.0
+MIT Pacific St at Purrington St,5,1.0,0.0,-1.0
+MIT Pacific St at Purrington St,6,1.0,0.0,-1.0
+MIT Pacific St at Purrington St,8,3.0,4.0,1.0
+MIT Pacific St at Purrington St,9,1.0,3.0,2.0
+MIT Pacific St at Purrington St,11,2.0,5.0,3.0
+MIT Pacific St at Purrington St,12,2.0,3.0,1.0
+MIT Pacific St at Purrington St,13,2.0,11.0,9.0
+MIT Pacific St at Purrington St,14,1.0,2.0,1.0
+MIT Pacific St at Purrington St,15,4.0,5.0,1.0
+MIT Pacific St at Purrington St,16,4.0,6.0,2.0
+MIT Pacific St at Purrington St,17,11.0,3.0,-8.0
+MIT Pacific St at Purrington St,18,6.0,4.0,-2.0
+MIT Pacific St at Purrington St,19,9.0,6.0,-3.0
+MIT Pacific St at Purrington St,20,2.0,2.0,0.0
+MIT Pacific St at Purrington St,21,16.0,4.0,-12.0
+MIT Pacific St at Purrington St,22,33.0,0.0,-33.0
+MIT Pacific St at Purrington St,23,16.0,0.0,-16.0
+MIT Stata Center at Vassar St / Main St,13,2.0,1.0,-1.0
+MIT Stata Center at Vassar St / Main St,14,7.0,1.0,-6.0
+MIT Stata Center at Vassar St / Main St,15,3.0,1.0,-2.0
+MIT Stata Center at Vassar St / Main St,17,2.0,3.0,1.0
+MIT Stata Center at Vassar St / Main St,18,3.0,0.0,-3.0
+MIT Stata Center at Vassar St / Main St,19,1.0,0.0,-1.0
+MIT Stata Center at Vassar St / Main St,20,4.0,0.0,-4.0
+MIT Stata Center at Vassar St / Main St,21,2.0,0.0,-2.0
+MIT Vassar St,0,5.0,0.0,-5.0
+MIT Vassar St,1,1.0,0.0,-1.0
+MIT Vassar St,2,1.0,0.0,-1.0
+MIT Vassar St,3,1.0,0.0,-1.0
+MIT Vassar St,6,1.0,1.0,0.0
+MIT Vassar St,7,2.0,0.0,-2.0
+MIT Vassar St,8,2.0,2.0,0.0
+MIT Vassar St,9,2.0,2.0,0.0
+MIT Vassar St,10,3.0,2.0,-1.0
+MIT Vassar St,11,4.0,1.0,-3.0
+MIT Vassar St,12,7.0,4.0,-3.0
+MIT Vassar St,14,3.0,9.0,6.0
+MIT Vassar St,15,6.0,12.0,6.0
+MIT Vassar St,16,5.0,3.0,-2.0
+MIT Vassar St,17,6.0,9.0,3.0
+MIT Vassar St,18,4.0,5.0,1.0
+MIT Vassar St,19,2.0,4.0,2.0
+MIT Vassar St,20,1.0,3.0,2.0
+MIT Vassar St,21,9.0,3.0,-6.0
+MIT Vassar St,22,13.0,7.0,-6.0
+MIT Vassar St,23,5.0,2.0,-3.0
+MIT at Mass Ave / Amherst St,0,2.0,3.0,1.0
+MIT at Mass Ave / Amherst St,1,1.0,4.0,3.0
+MIT at Mass Ave / Amherst St,4,2.0,0.0,-2.0
+MIT at Mass Ave / Amherst St,5,2.0,2.0,0.0
+MIT at Mass Ave / Amherst St,7,11.0,6.0,-5.0
+MIT at Mass Ave / Amherst St,9,1.0,11.0,10.0
+MIT at Mass Ave / Amherst St,10,1.0,5.0,4.0
+MIT at Mass Ave / Amherst St,11,6.0,9.0,3.0
+MIT at Mass Ave / Amherst St,12,4.0,7.0,3.0
+MIT at Mass Ave / Amherst St,13,1.0,5.0,4.0
+MIT at Mass Ave / Amherst St,14,14.0,7.0,-7.0
+MIT at Mass Ave / Amherst St,15,8.0,4.0,-4.0
+MIT at Mass Ave / Amherst St,16,8.0,16.0,8.0
+MIT at Mass Ave / Amherst St,17,10.0,6.0,-4.0
+MIT at Mass Ave / Amherst St,18,9.0,12.0,3.0
+MIT at Mass Ave / Amherst St,19,14.0,9.0,-5.0
+MIT at Mass Ave / Amherst St,20,5.0,13.0,8.0
+MIT at Mass Ave / Amherst St,21,6.0,5.0,-1.0
+MIT at Mass Ave / Amherst St,22,12.0,1.0,-11.0
+MIT at Mass Ave / Amherst St,23,1.0,2.0,1.0
+Magoun Square at Trum Field,4,1.0,0.0,-1.0
+Magoun Square at Trum Field,7,1.0,0.0,-1.0
+Magoun Square at Trum Field,8,5.0,0.0,-5.0
+Magoun Square at Trum Field,9,5.0,0.0,-5.0
+Magoun Square at Trum Field,10,1.0,0.0,-1.0
+Magoun Square at Trum Field,12,1.0,0.0,-1.0
+Magoun Square at Trum Field,16,1.0,0.0,-1.0
+Magoun Square at Trum Field,20,1.0,0.0,-1.0
+Main St at Austin St,6,4.0,0.0,-4.0
+Main St at Austin St,8,1.0,2.0,1.0
+Main St at Baldwin St,14,1.0,1.0,0.0
+Main St at Brooks Park,8,1.0,0.0,-1.0
+Main St at Thompson Sq,6,5.0,0.0,-5.0
+Main St at Thompson Sq,16,1.0,0.0,-1.0
+Main Street/Albany Street/Technology Square,6,1.0,0.0,-1.0
+Main Street/Albany Street/Technology Square,8,3.0,1.0,-2.0
+Main Street/Albany Street/Technology Square,10,1.0,0.0,-1.0
+Main Street/Albany Street/Technology Square,11,3.0,1.0,-2.0
+Main Street/Albany Street/Technology Square,12,3.0,2.0,-1.0
+Main Street/Albany Street/Technology Square,13,3.0,5.0,2.0
+Main Street/Albany Street/Technology Square,14,4.0,12.0,8.0
+Main Street/Albany Street/Technology Square,15,1.0,16.0,15.0
+Main Street/Albany Street/Technology Square,16,5.0,0.0,-5.0
+Main Street/Albany Street/Technology Square,18,2.0,1.0,-1.0
+Main Street/Albany Street/Technology Square,19,1.0,3.0,2.0
+Main Street/Albany Street/Technology Square,20,2.0,0.0,-2.0
+Main Street/Albany Street/Technology Square,21,2.0,0.0,-2.0
+Marion St at Harvard St,5,1.0,0.0,-1.0
+Marion St at Harvard St,8,4.0,0.0,-4.0
+Marion St at Harvard St,9,2.0,3.0,1.0
+Marion St at Harvard St,10,1.0,2.0,1.0
+Marion St at Harvard St,11,3.0,3.0,0.0
+Marion St at Harvard St,12,5.0,3.0,-2.0
+Marion St at Harvard St,13,4.0,5.0,1.0
+Marion St at Harvard St,14,3.0,5.0,2.0
+Marion St at Harvard St,15,6.0,7.0,1.0
+Marion St at Harvard St,16,4.0,3.0,-1.0
+Marion St at Harvard St,17,8.0,9.0,1.0
+Marion St at Harvard St,18,7.0,3.0,-4.0
+Marion St at Harvard St,19,6.0,5.0,-1.0
+Marion St at Harvard St,20,2.0,0.0,-2.0
+Marion St at Harvard St,21,3.0,3.0,0.0
+Marion St at Harvard St,22,2.0,1.0,-1.0
+Marion St at Harvard St,23,6.0,1.0,-5.0
+Market St at Mapleton St,11,2.0,2.0,0.0
+Market St at Mapleton St,12,1.0,0.0,-1.0
+Market St at Mapleton St,13,1.0,1.0,0.0
+Market St at Mapleton St,15,3.0,0.0,-3.0
+Market St at Mapleton St,17,2.0,3.0,1.0
+Market St at Mapleton St,19,1.0,0.0,-1.0
+Martha Eliot Health Center,7,1.0,0.0,-1.0
+Mass Ave T Station,7,2.0,0.0,-2.0
+Mass Ave T Station,8,2.0,1.0,-1.0
+Mass Ave T Station,10,1.0,0.0,-1.0
+Mass Ave T Station,13,2.0,0.0,-2.0
+Mass Ave T Station,15,4.0,1.0,-3.0
+Mass Ave T Station,18,1.0,2.0,1.0
+Mass Ave T Station,21,1.0,1.0,0.0
+Mass Ave at Albany St,1,4.0,0.0,-4.0
+Mass Ave at Albany St,3,1.0,0.0,-1.0
+Mass Ave at Albany St,5,2.0,0.0,-2.0
+Mass Ave at Albany St,6,2.0,0.0,-2.0
+Mass Ave at Albany St,8,8.0,5.0,-3.0
+Mass Ave at Albany St,9,4.0,0.0,-4.0
+Mass Ave at Albany St,10,4.0,2.0,-2.0
+Mass Ave at Albany St,11,2.0,9.0,7.0
+Mass Ave at Albany St,12,9.0,5.0,-4.0
+Mass Ave at Albany St,13,3.0,3.0,0.0
+Mass Ave at Albany St,14,4.0,4.0,0.0
+Mass Ave at Albany St,15,2.0,2.0,0.0
+Mass Ave at Albany St,16,6.0,2.0,-4.0
+Mass Ave at Albany St,17,8.0,10.0,2.0
+Mass Ave at Albany St,18,7.0,9.0,2.0
+Mass Ave at Albany St,19,5.0,5.0,0.0
+Mass Ave at Albany St,20,7.0,2.0,-5.0
+Mass Ave at Albany St,21,1.0,0.0,-1.0
+Mass Ave at Albany St,22,3.0,1.0,-2.0
+Mass Ave at Albany St,23,1.0,1.0,0.0
+Mass Ave at Alewife Greenway,11,1.0,0.0,-1.0
+Mass Ave at Alewife Greenway,13,1.0,1.0,0.0
+Mass Ave at Alewife Greenway,19,2.0,0.0,-2.0
+Mass Ave at Broadway,0,2.0,0.0,-2.0
+Mass Ave at Broadway,5,1.0,0.0,-1.0
+Mass Ave at Broadway,11,1.0,0.0,-1.0
+Mass Ave at Broadway,13,1.0,0.0,-1.0
+Mass Ave at Broadway,15,1.0,0.0,-1.0
+Mass Ave at Broadway,17,1.0,1.0,0.0
+Mass Ave at Grafton St,9,2.0,0.0,-2.0
+Mass Ave at Grafton St,13,1.0,4.0,3.0
+Mass Ave at Grafton St,19,1.0,1.0,0.0
+Mass Ave at Grafton St,23,1.0,0.0,-1.0
+Mass Ave at Hadley/Walden,4,2.0,0.0,-2.0
+Mass Ave at Hadley/Walden,7,2.0,0.0,-2.0
+Mass Ave at Hadley/Walden,8,2.0,1.0,-1.0
+Mass Ave at Hadley/Walden,9,2.0,1.0,-1.0
+Mass Ave at Hadley/Walden,10,1.0,4.0,3.0
+Mass Ave at Hadley/Walden,11,1.0,1.0,0.0
+Mass Ave at Hadley/Walden,12,3.0,0.0,-3.0
+Mass Ave at Hadley/Walden,13,4.0,1.0,-3.0
+Mass Ave at Hadley/Walden,14,3.0,2.0,-1.0
+Mass Ave at Hadley/Walden,15,1.0,5.0,4.0
+Mass Ave at Hadley/Walden,16,4.0,4.0,0.0
+Mass Ave at Hadley/Walden,17,3.0,4.0,1.0
+Mass Ave at Hadley/Walden,18,7.0,4.0,-3.0
+Mass Ave at Hadley/Walden,19,3.0,2.0,-1.0
+Mass Ave at Hadley/Walden,21,2.0,2.0,0.0
+Mass Ave/Lafayette Square,2,1.0,0.0,-1.0
+Mass Ave/Lafayette Square,6,3.0,0.0,-3.0
+Mass Ave/Lafayette Square,7,2.0,0.0,-2.0
+Mass Ave/Lafayette Square,8,5.0,0.0,-5.0
+Mass Ave/Lafayette Square,10,2.0,1.0,-1.0
+Mass Ave/Lafayette Square,11,3.0,1.0,-2.0
+Mass Ave/Lafayette Square,12,5.0,0.0,-5.0
+Mass Ave/Lafayette Square,13,4.0,4.0,0.0
+Mass Ave/Lafayette Square,14,3.0,1.0,-2.0
+Mass Ave/Lafayette Square,15,7.0,5.0,-2.0
+Mass Ave/Lafayette Square,16,5.0,1.0,-4.0
+Mass Ave/Lafayette Square,17,5.0,2.0,-3.0
+Mass Ave/Lafayette Square,18,5.0,4.0,-1.0
+Mass Ave/Lafayette Square,19,5.0,2.0,-3.0
+Mass Ave/Lafayette Square,20,2.0,3.0,1.0
+Mass Ave/Lafayette Square,21,1.0,0.0,-1.0
+Mass Ave/Lafayette Square,22,2.0,2.0,0.0
+Massachusetts Ave at Boylston St.,8,23.0,3.0,-20.0
+Massachusetts Ave at Boylston St.,10,1.0,1.0,0.0
+Massachusetts Ave at Boylston St.,12,1.0,4.0,3.0
+Massachusetts Ave at Boylston St.,13,3.0,2.0,-1.0
+Massachusetts Ave at Boylston St.,14,1.0,0.0,-1.0
+Massachusetts Ave at Boylston St.,15,3.0,6.0,3.0
+Massachusetts Ave at Boylston St.,16,6.0,16.0,10.0
+Massachusetts Ave at Boylston St.,17,3.0,2.0,-1.0
+Massachusetts Ave at Boylston St.,18,2.0,5.0,3.0
+Massachusetts Ave at Boylston St.,19,3.0,1.0,-2.0
+Massachusetts Ave at Boylston St.,22,1.0,0.0,-1.0
+Massachusetts Ave at Boylston St.,23,1.0,0.0,-1.0
+Massachusetts Ave at Columbus Ave,7,1.0,0.0,-1.0
+Massachusetts Ave at Columbus Ave,10,2.0,1.0,-1.0
+Massachusetts Ave at Columbus Ave,11,1.0,1.0,0.0
+Massachusetts Ave at Columbus Ave,12,4.0,0.0,-4.0
+Massachusetts Ave at Columbus Ave,13,2.0,1.0,-1.0
+Massachusetts Ave at Columbus Ave,15,2.0,2.0,0.0
+Massachusetts Ave at Columbus Ave,16,2.0,1.0,-1.0
+Massachusetts Ave at Columbus Ave,17,1.0,3.0,2.0
+Massachusetts Ave at Columbus Ave,19,2.0,3.0,1.0
+Massachusetts Ave at Columbus Ave,22,2.0,2.0,0.0
+Meaney Playground - Pleasant St at E Cottage St,12,1.0,0.0,-1.0
+Medford Sq - Riverside Ave at River St,8,2.0,0.0,-2.0
+Medford Sq - Riverside Ave at River St,10,1.0,0.0,-1.0
+Medford Sq - Riverside Ave at River St,18,1.0,0.0,-1.0
+Medford St at Charlestown BCYF,7,1.0,0.0,-1.0
+Medford St at Charlestown BCYF,17,1.0,0.0,-1.0
+Medford St at Charlestown BCYF,18,1.0,0.0,-1.0
+Melnea Cass Blvd at Hampden St,16,1.0,0.0,-1.0
+Mill St. at Minuteman Bikeway,10,2.0,0.0,-2.0
+Mill St. at Minuteman Bikeway,13,2.0,0.0,-2.0
+Mill St. at Minuteman Bikeway,14,1.0,0.0,-1.0
+Mill St. at Minuteman Bikeway,15,1.0,0.0,-1.0
+Mill St. at Minuteman Bikeway,16,1.0,0.0,-1.0
+Mill St. at Minuteman Bikeway,18,1.0,0.0,-1.0
+Moore Youth Center,7,2.0,1.0,-1.0
+Moore Youth Center,8,1.0,1.0,0.0
+Moore Youth Center,9,2.0,0.0,-2.0
+Moore Youth Center,10,2.0,0.0,-2.0
+Moore Youth Center,12,1.0,1.0,0.0
+Moore Youth Center,13,2.0,1.0,-1.0
+Moore Youth Center,14,2.0,0.0,-2.0
+Moore Youth Center,15,4.0,1.0,-3.0
+Moore Youth Center,16,4.0,2.0,-2.0
+Moore Youth Center,17,2.0,3.0,1.0
+Moore Youth Center,18,3.0,7.0,4.0
+Moore Youth Center,19,2.0,1.0,-1.0
+Moore Youth Center,21,1.0,0.0,-1.0
+Morgan Ave at North First St,6,1.0,0.0,-1.0
+Morgan Ave at North First St,10,1.0,0.0,-1.0
+Morgan Ave at North First St,12,1.0,0.0,-1.0
+Morgan Ave at North First St,13,1.0,0.0,-1.0
+Morgan Ave at North First St,14,2.0,0.0,-2.0
+Morgan Ave at North First St,16,1.0,0.0,-1.0
+Morgan Ave at North First St,19,3.0,0.0,-3.0
+Mt Auburn,0,1.0,2.0,1.0
+Mt Auburn,1,3.0,4.0,1.0
+Mt Auburn,2,3.0,0.0,-3.0
+Mt Auburn,3,4.0,0.0,-4.0
+Mt Auburn,7,6.0,1.0,-5.0
+Mt Auburn,8,52.0,1.0,-51.0
+Mt Auburn,9,14.0,1.0,-13.0
+Mt Auburn,10,11.0,7.0,-4.0
+Mt Auburn,11,15.0,5.0,-10.0
+Mt Auburn,12,13.0,11.0,-2.0
+Mt Auburn,13,12.0,11.0,-1.0
+Mt Auburn,14,21.0,14.0,-7.0
+Mt Auburn,15,18.0,19.0,1.0
+Mt Auburn,16,14.0,23.0,9.0
+Mt Auburn,17,20.0,45.0,25.0
+Mt Auburn,18,11.0,27.0,16.0
+Mt Auburn,19,11.0,22.0,11.0
+Mt Auburn,20,6.0,16.0,10.0
+Mt Auburn,21,6.0,9.0,3.0
+Mt Auburn,22,6.0,6.0,0.0
+Mt Auburn,23,5.0,5.0,0.0
+Mt. Hope St at Hyde Park Ave,18,1.0,0.0,-1.0
+Mugar Way at Beacon St,5,1.0,0.0,-1.0
+Mugar Way at Beacon St,6,2.0,1.0,-1.0
+Mugar Way at Beacon St,8,1.0,6.0,5.0
+Mugar Way at Beacon St,9,1.0,11.0,10.0
+Mugar Way at Beacon St,10,1.0,8.0,7.0
+Mugar Way at Beacon St,12,8.0,14.0,6.0
+Mugar Way at Beacon St,13,7.0,6.0,-1.0
+Mugar Way at Beacon St,14,10.0,8.0,-2.0
+Mugar Way at Beacon St,15,14.0,8.0,-6.0
+Mugar Way at Beacon St,16,18.0,12.0,-6.0
+Mugar Way at Beacon St,17,9.0,8.0,-1.0
+Mugar Way at Beacon St,18,9.0,6.0,-3.0
+Mugar Way at Beacon St,19,8.0,3.0,-5.0
+Mugar Way at Beacon St,20,6.0,7.0,1.0
+Mugar Way at Beacon St,21,5.0,0.0,-5.0
+Mugar Way at Beacon St,22,3.0,7.0,4.0
+Mugar Way at Beacon St,23,7.0,0.0,-7.0
+Murphy Skating Rink - 1880 Day Blvd,0,1.0,0.0,-1.0
+Murphy Skating Rink - 1880 Day Blvd,8,1.0,0.0,-1.0
+Museum of Science,8,1.0,0.0,-1.0
+Museum of Science,12,2.0,1.0,-1.0
+Museum of Science,15,1.0,0.0,-1.0
+Museum of Science,16,2.0,0.0,-2.0
+Museum of Science,20,2.0,0.0,-2.0
+Museum of Science,21,4.0,1.0,-3.0
+N. Beacon St at N. Beacon Ct,7,3.0,0.0,-3.0
+N. Beacon St at N. Beacon Ct,8,2.0,1.0,-1.0
+N. Beacon St at N. Beacon Ct,9,1.0,3.0,2.0
+N. Beacon St at N. Beacon Ct,17,1.0,0.0,-1.0
+N. Beacon St at N. Beacon Ct,19,1.0,0.0,-1.0
+N. Harvard St at Harvard Way,12,3.0,0.0,-3.0
+N. Harvard St at Harvard Way,13,3.0,1.0,-2.0
+N. Harvard St at Harvard Way,17,1.0,2.0,1.0
+N. Harvard St at Harvard Way,18,1.0,1.0,0.0
+N. Harvard St at Harvard Way,21,1.0,0.0,-1.0
+N. Harvard St at Harvard Way,22,2.0,0.0,-2.0
+NCAAA - Walnut Ave at Crawford St,9,1.0,0.0,-1.0
+Nashua Street at Red Auerbach Way,0,1.0,0.0,-1.0
+Nashua Street at Red Auerbach Way,2,1.0,1.0,0.0
+Nashua Street at Red Auerbach Way,15,3.0,1.0,-2.0
+Nashua Street at Red Auerbach Way,16,5.0,1.0,-4.0
+Nashua Street at Red Auerbach Way,18,1.0,2.0,1.0
+Nashua Street at Red Auerbach Way,20,1.0,2.0,1.0
+Nashua Street at Red Auerbach Way,22,2.0,2.0,0.0
+Nashua Street at Red Auerbach Way [Extension],16,1.0,0.0,-1.0
+Nashua Street at Red Auerbach Way [Extension],17,1.0,0.0,-1.0
+New Balance - 20 Guest St,0,7.0,17.0,10.0
+New Balance - 20 Guest St,1,10.0,12.0,2.0
+New Balance - 20 Guest St,2,7.0,8.0,1.0
+New Balance - 20 Guest St,3,6.0,6.0,0.0
+New Balance - 20 Guest St,4,20.0,4.0,-16.0
+New Balance - 20 Guest St,5,4.0,1.0,-3.0
+New Balance - 20 Guest St,6,9.0,2.0,-7.0
+New Balance - 20 Guest St,7,14.0,22.0,8.0
+New Balance - 20 Guest St,8,31.0,47.0,16.0
+New Balance - 20 Guest St,9,29.0,14.0,-15.0
+New Balance - 20 Guest St,10,37.0,28.0,-9.0
+New Balance - 20 Guest St,11,51.0,27.0,-24.0
+New Balance - 20 Guest St,12,48.0,37.0,-11.0
+New Balance - 20 Guest St,13,50.0,48.0,-2.0
+New Balance - 20 Guest St,14,71.0,52.0,-19.0
+New Balance - 20 Guest St,15,61.0,48.0,-13.0
+New Balance - 20 Guest St,16,60.0,42.0,-18.0
+New Balance - 20 Guest St,17,65.0,55.0,-10.0
+New Balance - 20 Guest St,18,69.0,52.0,-17.0
+New Balance - 20 Guest St,19,43.0,48.0,5.0
+New Balance - 20 Guest St,20,29.0,30.0,1.0
+New Balance - 20 Guest St,21,43.0,35.0,-8.0
+New Balance - 20 Guest St,22,28.0,30.0,2.0
+New Balance - 20 Guest St,23,26.0,14.0,-12.0
+Newbury St at Hereford St,1,2.0,1.0,-1.0
+Newbury St at Hereford St,2,2.0,1.0,-1.0
+Newbury St at Hereford St,7,3.0,0.0,-3.0
+Newbury St at Hereford St,8,1.0,3.0,2.0
+Newbury St at Hereford St,10,3.0,3.0,0.0
+Newbury St at Hereford St,11,2.0,7.0,5.0
+Newbury St at Hereford St,12,4.0,5.0,1.0
+Newbury St at Hereford St,13,6.0,8.0,2.0
+Newbury St at Hereford St,14,4.0,6.0,2.0
+Newbury St at Hereford St,15,2.0,3.0,1.0
+Newbury St at Hereford St,16,8.0,2.0,-6.0
+Newbury St at Hereford St,17,9.0,3.0,-6.0
+Newbury St at Hereford St,18,4.0,7.0,3.0
+Newbury St at Hereford St,19,7.0,3.0,-4.0
+Newbury St at Hereford St,20,3.0,2.0,-1.0
+Newbury St at Hereford St,21,4.0,2.0,-2.0
+Newbury St at Hereford St,22,4.0,3.0,-1.0
+Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,11,1.0,1.0,0.0
+Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,14,1.0,0.0,-1.0
+Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,17,2.0,0.0,-2.0
+Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,21,2.0,0.0,-2.0
+Newton Highlands T,9,1.0,1.0,0.0
+Newton Highlands T,10,1.0,1.0,0.0
+Newton Highlands T,14,1.0,1.0,0.0
+Newton Highlands T,16,2.0,1.0,-1.0
+Newton Highlands T,17,1.0,0.0,-1.0
+Newton Highlands T,18,2.0,2.0,0.0
+Newton Highlands T,20,1.0,2.0,1.0
+Newton Library,8,2.0,0.0,-2.0
+Newton Library,9,5.0,0.0,-5.0
+Newton Library,12,2.0,0.0,-2.0
+Nichols Ave. at Watertown Greenway,0,5.0,13.0,8.0
+Nichols Ave. at Watertown Greenway,1,7.0,5.0,-2.0
+Nichols Ave. at Watertown Greenway,2,1.0,3.0,2.0
+Nichols Ave. at Watertown Greenway,3,2.0,8.0,6.0
+Nichols Ave. at Watertown Greenway,4,9.0,5.0,-4.0
+Nichols Ave. at Watertown Greenway,5,3.0,1.0,-2.0
+Nichols Ave. at Watertown Greenway,6,14.0,6.0,-8.0
+Nichols Ave. at Watertown Greenway,7,24.0,15.0,-9.0
+Nichols Ave. at Watertown Greenway,8,16.0,20.0,4.0
+Nichols Ave. at Watertown Greenway,9,30.0,17.0,-13.0
+Nichols Ave. at Watertown Greenway,10,25.0,22.0,-3.0
+Nichols Ave. at Watertown Greenway,11,33.0,28.0,-5.0
+Nichols Ave. at Watertown Greenway,12,49.0,31.0,-18.0
+Nichols Ave. at Watertown Greenway,13,36.0,43.0,7.0
+Nichols Ave. at Watertown Greenway,14,44.0,47.0,3.0
+Nichols Ave. at Watertown Greenway,15,89.0,28.0,-61.0
+Nichols Ave. at Watertown Greenway,16,93.0,50.0,-43.0
+Nichols Ave. at Watertown Greenway,17,50.0,59.0,9.0
+Nichols Ave. at Watertown Greenway,18,51.0,54.0,3.0
+Nichols Ave. at Watertown Greenway,19,37.0,43.0,6.0
+Nichols Ave. at Watertown Greenway,20,26.0,42.0,16.0
+Nichols Ave. at Watertown Greenway,21,28.0,47.0,19.0
+Nichols Ave. at Watertown Greenway,22,26.0,61.0,35.0
+Nichols Ave. at Watertown Greenway,23,27.0,51.0,24.0
+Nonantum Library,0,1.0,2.0,1.0
+Nonantum Library,2,3.0,2.0,-1.0
+Nonantum Library,4,2.0,0.0,-2.0
+Nonantum Library,5,4.0,1.0,-3.0
+Nonantum Library,7,2.0,1.0,-1.0
+Nonantum Library,8,10.0,6.0,-4.0
+Nonantum Library,9,2.0,7.0,5.0
+Nonantum Library,10,3.0,7.0,4.0
+Nonantum Library,11,2.0,4.0,2.0
+Nonantum Library,12,4.0,7.0,3.0
+Nonantum Library,13,17.0,6.0,-11.0
+Nonantum Library,14,11.0,9.0,-2.0
+Nonantum Library,15,9.0,11.0,2.0
+Nonantum Library,16,17.0,8.0,-9.0
+Nonantum Library,17,14.0,14.0,0.0
+Nonantum Library,18,13.0,7.0,-6.0
+Nonantum Library,19,6.0,13.0,7.0
+Nonantum Library,20,6.0,7.0,1.0
+Nonantum Library,21,5.0,11.0,6.0
+Nonantum Library,22,3.0,5.0,2.0
+Nonantum Library,23,4.0,10.0,6.0
+Northeastern University - North Parking Lot,0,1.0,1.0,0.0
+Northeastern University - North Parking Lot,6,1.0,0.0,-1.0
+Northeastern University - North Parking Lot,8,16.0,0.0,-16.0
+Northeastern University - North Parking Lot,11,1.0,0.0,-1.0
+Northeastern University - North Parking Lot,12,3.0,1.0,-2.0
+Northeastern University - North Parking Lot,13,17.0,3.0,-14.0
+Northeastern University - North Parking Lot,14,4.0,2.0,-2.0
+Northeastern University - North Parking Lot,15,3.0,1.0,-2.0
+Northeastern University - North Parking Lot,16,1.0,1.0,0.0
+Northeastern University - North Parking Lot,17,4.0,6.0,2.0
+Northeastern University - North Parking Lot,18,1.0,1.0,0.0
+Northeastern University - North Parking Lot,22,1.0,10.0,9.0
+Northern Ave at Haul Rd,14,1.0,0.0,-1.0
+O'Brien Highway at First Street,12,1.0,2.0,1.0
+O'Brien Highway at First Street,17,1.0,1.0,0.0
+Oak Square - 615 Washington St,0,14.0,14.0,0.0
+Oak Square - 615 Washington St,1,17.0,15.0,-2.0
+Oak Square - 615 Washington St,2,4.0,8.0,4.0
+Oak Square - 615 Washington St,3,23.0,2.0,-21.0
+Oak Square - 615 Washington St,4,2.0,2.0,0.0
+Oak Square - 615 Washington St,6,52.0,0.0,-52.0
+Oak Square - 615 Washington St,7,7.0,3.0,-4.0
+Oak Square - 615 Washington St,8,6.0,9.0,3.0
+Oak Square - 615 Washington St,9,23.0,11.0,-12.0
+Oak Square - 615 Washington St,10,22.0,14.0,-8.0
+Oak Square - 615 Washington St,11,24.0,19.0,-5.0
+Oak Square - 615 Washington St,12,21.0,42.0,21.0
+Oak Square - 615 Washington St,13,33.0,32.0,-1.0
+Oak Square - 615 Washington St,14,41.0,44.0,3.0
+Oak Square - 615 Washington St,15,48.0,53.0,5.0
+Oak Square - 615 Washington St,16,51.0,45.0,-6.0
+Oak Square - 615 Washington St,17,53.0,50.0,-3.0
+Oak Square - 615 Washington St,18,51.0,54.0,3.0
+Oak Square - 615 Washington St,19,34.0,65.0,31.0
+Oak Square - 615 Washington St,20,41.0,53.0,12.0
+Oak Square - 615 Washington St,21,39.0,39.0,0.0
+Oak Square - 615 Washington St,22,27.0,35.0,8.0
+Oak Square - 615 Washington St,23,26.0,24.0,-2.0
+Oak Square - Washington St at Bigelow St,13,3.0,0.0,-3.0
+Oak Square - Washington St at Bigelow St,17,2.0,2.0,0.0
+Old Morse Park at Putnam Ave,8,5.0,2.0,-3.0
+Old Morse Park at Putnam Ave,9,6.0,2.0,-4.0
+Old Morse Park at Putnam Ave,12,1.0,1.0,0.0
+Old Morse Park at Putnam Ave,13,3.0,3.0,0.0
+Old Morse Park at Putnam Ave,14,2.0,3.0,1.0
+Old Morse Park at Putnam Ave,15,4.0,3.0,-1.0
+Old Morse Park at Putnam Ave,16,4.0,7.0,3.0
+Old Morse Park at Putnam Ave,17,6.0,3.0,-3.0
+Old Morse Park at Putnam Ave,18,5.0,6.0,1.0
+Old Morse Park at Putnam Ave,19,2.0,6.0,4.0
+Old Morse Park at Putnam Ave,20,6.0,2.0,-4.0
+Old Morse Park at Putnam Ave,23,1.0,0.0,-1.0
+One Beacon St,1,1.0,0.0,-1.0
+One Beacon St,13,2.0,0.0,-2.0
+One Beacon St,14,2.0,0.0,-2.0
+One Beacon St,16,2.0,0.0,-2.0
+One Beacon St,17,1.0,0.0,-1.0
+One Beacon St,18,2.0,0.0,-2.0
+One Beacon St,22,1.0,0.0,-1.0
+One Brigham Circle,7,1.0,2.0,1.0
+One Brigham Circle,9,1.0,1.0,0.0
+One Brigham Circle,11,2.0,2.0,0.0
+One Brigham Circle,12,4.0,1.0,-3.0
+One Brigham Circle,13,16.0,0.0,-16.0
+One Brigham Circle,14,1.0,4.0,3.0
+One Brigham Circle,15,1.0,4.0,3.0
+One Brigham Circle,16,2.0,1.0,-1.0
+One Brigham Circle,17,3.0,0.0,-3.0
+One Brigham Circle,19,1.0,1.0,0.0
+One Brigham Circle,20,2.0,1.0,-1.0
+One Brigham Circle,21,1.0,4.0,3.0
+One Broadway / Kendall Sq at Main St / 3rd St,1,1.0,0.0,-1.0
+One Broadway / Kendall Sq at Main St / 3rd St,12,1.0,0.0,-1.0
+One Broadway / Kendall Sq at Main St / 3rd St,13,3.0,2.0,-1.0
+One Broadway / Kendall Sq at Main St / 3rd St,15,3.0,0.0,-3.0
+One Broadway / Kendall Sq at Main St / 3rd St,16,4.0,4.0,0.0
+One Broadway / Kendall Sq at Main St / 3rd St,17,2.0,1.0,-1.0
+One Broadway / Kendall Sq at Main St / 3rd St,18,2.0,2.0,0.0
+One Broadway / Kendall Sq at Main St / 3rd St,19,2.0,2.0,0.0
+One Broadway / Kendall Sq at Main St / 3rd St,20,1.0,0.0,-1.0
+One Broadway / Kendall Sq at Main St / 3rd St,21,2.0,2.0,0.0
+One Broadway / Kendall Sq at Main St / 3rd St,23,2.0,0.0,-2.0
+One Kendall Square at Hampshire St / Portland St,0,3.0,0.0,-3.0
+One Kendall Square at Hampshire St / Portland St,3,2.0,3.0,1.0
+One Kendall Square at Hampshire St / Portland St,8,2.0,1.0,-1.0
+One Kendall Square at Hampshire St / Portland St,12,2.0,4.0,2.0
+One Kendall Square at Hampshire St / Portland St,13,1.0,2.0,1.0
+One Kendall Square at Hampshire St / Portland St,15,11.0,4.0,-7.0
+One Kendall Square at Hampshire St / Portland St,16,10.0,0.0,-10.0
+One Kendall Square at Hampshire St / Portland St,17,9.0,3.0,-6.0
+One Kendall Square at Hampshire St / Portland St,18,8.0,2.0,-6.0
+One Kendall Square at Hampshire St / Portland St,19,2.0,3.0,1.0
+One Kendall Square at Hampshire St / Portland St,22,2.0,1.0,-1.0
+One Kendall Square at Hampshire St / Portland St,23,1.0,0.0,-1.0
+One Memorial Drive,1,1.0,1.0,0.0
+One Memorial Drive,2,6.0,3.0,-3.0
+One Memorial Drive,4,1.0,0.0,-1.0
+One Memorial Drive,9,1.0,0.0,-1.0
+One Memorial Drive,13,1.0,1.0,0.0
+One Memorial Drive,14,5.0,0.0,-5.0
+One Memorial Drive,15,3.0,1.0,-2.0
+One Memorial Drive,16,1.0,0.0,-1.0
+One Memorial Drive,17,1.0,2.0,1.0
+One Memorial Drive,18,1.0,1.0,0.0
+One Memorial Drive,20,2.0,2.0,0.0
+One Memorial Drive,21,2.0,5.0,3.0
+One Memorial Drive,22,2.0,3.0,1.0
+Packard Ave at Powderhouse Blvd,0,1.0,0.0,-1.0
+Packard Ave at Powderhouse Blvd,6,1.0,0.0,-1.0
+Packard Ave at Powderhouse Blvd,8,2.0,0.0,-2.0
+Packard Ave at Powderhouse Blvd,9,1.0,1.0,0.0
+Packard Ave at Powderhouse Blvd,10,2.0,1.0,-1.0
+Packard Ave at Powderhouse Blvd,11,1.0,0.0,-1.0
+Packard Ave at Powderhouse Blvd,12,2.0,0.0,-2.0
+Packard Ave at Powderhouse Blvd,15,1.0,0.0,-1.0
+Packard Ave at Powderhouse Blvd,16,1.0,1.0,0.0
+Packard Ave at Powderhouse Blvd,18,1.0,0.0,-1.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,0,3.0,3.0,0.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,1,8.0,1.0,-7.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,2,3.0,0.0,-3.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,3,1.0,1.0,0.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,4,2.0,0.0,-2.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,7,3.0,10.0,7.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,8,3.0,5.0,2.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,9,13.0,3.0,-10.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,10,7.0,12.0,5.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,11,9.0,3.0,-6.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,12,16.0,13.0,-3.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,13,12.0,11.0,-1.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,14,21.0,10.0,-11.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,15,28.0,22.0,-6.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,16,21.0,16.0,-5.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,17,25.0,14.0,-11.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,18,20.0,22.0,2.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,19,23.0,14.0,-9.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,20,17.0,27.0,10.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,21,12.0,13.0,1.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,22,12.0,16.0,4.0
+Packard's Corner - Commonwealth Ave at Brighton Ave,23,13.0,8.0,-5.0
+Park Dr at Buswell St,0,2.0,1.0,-1.0
+Park Dr at Buswell St,1,2.0,0.0,-2.0
+Park Dr at Buswell St,2,2.0,0.0,-2.0
+Park Dr at Buswell St,3,2.0,0.0,-2.0
+Park Dr at Buswell St,6,1.0,0.0,-1.0
+Park Dr at Buswell St,9,1.0,0.0,-1.0
+Park Dr at Buswell St,11,1.0,2.0,1.0
+Park Dr at Buswell St,12,1.0,1.0,0.0
+Park Dr at Buswell St,13,2.0,4.0,2.0
+Park Dr at Buswell St,14,4.0,1.0,-3.0
+Park Dr at Buswell St,15,4.0,4.0,0.0
+Park Dr at Buswell St,16,4.0,1.0,-3.0
+Park Dr at Buswell St,17,5.0,5.0,0.0
+Park Dr at Buswell St,18,6.0,6.0,0.0
+Park Dr at Buswell St,19,2.0,0.0,-2.0
+Park Dr at Buswell St,20,2.0,2.0,0.0
+Park Dr at Buswell St,21,3.0,4.0,1.0
+Park Dr at Buswell St,22,4.0,2.0,-2.0
+Park Dr at Buswell St,23,4.0,0.0,-4.0
+Park Plaza at Charles St S.,1,1.0,0.0,-1.0
+Park Plaza at Charles St S.,16,1.0,6.0,5.0
+Park Plaza at Charles St S.,17,1.0,0.0,-1.0
+Park Plaza at Charles St S.,18,1.0,0.0,-1.0
+Park Plaza at Charles St S.,19,1.0,0.0,-1.0
+Park Street T Stop - Tremont St at Park St,19,3.0,0.0,-3.0
+Parker St at Huntington Ave,7,1.0,0.0,-1.0
+Parker St at Huntington Ave,8,5.0,0.0,-5.0
+Parker St at Huntington Ave,9,1.0,3.0,2.0
+Parker St at Huntington Ave,11,1.0,3.0,2.0
+Parker St at Huntington Ave,13,1.0,0.0,-1.0
+Parker St at Huntington Ave,15,1.0,1.0,0.0
+Parker St at Huntington Ave,16,3.0,5.0,2.0
+Perry Park,4,10.0,0.0,-10.0
+Perry Park,7,2.0,0.0,-2.0
+Perry Park,8,2.0,0.0,-2.0
+Perry Park,9,2.0,1.0,-1.0
+Perry Park,11,2.0,2.0,0.0
+Perry Park,12,1.0,0.0,-1.0
+Perry Park,13,1.0,1.0,0.0
+Perry Park,17,2.0,3.0,1.0
+Perry Park,18,2.0,2.0,0.0
+Perry Park,19,2.0,1.0,-1.0
+Perry Park,21,1.0,2.0,1.0
+Pier 4 Blvd at Autumn Ln,11,1.0,0.0,-1.0
+Pier 4 Blvd at Autumn Ln,23,1.0,0.0,-1.0
+Porter Square Station,0,1.0,0.0,-1.0
+Porter Square Station,2,1.0,1.0,0.0
+Porter Square Station,6,3.0,7.0,4.0
+Porter Square Station,7,5.0,4.0,-1.0
+Porter Square Station,8,1.0,2.0,1.0
+Porter Square Station,9,2.0,2.0,0.0
+Porter Square Station,10,1.0,5.0,4.0
+Porter Square Station,11,4.0,19.0,15.0
+Porter Square Station,12,4.0,14.0,10.0
+Porter Square Station,13,8.0,6.0,-2.0
+Porter Square Station,14,5.0,1.0,-4.0
+Porter Square Station,15,6.0,2.0,-4.0
+Porter Square Station,16,7.0,6.0,-1.0
+Porter Square Station,17,5.0,11.0,6.0
+Porter Square Station,18,6.0,6.0,0.0
+Porter Square Station,19,2.0,11.0,9.0
+Porter Square Station,20,3.0,8.0,5.0
+Porter Square Station,21,2.0,5.0,3.0
+Porter Square Station,22,2.0,7.0,5.0
+Porter Square Station,23,3.0,0.0,-3.0
+Porzio Park,9,1.0,0.0,-1.0
+Post Office Square,0,1.0,0.0,-1.0
+Powder House Circle - Nathan Tufts Park,7,2.0,0.0,-2.0
+Powder House Circle - Nathan Tufts Park,8,3.0,0.0,-3.0
+Powder House Circle - Nathan Tufts Park,10,1.0,0.0,-1.0
+Powder House Circle - Nathan Tufts Park,12,4.0,2.0,-2.0
+Powder House Circle - Nathan Tufts Park,13,4.0,1.0,-3.0
+Powder House Circle - Nathan Tufts Park,15,1.0,0.0,-1.0
+Powder House Circle - Nathan Tufts Park,16,1.0,2.0,1.0
+Powder House Circle - Nathan Tufts Park,17,2.0,0.0,-2.0
+Powder House Circle - Nathan Tufts Park,18,4.0,4.0,0.0
+Powder House Circle - Nathan Tufts Park,20,2.0,0.0,-2.0
+Prudential Center - 101 Huntington Ave,6,1.0,0.0,-1.0
+Prudential Center - 101 Huntington Ave,8,22.0,0.0,-22.0
+Prudential Center - 101 Huntington Ave,9,1.0,0.0,-1.0
+Prudential Center - 101 Huntington Ave,10,1.0,0.0,-1.0
+Prudential Center - 101 Huntington Ave,12,1.0,2.0,1.0
+Prudential Center - 101 Huntington Ave,15,2.0,0.0,-2.0
+Prudential Center - 101 Huntington Ave,16,1.0,4.0,3.0
+Prudential Center - 101 Huntington Ave,17,8.0,1.0,-7.0
+Prudential Center - 101 Huntington Ave,18,1.0,2.0,1.0
+Prudential Center - 101 Huntington Ave,19,1.0,1.0,0.0
+Prudential Center - 101 Huntington Ave,21,2.0,0.0,-2.0
+Purchase St at Pearl St,1,2.0,0.0,-2.0
+Purchase St at Pearl St,11,1.0,1.0,0.0
+Purchase St at Pearl St,14,1.0,0.0,-1.0
+Purchase St at Pearl St,17,2.0,0.0,-2.0
+Railroad Lot and Minuteman Bikeway,6,1.0,0.0,-1.0
+Railroad Lot and Minuteman Bikeway,7,1.0,1.0,0.0
+Railroad Lot and Minuteman Bikeway,8,4.0,1.0,-3.0
+Railroad Lot and Minuteman Bikeway,9,5.0,3.0,-2.0
+Railroad Lot and Minuteman Bikeway,13,6.0,2.0,-4.0
+Railroad Lot and Minuteman Bikeway,14,1.0,2.0,1.0
+Railroad Lot and Minuteman Bikeway,15,6.0,2.0,-4.0
+Railroad Lot and Minuteman Bikeway,16,4.0,1.0,-3.0
+Railroad Lot and Minuteman Bikeway,17,3.0,4.0,1.0
+Railroad Lot and Minuteman Bikeway,18,3.0,3.0,0.0
+Railroad Lot and Minuteman Bikeway,19,2.0,1.0,-1.0
+Railroad Lot and Minuteman Bikeway,21,2.0,1.0,-1.0
+Raymond Park at Walden St,7,2.0,0.0,-2.0
+Raymond Park at Walden St,8,13.0,0.0,-13.0
+Raymond Park at Walden St,9,9.0,1.0,-8.0
+Raymond Park at Walden St,10,1.0,1.0,0.0
+Raymond Park at Walden St,11,3.0,1.0,-2.0
+Raymond Park at Walden St,12,3.0,2.0,-1.0
+Raymond Park at Walden St,13,1.0,4.0,3.0
+Raymond Park at Walden St,14,1.0,9.0,8.0
+Raymond Park at Walden St,15,2.0,7.0,5.0
+Raymond Park at Walden St,16,2.0,10.0,8.0
+Raymond Park at Walden St,17,3.0,14.0,11.0
+Raymond Park at Walden St,18,2.0,1.0,-1.0
+Raymond Park at Walden St,19,2.0,5.0,3.0
+Raymond Park at Walden St,23,1.0,2.0,1.0
+Revere Beach - Markey Footbridge,12,1.0,0.0,-1.0
+Revere City Hall,9,1.0,0.0,-1.0
+Revere City Hall,10,2.0,0.0,-2.0
+Rindge Avenue - O'Neill Library,1,1.0,0.0,-1.0
+Rindge Avenue - O'Neill Library,2,1.0,0.0,-1.0
+Rindge Avenue - O'Neill Library,7,1.0,0.0,-1.0
+Rindge Avenue - O'Neill Library,8,4.0,0.0,-4.0
+Rindge Avenue - O'Neill Library,9,4.0,2.0,-2.0
+Rindge Avenue - O'Neill Library,10,2.0,0.0,-2.0
+Rindge Avenue - O'Neill Library,11,2.0,1.0,-1.0
+Rindge Avenue - O'Neill Library,12,8.0,1.0,-7.0
+Rindge Avenue - O'Neill Library,13,3.0,5.0,2.0
+Rindge Avenue - O'Neill Library,14,7.0,5.0,-2.0
+Rindge Avenue - O'Neill Library,15,3.0,4.0,1.0
+Rindge Avenue - O'Neill Library,16,6.0,7.0,1.0
+Rindge Avenue - O'Neill Library,17,4.0,9.0,5.0
+Rindge Avenue - O'Neill Library,18,6.0,5.0,-1.0
+Rindge Avenue - O'Neill Library,19,6.0,2.0,-4.0
+Rindge Avenue - O'Neill Library,20,3.0,1.0,-2.0
+Rindge Avenue - O'Neill Library,21,2.0,4.0,2.0
+Ring Rd,19,1.0,0.0,-1.0
+Ring Rd,20,1.0,0.0,-1.0
+Ringer Park - Webley St at Armington St,13,1.0,0.0,-1.0
+Ringer Park - Webley St at Armington St,17,1.0,0.0,-1.0
+Riverway at Brookline Ave,8,2.0,52.0,50.0
+Riverway at Brookline Ave,9,3.0,1.0,-2.0
+Riverway at Brookline Ave,10,2.0,2.0,0.0
+Riverway at Brookline Ave,11,1.0,0.0,-1.0
+Riverway at Brookline Ave,12,2.0,3.0,1.0
+Riverway at Brookline Ave,13,2.0,1.0,-1.0
+Riverway at Brookline Ave,14,3.0,2.0,-1.0
+Riverway at Brookline Ave,15,7.0,1.0,-6.0
+Riverway at Brookline Ave,16,13.0,0.0,-13.0
+Riverway at Brookline Ave,17,13.0,8.0,-5.0
+Riverway at Brookline Ave,18,1.0,0.0,-1.0
+Riverway at Brookline Ave,19,1.0,0.0,-1.0
+Rogers St & Land Blvd,9,1.0,2.0,1.0
+Rogers St & Land Blvd,14,1.0,0.0,-1.0
+Rogers St & Land Blvd,16,1.0,1.0,0.0
+Rogers St & Land Blvd,18,1.0,1.0,0.0
+Rogers St & Land Blvd,19,2.0,1.0,-1.0
+Rogers St & Land Blvd,20,5.0,1.0,-4.0
+Rogers St & Land Blvd,22,1.0,0.0,-1.0
+Roslindale Village - South St,11,1.0,0.0,-1.0
+Roslindale Village - Washington St,10,1.0,0.0,-1.0
+Rowes Wharf at Atlantic Ave,10,2.0,0.0,-2.0
+Rowes Wharf at Atlantic Ave,16,2.0,0.0,-2.0
+Rowes Wharf at Atlantic Ave,17,1.0,0.0,-1.0
+Rowes Wharf at Atlantic Ave,18,2.0,4.0,2.0
+Rowes Wharf at Atlantic Ave,19,3.0,0.0,-3.0
+Rowes Wharf at Atlantic Ave,21,1.0,0.0,-1.0
+Roxbury Crossing T Stop - Columbus Ave at Tremont St,10,1.0,0.0,-1.0
+Roxbury Crossing T Stop - Columbus Ave at Tremont St,11,2.0,0.0,-2.0
+Roxbury Crossing T Stop - Columbus Ave at Tremont St,15,1.0,0.0,-1.0
+Roxbury Crossing T Stop - Columbus Ave at Tremont St,18,1.0,0.0,-1.0
+Roxbury YMCA - Warren St at MLK Blvd,3,1.0,0.0,-1.0
+Roxbury YMCA - Warren St at MLK Blvd,17,1.0,0.0,-1.0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,9,1.0,0.0,-1.0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,12,1.0,3.0,2.0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,13,1.0,0.0,-1.0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,15,1.0,1.0,0.0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,17,5.0,1.0,-4.0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,18,2.0,0.0,-2.0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,19,1.0,0.0,-1.0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,20,1.0,2.0,1.0
+Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,21,1.0,0.0,-1.0
+S Huntington Ave at Heath St,13,1.0,0.0,-1.0
+S Huntington Ave at Heath St,21,1.0,0.0,-1.0
+Savin Hill T Stop - S Sydney St at Bay St,20,1.0,0.0,-1.0
+Seaport Blvd at Sleeper St,8,2.0,0.0,-2.0
+Seaport Blvd at Sleeper St,9,1.0,0.0,-1.0
+Seaport Blvd at Sleeper St,15,2.0,0.0,-2.0
+Seaport Hotel - Congress St at Seaport Ln,1,1.0,0.0,-1.0
+Seaport Hotel - Congress St at Seaport Ln,8,1.0,0.0,-1.0
+Seaport Square - Seaport Blvd at Northern Ave,13,3.0,0.0,-3.0
+Seaport Square - Seaport Blvd at Northern Ave,17,1.0,0.0,-1.0
+Seaport Square - Seaport Blvd at Northern Ave,20,4.0,0.0,-4.0
+Sennott Park Broadway at Norfolk Street,0,1.0,0.0,-1.0
+Sennott Park Broadway at Norfolk Street,1,1.0,0.0,-1.0
+Sennott Park Broadway at Norfolk Street,6,7.0,0.0,-7.0
+Sennott Park Broadway at Norfolk Street,8,1.0,0.0,-1.0
+Sennott Park Broadway at Norfolk Street,10,1.0,3.0,2.0
+Sennott Park Broadway at Norfolk Street,11,1.0,1.0,0.0
+Sennott Park Broadway at Norfolk Street,12,2.0,2.0,0.0
+Sennott Park Broadway at Norfolk Street,13,11.0,0.0,-11.0
+Sennott Park Broadway at Norfolk Street,14,3.0,2.0,-1.0
+Sennott Park Broadway at Norfolk Street,15,4.0,3.0,-1.0
+Sennott Park Broadway at Norfolk Street,16,4.0,3.0,-1.0
+Sennott Park Broadway at Norfolk Street,17,4.0,6.0,2.0
+Sennott Park Broadway at Norfolk Street,18,2.0,2.0,0.0
+Sennott Park Broadway at Norfolk Street,21,1.0,0.0,-1.0
+Sennott Park Broadway at Norfolk Street,23,2.0,0.0,-2.0
+Shawmut Ave at E Berkeley St,10,1.0,0.0,-1.0
+Shawmut Ave at Lenox St,7,2.0,0.0,-2.0
+Shawmut Ave at Lenox St,18,1.0,0.0,-1.0
+Shawmut Ave at Oak St W,15,1.0,1.0,0.0
+Shawmut Ave at Oak St W,16,1.0,2.0,1.0
+Sidney Research Campus/Erie Street at Waverly,0,15.0,1.0,-14.0
+Sidney Research Campus/Erie Street at Waverly,1,3.0,0.0,-3.0
+Sidney Research Campus/Erie Street at Waverly,8,1.0,13.0,12.0
+Sidney Research Campus/Erie Street at Waverly,9,2.0,4.0,2.0
+Sidney Research Campus/Erie Street at Waverly,10,2.0,3.0,1.0
+Sidney Research Campus/Erie Street at Waverly,11,8.0,52.0,44.0
+Sidney Research Campus/Erie Street at Waverly,12,1.0,103.0,102.0
+Sidney Research Campus/Erie Street at Waverly,13,4.0,11.0,7.0
+Sidney Research Campus/Erie Street at Waverly,14,3.0,13.0,10.0
+Sidney Research Campus/Erie Street at Waverly,15,17.0,6.0,-11.0
+Sidney Research Campus/Erie Street at Waverly,16,11.0,8.0,-3.0
+Sidney Research Campus/Erie Street at Waverly,17,4.0,7.0,3.0
+Sidney Research Campus/Erie Street at Waverly,18,7.0,9.0,2.0
+Sidney Research Campus/Erie Street at Waverly,19,4.0,13.0,9.0
+Sidney Research Campus/Erie Street at Waverly,20,5.0,6.0,1.0
+Sidney Research Campus/Erie Street at Waverly,21,31.0,3.0,-28.0
+Sidney Research Campus/Erie Street at Waverly,22,56.0,2.0,-54.0
+Sidney Research Campus/Erie Street at Waverly,23,34.0,1.0,-33.0
+Silber Way,0,8.0,1.0,-7.0
+Silber Way,1,5.0,0.0,-5.0
+Silber Way,3,1.0,0.0,-1.0
+Silber Way,6,1.0,0.0,-1.0
+Silber Way,7,2.0,11.0,9.0
+Silber Way,8,2.0,14.0,12.0
+Silber Way,9,6.0,3.0,-3.0
+Silber Way,11,6.0,6.0,0.0
+Silber Way,12,4.0,7.0,3.0
+Silber Way,13,4.0,7.0,3.0
+Silber Way,14,11.0,7.0,-4.0
+Silber Way,15,11.0,7.0,-4.0
+Silber Way,16,43.0,22.0,-21.0
+Silber Way,17,25.0,33.0,8.0
+Silber Way,18,30.0,39.0,9.0
+Silber Way,19,8.0,6.0,-2.0
+Silber Way,20,3.0,5.0,2.0
+Silber Way,21,2.0,18.0,16.0
+Silber Way,22,4.0,1.0,-3.0
+Silber Way,23,5.0,3.0,-2.0
+Smith Pl at Wilson Rd,5,1.0,0.0,-1.0
+Smith Pl at Wilson Rd,8,12.0,100.0,88.0
+Smith Pl at Wilson Rd,9,4.0,10.0,6.0
+Smith Pl at Wilson Rd,10,3.0,3.0,0.0
+Smith Pl at Wilson Rd,11,2.0,6.0,4.0
+Smith Pl at Wilson Rd,12,4.0,7.0,3.0
+Smith Pl at Wilson Rd,13,1.0,4.0,3.0
+Smith Pl at Wilson Rd,14,5.0,3.0,-2.0
+Smith Pl at Wilson Rd,15,12.0,3.0,-9.0
+Smith Pl at Wilson Rd,16,37.0,3.0,-34.0
+Smith Pl at Wilson Rd,17,66.0,10.0,-56.0
+Smith Pl at Wilson Rd,18,18.0,1.0,-17.0
+Smith Pl at Wilson Rd,19,7.0,2.0,-5.0
+Smith Pl at Wilson Rd,20,4.0,5.0,1.0
+Smith Pl at Wilson Rd,21,4.0,6.0,2.0
+Smith Pl at Wilson Rd,22,2.0,0.0,-2.0
+Smith Pl at Wilson Rd,23,2.0,0.0,-2.0
+Soldiers Field Park - 111 Western Ave,0,4.0,3.0,-1.0
+Soldiers Field Park - 111 Western Ave,1,1.0,0.0,-1.0
+Soldiers Field Park - 111 Western Ave,3,2.0,1.0,-1.0
+Soldiers Field Park - 111 Western Ave,5,1.0,0.0,-1.0
+Soldiers Field Park - 111 Western Ave,6,6.0,3.0,-3.0
+Soldiers Field Park - 111 Western Ave,7,11.0,5.0,-6.0
+Soldiers Field Park - 111 Western Ave,8,5.0,1.0,-4.0
+Soldiers Field Park - 111 Western Ave,9,15.0,9.0,-6.0
+Soldiers Field Park - 111 Western Ave,10,17.0,12.0,-5.0
+Soldiers Field Park - 111 Western Ave,11,15.0,7.0,-8.0
+Soldiers Field Park - 111 Western Ave,12,28.0,19.0,-9.0
+Soldiers Field Park - 111 Western Ave,13,17.0,17.0,0.0
+Soldiers Field Park - 111 Western Ave,14,30.0,23.0,-7.0
+Soldiers Field Park - 111 Western Ave,15,30.0,21.0,-9.0
+Soldiers Field Park - 111 Western Ave,16,42.0,30.0,-12.0
+Soldiers Field Park - 111 Western Ave,17,44.0,29.0,-15.0
+Soldiers Field Park - 111 Western Ave,18,34.0,34.0,0.0
+Soldiers Field Park - 111 Western Ave,19,21.0,33.0,12.0
+Soldiers Field Park - 111 Western Ave,20,23.0,24.0,1.0
+Soldiers Field Park - 111 Western Ave,21,16.0,24.0,8.0
+Soldiers Field Park - 111 Western Ave,22,19.0,13.0,-6.0
+Soldiers Field Park - 111 Western Ave,23,12.0,14.0,2.0
+Somerville City Hall,8,2.0,0.0,-2.0
+Somerville City Hall,9,1.0,0.0,-1.0
+Somerville City Hall,10,2.0,0.0,-2.0
+Somerville City Hall,12,1.0,0.0,-1.0
+Somerville City Hall,14,1.0,0.0,-1.0
+Somerville City Hall,18,2.0,0.0,-2.0
+Somerville City Hall,21,2.0,0.0,-2.0
+Somerville City Hall,22,1.0,0.0,-1.0
+Somerville City Hall Annex,8,6.0,0.0,-6.0
+Somerville City Hall Annex,9,6.0,0.0,-6.0
+Somerville City Hall Annex,13,1.0,0.0,-1.0
+Somerville City Hall Annex,14,1.0,0.0,-1.0
+Somerville City Hall Annex,15,1.0,1.0,0.0
+Somerville City Hall Annex,16,2.0,0.0,-2.0
+Somerville City Hall Annex,17,1.0,0.0,-1.0
+Somerville City Hall Annex,19,1.0,0.0,-1.0
+Somerville High School & Central Library,8,1.0,0.0,-1.0
+Somerville High School & Central Library,9,1.0,0.0,-1.0
+Somerville High School & Central Library,14,1.0,0.0,-1.0
+Somerville Hospital,10,3.0,0.0,-3.0
+Somerville Hospital,11,2.0,0.0,-2.0
+Somerville Hospital,15,2.0,0.0,-2.0
+Somerville Hospital,16,1.0,0.0,-1.0
+Somerville Hospital,19,1.0,0.0,-1.0
+Somerville Hospital,20,1.0,1.0,0.0
+South End Library - Tremont St at W Newton St,6,1.0,0.0,-1.0
+South End Library - Tremont St at W Newton St,7,2.0,0.0,-2.0
+South End Library - Tremont St at W Newton St,9,1.0,0.0,-1.0
+South End Library - Tremont St at W Newton St,13,1.0,1.0,0.0
+South End Library - Tremont St at W Newton St,16,1.0,1.0,0.0
+South End Library - Tremont St at W Newton St,17,1.0,0.0,-1.0
+South Station - 700 Atlantic Ave,6,2.0,0.0,-2.0
+South Station - 700 Atlantic Ave,7,4.0,1.0,-3.0
+South Station - 700 Atlantic Ave,8,1.0,3.0,2.0
+South Station - 700 Atlantic Ave,13,1.0,1.0,0.0
+South Station - 700 Atlantic Ave,15,2.0,3.0,1.0
+Spaulding Rehabilitation Hospital - Charlestown Navy Yard,16,1.0,0.0,-1.0
+Spaulding Rehabilitation Hospital - Charlestown Navy Yard,18,1.0,0.0,-1.0
+Spring St at Powell St,13,1.0,0.0,-1.0
+Spring St at Powell St,15,1.0,0.0,-1.0
+St Mary's,0,3.0,0.0,-3.0
+St Mary's,1,2.0,0.0,-2.0
+St Mary's,8,1.0,3.0,2.0
+St Mary's,9,2.0,0.0,-2.0
+St Mary's,11,2.0,0.0,-2.0
+St Mary's,12,7.0,2.0,-5.0
+St Mary's,13,1.0,0.0,-1.0
+St Mary's,14,2.0,2.0,0.0
+St Mary's,15,3.0,4.0,1.0
+St Mary's,16,9.0,3.0,-6.0
+St Mary's,17,1.0,3.0,2.0
+St Mary's,18,2.0,5.0,3.0
+St Mary's,19,3.0,3.0,0.0
+St Mary's,20,1.0,6.0,5.0
+St Mary's,21,2.0,4.0,2.0
+St Mary's,22,3.0,3.0,0.0
+St Mary's,23,1.0,4.0,3.0
+St. Alphonsus St at Tremont St,11,1.0,1.0,0.0
+St. Alphonsus St at Tremont St,12,1.0,0.0,-1.0
+St. Alphonsus St at Tremont St,15,1.0,0.0,-1.0
+St. Alphonsus St at Tremont St,16,4.0,2.0,-2.0
+St. Alphonsus St at Tremont St,17,2.0,4.0,2.0
+Stadium Rd at Western Ave,13,1.0,1.0,0.0
+Stadium Rd at Western Ave,17,1.0,0.0,-1.0
+Stadium Rd at Western Ave,19,2.0,0.0,-2.0
+Staniford St at Merrimac St,1,1.0,0.0,-1.0
+Staniford St at Merrimac St,10,1.0,0.0,-1.0
+Staniford St at Merrimac St,11,1.0,0.0,-1.0
+Stony Brook T Stop,14,1.0,1.0,0.0
+Stony Brook T Stop,16,1.0,3.0,2.0
+Stony Brook T Stop,19,1.0,0.0,-1.0
+Stuart St at Berkeley St,7,4.0,0.0,-4.0
+Stuart St at Berkeley St,8,3.0,0.0,-3.0
+Stuart St at Berkeley St,9,2.0,0.0,-2.0
+Stuart St at Berkeley St,10,1.0,0.0,-1.0
+Stuart St at Berkeley St,12,1.0,0.0,-1.0
+Stuart St at Berkeley St,16,3.0,2.0,-1.0
+Stuart St at Berkeley St,17,1.0,0.0,-1.0
+Stuart St at Berkeley St,18,2.0,0.0,-2.0
+Stuart St at Berkeley St,19,1.0,0.0,-1.0
+Stuart St at Berkeley St,23,1.0,0.0,-1.0
+Stuart St at Charles St,6,1.0,0.0,-1.0
+Stuart St at Charles St,7,1.0,0.0,-1.0
+Stuart St at Charles St,8,1.0,0.0,-1.0
+Stuart St at Charles St,17,2.0,0.0,-2.0
+Stuart St at Charles St,18,3.0,0.0,-3.0
+Stuart St at Charles St,19,1.0,0.0,-1.0
+Stuart St at Charles St,20,3.0,1.0,-2.0
+Stuart St at Church St,16,1.0,0.0,-1.0
+Sullivan Square,10,2.0,0.0,-2.0
+Sullivan Square,11,1.0,0.0,-1.0
+Sullivan Square,17,4.0,0.0,-4.0
+Sullivan Square,18,4.0,1.0,-3.0
+Sullivan Square,19,1.0,1.0,0.0
+Sullivan Square,20,1.0,0.0,-1.0
+Surface Rd at India St,0,1.0,0.0,-1.0
+Surface Rd at India St,1,1.0,0.0,-1.0
+Surface Rd at India St,4,1.0,0.0,-1.0
+Surface Rd at India St,16,2.0,0.0,-2.0
+Surface Rd at India St,17,1.0,0.0,-1.0
+Surface Rd at India St,18,2.0,0.0,-2.0
+Surface Rd at Summer St,6,6.0,0.0,-6.0
+Surface Rd at Summer St,7,6.0,0.0,-6.0
+Surface Rd at Summer St,8,1.0,1.0,0.0
+Surface Rd at Summer St,14,1.0,5.0,4.0
+Surface Rd at Summer St,15,1.0,12.0,11.0
+Surface Rd at Summer St,17,1.0,1.0,0.0
+Surface Rd at Summer St,18,1.0,0.0,-1.0
+Swan Place at Minuteman Bikeway,9,2.0,0.0,-2.0
+Swan Place at Minuteman Bikeway,11,1.0,0.0,-1.0
+Swan Place at Minuteman Bikeway,14,2.0,1.0,-1.0
+Swan Place at Minuteman Bikeway,15,5.0,0.0,-5.0
+Swan Place at Minuteman Bikeway,16,2.0,5.0,3.0
+Swan Place at Minuteman Bikeway,17,1.0,1.0,0.0
+Swan Place at Minuteman Bikeway,18,1.0,0.0,-1.0
+Talbot Ave At Blue Hill Ave,17,1.0,0.0,-1.0
+Talbot Ave T Station,19,1.0,0.0,-1.0
+Tappan St at Brookline Hills MBTA,13,1.0,0.0,-1.0
+Tappan St at Brookline Hills MBTA,14,2.0,0.0,-2.0
+Tappan St at Brookline Hills MBTA,17,1.0,2.0,1.0
+Tappan St at Brookline Hills MBTA,19,1.0,0.0,-1.0
+Teele Square,0,1.0,0.0,-1.0
+Teele Square,7,1.0,0.0,-1.0
+Teele Square,8,3.0,0.0,-3.0
+Teele Square,11,1.0,0.0,-1.0
+Teele Square,12,8.0,1.0,-7.0
+Teele Square,13,1.0,1.0,0.0
+Teele Square,14,2.0,1.0,-1.0
+Teele Square,15,1.0,0.0,-1.0
+Teele Square,17,1.0,0.0,-1.0
+Teele Square,18,4.0,3.0,-1.0
+Teele Square,19,1.0,1.0,0.0
+Teele Square,20,1.0,0.0,-1.0
+The Dimock Center,9,1.0,0.0,-1.0
+The Dimock Center,16,2.0,0.0,-2.0
+The Overlook at St. Gabriel's,3,6.0,0.0,-6.0
+The Overlook at St. Gabriel's,4,22.0,0.0,-22.0
+The Overlook at St. Gabriel's,5,2.0,0.0,-2.0
+The Overlook at St. Gabriel's,7,5.0,0.0,-5.0
+The Overlook at St. Gabriel's,8,12.0,2.0,-10.0
+The Overlook at St. Gabriel's,9,10.0,2.0,-8.0
+The Overlook at St. Gabriel's,10,11.0,1.0,-10.0
+The Overlook at St. Gabriel's,11,11.0,0.0,-11.0
+The Overlook at St. Gabriel's,12,18.0,5.0,-13.0
+The Overlook at St. Gabriel's,13,10.0,4.0,-6.0
+The Overlook at St. Gabriel's,14,6.0,14.0,8.0
+The Overlook at St. Gabriel's,15,21.0,9.0,-12.0
+The Overlook at St. Gabriel's,16,18.0,7.0,-11.0
+The Overlook at St. Gabriel's,17,17.0,6.0,-11.0
+The Overlook at St. Gabriel's,18,18.0,7.0,-11.0
+The Overlook at St. Gabriel's,19,10.0,10.0,0.0
+The Overlook at St. Gabriel's,20,3.0,9.0,6.0
+The Overlook at St. Gabriel's,21,8.0,11.0,3.0
+The Overlook at St. Gabriel's,22,7.0,2.0,-5.0
+The Overlook at St. Gabriel's,23,3.0,5.0,2.0
+Third at Binney,11,2.0,2.0,0.0
+Third at Binney,12,7.0,7.0,0.0
+Third at Binney,14,7.0,1.0,-6.0
+Third at Binney,16,2.0,1.0,-1.0
+Third at Binney,17,5.0,3.0,-2.0
+Third at Binney,18,3.0,6.0,3.0
+Third at Binney,21,4.0,1.0,-3.0
+Third at Binney,22,3.0,0.0,-3.0
+Thorndike Field at Minuteman Bikeway,7,2.0,0.0,-2.0
+Thorndike Field at Minuteman Bikeway,8,2.0,0.0,-2.0
+Thorndike Field at Minuteman Bikeway,9,2.0,1.0,-1.0
+Thorndike Field at Minuteman Bikeway,10,1.0,0.0,-1.0
+Thorndike Field at Minuteman Bikeway,11,4.0,0.0,-4.0
+Thorndike Field at Minuteman Bikeway,12,3.0,0.0,-3.0
+Thorndike Field at Minuteman Bikeway,14,2.0,3.0,1.0
+Thorndike Field at Minuteman Bikeway,15,3.0,3.0,0.0
+Thorndike Field at Minuteman Bikeway,17,2.0,5.0,3.0
+Thorndike Field at Minuteman Bikeway,18,3.0,2.0,-1.0
+Thorndike Field at Minuteman Bikeway,19,1.0,0.0,-1.0
+Thorndike Field at Minuteman Bikeway,20,3.0,0.0,-3.0
+Thorndike Field at Minuteman Bikeway,21,2.0,7.0,5.0
+Tremont St at Court St,2,1.0,0.0,-1.0
+Tremont St at Court St,14,1.0,1.0,0.0
+Tremont St at Court St,17,3.0,0.0,-3.0
+Tremont St at Court St,18,1.0,1.0,0.0
+Tremont St at E Berkeley St,8,1.0,0.0,-1.0
+Tremont St at E Berkeley St,11,1.0,0.0,-1.0
+Tremont St at E Berkeley St,13,1.0,0.0,-1.0
+Tremont St at E Berkeley St,14,1.0,0.0,-1.0
+Tremont St at E Berkeley St,18,2.0,1.0,-1.0
+Tremont St at E Berkeley St,23,1.0,0.0,-1.0
+Tremont St at Hamilton Pl,0,1.0,0.0,-1.0
+Tremont St at Hamilton Pl,2,1.0,0.0,-1.0
+Tremont St at Hamilton Pl,5,1.0,0.0,-1.0
+Tremont St at Hamilton Pl,13,2.0,0.0,-2.0
+Tremont St at Hamilton Pl,14,2.0,1.0,-1.0
+Tremont St at Hamilton Pl,16,1.0,0.0,-1.0
+Tremont St at Hamilton Pl,17,2.0,1.0,-1.0
+Tremont St at Hamilton Pl,18,2.0,1.0,-1.0
+Tremont St at Hamilton Pl,21,4.0,0.0,-4.0
+Tremont St at Hamilton Pl,22,2.0,0.0,-2.0
+Tremont St at Northampton St,9,1.0,0.0,-1.0
+Tremont St at Northampton St,11,1.0,1.0,0.0
+Tremont St at Northampton St,12,1.0,2.0,1.0
+Tremont St at Northampton St,13,2.0,0.0,-2.0
+Tremont St at Northampton St,14,2.0,0.0,-2.0
+Tremont St at Northampton St,16,3.0,0.0,-3.0
+Tremont St at Northampton St,17,1.0,3.0,2.0
+Tremont St at Northampton St,20,2.0,2.0,0.0
+Tremont St at W. Dedham St,11,1.0,0.0,-1.0
+Tremont St at W. Dedham St,14,1.0,2.0,1.0
+Tremont St at W. Dedham St,15,1.0,1.0,0.0
+Tremont St at W. Dedham St,16,2.0,1.0,-1.0
+Tremont St at W. Dedham St,17,1.0,1.0,0.0
+Tremont St at W. Dedham St,18,1.0,2.0,1.0
+Tremont St at W. Dedham St,19,2.0,1.0,-1.0
+Tremont St at W. Dedham St,20,1.0,2.0,1.0
+Tremont St at W. Dedham St,21,2.0,3.0,1.0
+Tremont St at West St,12,5.0,7.0,2.0
+Tremont St at West St,13,2.0,0.0,-2.0
+Tremont St at West St,14,1.0,0.0,-1.0
+Tremont St at West St,15,1.0,3.0,2.0
+Tremont St at West St,16,2.0,0.0,-2.0
+Tremont St at West St,18,1.0,0.0,-1.0
+Tremont St at West St,19,3.0,0.0,-3.0
+Tremont St at West St,20,1.0,0.0,-1.0
+Tremont St at West St,21,2.0,1.0,-1.0
+Tremont St at West St,22,1.0,0.0,-1.0
+Tremont St at West St,23,2.0,0.0,-2.0
+Troy Boston,4,1.0,0.0,-1.0
+Tufts Sq - Main St at Medford St,8,2.0,0.0,-2.0
+Tufts Sq - Main St at Medford St,9,1.0,0.0,-1.0
+Union Square - Brighton Ave at Cambridge St,0,25.0,10.0,-15.0
+Union Square - Brighton Ave at Cambridge St,1,26.0,5.0,-21.0
+Union Square - Brighton Ave at Cambridge St,2,27.0,6.0,-21.0
+Union Square - Brighton Ave at Cambridge St,3,9.0,6.0,-3.0
+Union Square - Brighton Ave at Cambridge St,4,16.0,2.0,-14.0
+Union Square - Brighton Ave at Cambridge St,5,5.0,2.0,-3.0
+Union Square - Brighton Ave at Cambridge St,6,2.0,1.0,-1.0
+Union Square - Brighton Ave at Cambridge St,7,27.0,4.0,-23.0
+Union Square - Brighton Ave at Cambridge St,8,20.0,3.0,-17.0
+Union Square - Brighton Ave at Cambridge St,9,10.0,9.0,-1.0
+Union Square - Brighton Ave at Cambridge St,10,12.0,20.0,8.0
+Union Square - Brighton Ave at Cambridge St,11,24.0,19.0,-5.0
+Union Square - Brighton Ave at Cambridge St,12,29.0,22.0,-7.0
+Union Square - Brighton Ave at Cambridge St,13,29.0,20.0,-9.0
+Union Square - Brighton Ave at Cambridge St,14,31.0,26.0,-5.0
+Union Square - Brighton Ave at Cambridge St,15,53.0,33.0,-20.0
+Union Square - Brighton Ave at Cambridge St,16,44.0,46.0,2.0
+Union Square - Brighton Ave at Cambridge St,17,42.0,52.0,10.0
+Union Square - Brighton Ave at Cambridge St,18,43.0,54.0,11.0
+Union Square - Brighton Ave at Cambridge St,19,40.0,43.0,3.0
+Union Square - Brighton Ave at Cambridge St,20,48.0,58.0,10.0
+Union Square - Brighton Ave at Cambridge St,21,36.0,50.0,14.0
+Union Square - Brighton Ave at Cambridge St,22,32.0,39.0,7.0
+Union Square - Brighton Ave at Cambridge St,23,23.0,19.0,-4.0
+Union Square - Somerville,4,7.0,0.0,-7.0
+Union Square - Somerville,7,6.0,1.0,-5.0
+Union Square - Somerville,8,4.0,1.0,-3.0
+Union Square - Somerville,9,1.0,0.0,-1.0
+Union Square - Somerville,10,2.0,2.0,0.0
+Union Square - Somerville,11,1.0,3.0,2.0
+Union Square - Somerville,12,3.0,0.0,-3.0
+Union Square - Somerville,13,1.0,6.0,5.0
+Union Square - Somerville,14,2.0,3.0,1.0
+Union Square - Somerville,15,2.0,1.0,-1.0
+Union Square - Somerville,16,5.0,3.0,-2.0
+Union Square - Somerville,17,3.0,3.0,0.0
+Union Square - Somerville,18,3.0,6.0,3.0
+Union Square - Somerville,20,2.0,4.0,2.0
+Union Square - Somerville,21,3.0,5.0,2.0
+Union Square - Somerville,22,1.0,0.0,-1.0
+Union Square - Somerville,23,4.0,0.0,-4.0
+Union Square East,3,1.0,0.0,-1.0
+Union Square East,8,4.0,0.0,-4.0
+Union Square East,12,2.0,0.0,-2.0
+Union Square East,14,5.0,1.0,-4.0
+Union Square East,15,1.0,1.0,0.0
+Union Square East,16,2.0,0.0,-2.0
+Union Square East,17,2.0,4.0,2.0
+Union Square East,18,1.0,3.0,2.0
+Union Square East,19,2.0,0.0,-2.0
+Union Square East,21,1.0,0.0,-1.0
+Union Square Station,2,1.0,0.0,-1.0
+Union St at Herrick Rd,13,1.0,1.0,0.0
+Union St at Herrick Rd,17,2.0,0.0,-2.0
+Union St at Herrick Rd,22,1.0,0.0,-1.0
+Union St at Herrick Rd ‚Äì Newton Centre Green Line,12,1.0,0.0,-1.0
+Union St at Herrick Rd ‚Äì Newton Centre Green Line,20,1.0,0.0,-1.0
+Union St at Herrick Rd ‚Äì Newton Centre Green Line,23,1.0,0.0,-1.0
+University Park,1,1.0,0.0,-1.0
+University Park,5,1.0,0.0,-1.0
+University Park,6,10.0,0.0,-10.0
+University Park,7,1.0,2.0,1.0
+University Park,8,9.0,7.0,-2.0
+University Park,9,2.0,1.0,-1.0
+University Park,10,21.0,2.0,-19.0
+University Park,11,7.0,1.0,-6.0
+University Park,12,6.0,13.0,7.0
+University Park,13,2.0,4.0,2.0
+University Park,14,4.0,3.0,-1.0
+University Park,15,2.0,2.0,0.0
+University Park,16,6.0,3.0,-3.0
+University Park,17,3.0,3.0,0.0
+University Park,18,2.0,8.0,6.0
+University Park,19,2.0,4.0,2.0
+University Park,21,2.0,1.0,-1.0
+University Park,22,4.0,4.0,0.0
+Uphams Corner,2,1.0,0.0,-1.0
+Uphams Corner,17,1.0,0.0,-1.0
+Uphams Corner,18,1.0,0.0,-1.0
+Uphams Corner T Stop - Magnolia St at Dudley St,16,1.0,0.0,-1.0
+Valenti Way at Haverhill St,8,1.0,0.0,-1.0
+Valenti Way at Haverhill St,13,1.0,0.0,-1.0
+Valenti Way at Haverhill St,15,2.0,0.0,-2.0
+Valenti Way at Haverhill St,16,2.0,1.0,-1.0
+Valenti Way at Haverhill St,17,2.0,2.0,0.0
+Valenti Way at Haverhill St,18,1.0,3.0,2.0
+Valenti Way at Haverhill St,21,2.0,1.0,-1.0
+Vassal Lane at Tobin/VLUS,8,3.0,1.0,-2.0
+Vassal Lane at Tobin/VLUS,9,3.0,2.0,-1.0
+Vassal Lane at Tobin/VLUS,11,4.0,2.0,-2.0
+Vassal Lane at Tobin/VLUS,12,7.0,1.0,-6.0
+Vassal Lane at Tobin/VLUS,13,4.0,5.0,1.0
+Vassal Lane at Tobin/VLUS,14,2.0,5.0,3.0
+Vassal Lane at Tobin/VLUS,15,7.0,6.0,-1.0
+Vassal Lane at Tobin/VLUS,16,6.0,13.0,7.0
+Vassal Lane at Tobin/VLUS,17,6.0,7.0,1.0
+Vassal Lane at Tobin/VLUS,18,8.0,6.0,-2.0
+Vassal Lane at Tobin/VLUS,19,8.0,8.0,0.0
+Vassal Lane at Tobin/VLUS,20,2.0,5.0,3.0
+Vassal Lane at Tobin/VLUS,21,1.0,5.0,4.0
+Vassal Lane at Tobin/VLUS,22,4.0,6.0,2.0
+Verizon Innovation Hub 10 Ware Street,0,1.0,2.0,1.0
+Verizon Innovation Hub 10 Ware Street,1,1.0,0.0,-1.0
+Verizon Innovation Hub 10 Ware Street,5,2.0,0.0,-2.0
+Verizon Innovation Hub 10 Ware Street,7,1.0,0.0,-1.0
+Verizon Innovation Hub 10 Ware Street,9,2.0,1.0,-1.0
+Verizon Innovation Hub 10 Ware Street,10,6.0,0.0,-6.0
+Verizon Innovation Hub 10 Ware Street,11,5.0,3.0,-2.0
+Verizon Innovation Hub 10 Ware Street,12,8.0,2.0,-6.0
+Verizon Innovation Hub 10 Ware Street,13,1.0,5.0,4.0
+Verizon Innovation Hub 10 Ware Street,14,4.0,7.0,3.0
+Verizon Innovation Hub 10 Ware Street,15,5.0,7.0,2.0
+Verizon Innovation Hub 10 Ware Street,16,11.0,9.0,-2.0
+Verizon Innovation Hub 10 Ware Street,17,3.0,9.0,6.0
+Verizon Innovation Hub 10 Ware Street,18,2.0,5.0,3.0
+Verizon Innovation Hub 10 Ware Street,19,2.0,8.0,6.0
+Verizon Innovation Hub 10 Ware Street,20,3.0,6.0,3.0
+Verizon Innovation Hub 10 Ware Street,21,2.0,2.0,0.0
+Verizon Innovation Hub 10 Ware Street,22,6.0,2.0,-4.0
+Verizon Innovation Hub 10 Ware Street,23,2.0,3.0,1.0
+W Broadway at D St,12,2.0,2.0,0.0
+W Broadway at D St,16,1.0,1.0,0.0
+W Broadway at D St,20,3.0,0.0,-3.0
+W Broadway at Dorchester St,12,2.0,0.0,-2.0
+Walbridge St at Commonwealth Ave,13,1.0,1.0,0.0
+Walbridge St at Commonwealth Ave,14,2.0,0.0,-2.0
+Walbridge St at Commonwealth Ave,16,1.0,0.0,-1.0
+Warren St at Chelsea St,6,9.0,0.0,-9.0
+Warren St at Chelsea St,7,7.0,0.0,-7.0
+Warren St at Chelsea St,12,2.0,0.0,-2.0
+Warren St at Chelsea St,14,3.0,0.0,-3.0
+Warren St at Chelsea St,15,2.0,3.0,1.0
+Warren St at Chelsea St,16,3.0,0.0,-3.0
+Warren St at Chelsea St,17,2.0,0.0,-2.0
+Warren St at Chelsea St,19,1.0,0.0,-1.0
+Warren St at Chelsea St,23,1.0,0.0,-1.0
+Washington Sq,5,1.0,0.0,-1.0
+Washington Sq,6,6.0,0.0,-6.0
+Washington Sq,9,2.0,0.0,-2.0
+Washington Sq,10,1.0,0.0,-1.0
+Washington Sq,11,5.0,0.0,-5.0
+Washington Sq,12,6.0,0.0,-6.0
+Washington Sq,13,5.0,1.0,-4.0
+Washington Sq,14,3.0,0.0,-3.0
+Washington Sq,15,2.0,3.0,1.0
+Washington Sq,17,1.0,3.0,2.0
+Washington Sq,18,2.0,4.0,2.0
+Washington Sq,19,2.0,7.0,5.0
+Washington Sq,20,3.0,0.0,-3.0
+Washington Sq,21,1.0,0.0,-1.0
+Washington St at Brock St,0,9.0,32.0,23.0
+Washington St at Brock St,1,14.0,15.0,1.0
+Washington St at Brock St,2,12.0,9.0,-3.0
+Washington St at Brock St,3,5.0,12.0,7.0
+Washington St at Brock St,4,2.0,13.0,11.0
+Washington St at Brock St,6,1.0,1.0,0.0
+Washington St at Brock St,7,3.0,3.0,0.0
+Washington St at Brock St,8,11.0,3.0,-8.0
+Washington St at Brock St,9,21.0,6.0,-15.0
+Washington St at Brock St,10,19.0,10.0,-9.0
+Washington St at Brock St,11,24.0,15.0,-9.0
+Washington St at Brock St,12,29.0,19.0,-10.0
+Washington St at Brock St,13,51.0,21.0,-30.0
+Washington St at Brock St,14,36.0,32.0,-4.0
+Washington St at Brock St,15,55.0,38.0,-17.0
+Washington St at Brock St,16,65.0,45.0,-20.0
+Washington St at Brock St,17,61.0,45.0,-16.0
+Washington St at Brock St,18,72.0,39.0,-33.0
+Washington St at Brock St,19,50.0,43.0,-7.0
+Washington St at Brock St,20,34.0,51.0,17.0
+Washington St at Brock St,21,41.0,38.0,-3.0
+Washington St at Brock St,22,28.0,28.0,0.0
+Washington St at Brock St,23,24.0,16.0,-8.0
+Washington St at Crafts St,8,1.0,1.0,0.0
+Washington St at Crafts St,9,4.0,1.0,-3.0
+Washington St at Crafts St,10,1.0,5.0,4.0
+Washington St at Crafts St,11,2.0,1.0,-1.0
+Washington St at Crafts St,12,5.0,3.0,-2.0
+Washington St at Crafts St,13,5.0,1.0,-4.0
+Washington St at Crafts St,14,1.0,2.0,1.0
+Washington St at Crafts St,15,11.0,6.0,-5.0
+Washington St at Crafts St,16,6.0,3.0,-3.0
+Washington St at Crafts St,17,8.0,3.0,-5.0
+Washington St at Crafts St,18,1.0,4.0,3.0
+Washington St at Crafts St,20,3.0,5.0,2.0
+Washington St at Crafts St,21,5.0,5.0,0.0
+Washington St at Crafts St,22,1.0,1.0,0.0
+Washington St at Egremont Rd,3,1.0,0.0,-1.0
+Washington St at Egremont Rd,6,5.0,0.0,-5.0
+Washington St at Egremont Rd,7,2.0,1.0,-1.0
+Washington St at Egremont Rd,8,3.0,4.0,1.0
+Washington St at Egremont Rd,9,3.0,3.0,0.0
+Washington St at Egremont Rd,10,7.0,1.0,-6.0
+Washington St at Egremont Rd,11,9.0,4.0,-5.0
+Washington St at Egremont Rd,12,7.0,2.0,-5.0
+Washington St at Egremont Rd,13,6.0,5.0,-1.0
+Washington St at Egremont Rd,14,8.0,5.0,-3.0
+Washington St at Egremont Rd,15,8.0,7.0,-1.0
+Washington St at Egremont Rd,16,6.0,8.0,2.0
+Washington St at Egremont Rd,17,9.0,6.0,-3.0
+Washington St at Egremont Rd,18,8.0,8.0,0.0
+Washington St at Egremont Rd,19,9.0,6.0,-3.0
+Washington St at Egremont Rd,20,6.0,6.0,0.0
+Washington St at Egremont Rd,21,5.0,4.0,-1.0
+Washington St at Egremont Rd,22,9.0,3.0,-6.0
+Washington St at Egremont Rd,23,1.0,1.0,0.0
+Washington St at Griggs Rd,5,1.0,0.0,-1.0
+Washington St at Griggs Rd,13,1.0,3.0,2.0
+Washington St at Griggs Rd,15,2.0,1.0,-1.0
+Washington St at Griggs Rd,18,2.0,0.0,-2.0
+Washington St at Griggs Rd,20,2.0,1.0,-1.0
+Washington St at Griggs Rd,22,2.0,2.0,0.0
+Washington St at Lenox St,13,1.0,0.0,-1.0
+Washington St at Lenox St,18,1.0,0.0,-1.0
+Washington St at Melnea Cass Blvd,14,1.0,0.0,-1.0
+Washington St at Melnea Cass Blvd,20,1.0,0.0,-1.0
+Washington St at Melnea Cass Blvd,21,1.0,0.0,-1.0
+Washington St at Mina Way,14,1.0,0.0,-1.0
+Washington St at Mina Way,15,1.0,0.0,-1.0
+Washington St at Myrtle St,2,2.0,0.0,-2.0
+Washington St at Myrtle St,8,2.0,0.0,-2.0
+Washington St at Myrtle St,9,1.0,0.0,-1.0
+Washington St at Myrtle St,10,4.0,0.0,-4.0
+Washington St at Myrtle St,12,1.0,0.0,-1.0
+Washington St at Myrtle St,13,1.0,1.0,0.0
+Washington St at Myrtle St,14,1.0,0.0,-1.0
+Washington St at Myrtle St,15,1.0,3.0,2.0
+Washington St at Myrtle St,17,2.0,0.0,-2.0
+Washington St at Myrtle St,19,2.0,0.0,-2.0
+Washington St at Myrtle St,20,1.0,1.0,0.0
+Washington St at Peters Park,7,1.0,0.0,-1.0
+Washington St at Peters Park,12,2.0,0.0,-2.0
+Washington St at Peters Park,13,1.0,0.0,-1.0
+Washington St at Peters Park,16,1.0,0.0,-1.0
+Washington St at Rutland St,8,1.0,0.0,-1.0
+Washington St at Rutland St,11,2.0,1.0,-1.0
+Washington St at Rutland St,12,1.0,1.0,0.0
+Washington St at Rutland St,14,1.0,1.0,0.0
+Washington St at Rutland St,15,5.0,1.0,-4.0
+Washington St at Rutland St,16,6.0,0.0,-6.0
+Washington St at Rutland St,18,2.0,1.0,-1.0
+Washington St at Rutland St,22,1.0,0.0,-1.0
+Washington St at Temple Pl,12,2.0,0.0,-2.0
+Washington St at Temple Pl,17,1.0,0.0,-1.0
+Washington St at Temple Pl,18,1.0,0.0,-1.0
+Washington St at Temple Pl,20,3.0,0.0,-3.0
+Washington St at Walnut St,8,2.0,0.0,-2.0
+Washington St at Walnut St,9,1.0,0.0,-1.0
+Washington St at Walnut St,11,2.0,3.0,1.0
+Washington St at Walnut St,12,6.0,1.0,-5.0
+Washington St at Walnut St,13,4.0,2.0,-2.0
+Washington St at Walnut St,14,3.0,5.0,2.0
+Washington St at Walnut St,15,1.0,5.0,4.0
+Washington St at Walnut St,16,1.0,4.0,3.0
+Washington St at Walnut St,17,3.0,10.0,7.0
+Washington St at Walnut St,18,6.0,5.0,-1.0
+Washington St at Walnut St,19,1.0,2.0,1.0
+Washington St at Walnut St,20,3.0,6.0,3.0
+Washington St at Walnut St,21,7.0,2.0,-5.0
+Washington St at Walnut St,22,2.0,6.0,4.0
+Washington St at Walnut St,23,1.0,2.0,1.0
+Washington St at Waltham St,8,2.0,0.0,-2.0
+Washington St at Waltham St,9,1.0,0.0,-1.0
+Washington St at Waltham St,18,2.0,1.0,-1.0
+Washington St at Waltham St,20,2.0,1.0,-1.0
+Watermark Seaport - Boston Wharf Rd at Seaport Blvd,11,1.0,0.0,-1.0
+Watermark Seaport - Boston Wharf Rd at Seaport Blvd,14,1.0,0.0,-1.0
+Watermark Seaport - Boston Wharf Rd at Seaport Blvd,17,1.0,0.0,-1.0
+Watertown City Hall,0,1.0,1.0,0.0
+Watertown City Hall,4,1.0,0.0,-1.0
+Watertown City Hall,5,1.0,0.0,-1.0
+Watertown City Hall,6,1.0,0.0,-1.0
+Watertown City Hall,7,2.0,2.0,0.0
+Watertown City Hall,8,11.0,7.0,-4.0
+Watertown City Hall,9,9.0,4.0,-5.0
+Watertown City Hall,10,13.0,9.0,-4.0
+Watertown City Hall,11,12.0,4.0,-8.0
+Watertown City Hall,12,17.0,15.0,-2.0
+Watertown City Hall,13,12.0,17.0,5.0
+Watertown City Hall,14,23.0,13.0,-10.0
+Watertown City Hall,15,14.0,21.0,7.0
+Watertown City Hall,16,16.0,14.0,-2.0
+Watertown City Hall,17,16.0,23.0,7.0
+Watertown City Hall,18,19.0,53.0,34.0
+Watertown City Hall,19,15.0,22.0,7.0
+Watertown City Hall,20,16.0,22.0,6.0
+Watertown City Hall,21,3.0,16.0,13.0
+Watertown City Hall,22,3.0,5.0,2.0
+Watertown Sq,0,20.0,27.0,7.0
+Watertown Sq,1,6.0,4.0,-2.0
+Watertown Sq,4,2.0,1.0,-1.0
+Watertown Sq,5,4.0,2.0,-2.0
+Watertown Sq,6,6.0,10.0,4.0
+Watertown Sq,7,16.0,17.0,1.0
+Watertown Sq,8,23.0,31.0,8.0
+Watertown Sq,9,26.0,17.0,-9.0
+Watertown Sq,10,31.0,22.0,-9.0
+Watertown Sq,11,35.0,47.0,12.0
+Watertown Sq,12,63.0,45.0,-18.0
+Watertown Sq,13,70.0,49.0,-21.0
+Watertown Sq,14,71.0,65.0,-6.0
+Watertown Sq,15,80.0,62.0,-18.0
+Watertown Sq,16,80.0,75.0,-5.0
+Watertown Sq,17,87.0,67.0,-20.0
+Watertown Sq,18,58.0,79.0,21.0
+Watertown Sq,19,66.0,75.0,9.0
+Watertown Sq,20,50.0,53.0,3.0
+Watertown Sq,21,39.0,35.0,-4.0
+Watertown Sq,22,32.0,50.0,18.0
+Watertown Sq,23,25.0,55.0,30.0
+Watertown St at 5th Ave,4,16.0,0.0,-16.0
+Watertown St at 5th Ave,5,3.0,0.0,-3.0
+Watertown St at 5th Ave,7,8.0,1.0,-7.0
+Watertown St at 5th Ave,8,7.0,6.0,-1.0
+Watertown St at 5th Ave,9,2.0,0.0,-2.0
+Watertown St at 5th Ave,10,3.0,1.0,-2.0
+Watertown St at 5th Ave,11,3.0,5.0,2.0
+Watertown St at 5th Ave,12,9.0,1.0,-8.0
+Watertown St at 5th Ave,13,8.0,8.0,0.0
+Watertown St at 5th Ave,14,1.0,4.0,3.0
+Watertown St at 5th Ave,15,3.0,11.0,8.0
+Watertown St at 5th Ave,16,6.0,5.0,-1.0
+Watertown St at 5th Ave,17,7.0,10.0,3.0
+Watertown St at 5th Ave,18,2.0,3.0,1.0
+Watertown St at 5th Ave,19,7.0,9.0,2.0
+Watertown St at 5th Ave,20,3.0,3.0,0.0
+Watertown St at Albemarle Rd,7,1.0,2.0,1.0
+Watertown St at Albemarle Rd,8,3.0,10.0,7.0
+Watertown St at Albemarle Rd,9,1.0,2.0,1.0
+Watertown St at Albemarle Rd,10,2.0,1.0,-1.0
+Watertown St at Albemarle Rd,11,2.0,2.0,0.0
+Watertown St at Albemarle Rd,13,4.0,2.0,-2.0
+Watertown St at Albemarle Rd,14,3.0,4.0,1.0
+Watertown St at Albemarle Rd,15,3.0,4.0,1.0
+Watertown St at Albemarle Rd,16,5.0,6.0,1.0
+Watertown St at Albemarle Rd,17,9.0,0.0,-9.0
+Watertown St at Albemarle Rd,18,7.0,2.0,-5.0
+Watertown St at Albemarle Rd,19,4.0,3.0,-1.0
+Watertown St at Albemarle Rd,20,4.0,4.0,0.0
+Watertown St at Albemarle Rd,21,1.0,3.0,2.0
+Watertown St at Albemarle Rd,22,1.0,2.0,1.0
+Watertown Town Hall,0,16.0,15.0,-1.0
+Watertown Town Hall,2,1.0,6.0,5.0
+Watertown Town Hall,6,4.0,3.0,-1.0
+Watertown Town Hall,7,3.0,3.0,0.0
+Watertown Town Hall,8,4.0,9.0,5.0
+Watertown Town Hall,9,16.0,5.0,-11.0
+Watertown Town Hall,10,21.0,14.0,-7.0
+Watertown Town Hall,11,20.0,14.0,-6.0
+Watertown Town Hall,12,16.0,26.0,10.0
+Watertown Town Hall,13,12.0,20.0,8.0
+Watertown Town Hall,14,14.0,23.0,9.0
+Watertown Town Hall,15,10.0,28.0,18.0
+Watertown Town Hall,16,26.0,27.0,1.0
+Watertown Town Hall,17,18.0,31.0,13.0
+Watertown Town Hall,18,34.0,30.0,-4.0
+Watertown Town Hall,19,15.0,27.0,12.0
+Watertown Town Hall,20,23.0,33.0,10.0
+Watertown Town Hall,21,28.0,31.0,3.0
+Watertown Town Hall,22,19.0,27.0,8.0
+Watertown Town Hall,23,12.0,17.0,5.0
+Wellington MBTA,17,1.0,0.0,-1.0
+Wentworth Institute of Technology - Huntington Ave at Vancouver St,0,2.0,0.0,-2.0
+Wentworth Institute of Technology - Huntington Ave at Vancouver St,8,2.0,0.0,-2.0
+Wentworth Institute of Technology - Huntington Ave at Vancouver St,12,1.0,0.0,-1.0
+Wentworth Institute of Technology - Huntington Ave at Vancouver St,14,1.0,1.0,0.0
+Wentworth Institute of Technology - Huntington Ave at Vancouver St,15,2.0,0.0,-2.0
+Wentworth Institute of Technology - Huntington Ave at Vancouver St,16,1.0,2.0,1.0
+Wentworth Institute of Technology - Huntington Ave at Vancouver St,20,1.0,1.0,0.0
+Wentworth Institute of Technology - Huntington Ave at Vancouver St,22,1.0,0.0,-1.0
+West End Park,8,1.0,0.0,-1.0
+West End Park,12,1.0,1.0,0.0
+West End Park,15,1.0,0.0,-1.0
+West End Park,18,2.0,0.0,-2.0
+West Medford Square (Bower St at Harvard Ave),17,2.0,0.0,-2.0
+West Medford Square (Bower St at Harvard Ave),18,1.0,2.0,1.0
+West Medford Square (Bower St at Harvard Ave),19,2.0,0.0,-2.0
+West Newton,0,1.0,1.0,0.0
+West Newton,1,1.0,0.0,-1.0
+West Newton,10,4.0,1.0,-3.0
+West Newton,11,4.0,1.0,-3.0
+West Newton,13,3.0,6.0,3.0
+West Newton,15,3.0,2.0,-1.0
+West Newton,16,4.0,6.0,2.0
+West Newton,18,4.0,3.0,-1.0
+West Newton,19,2.0,4.0,2.0
+West Newton,20,4.0,3.0,-1.0
+West Newton,22,4.0,1.0,-3.0
+West Newton Armory,21,1.0,1.0,0.0
+Western Ave at Everett St,2,1.0,0.0,-1.0
+Western Ave at Everett St,5,1.0,1.0,0.0
+Western Ave at Everett St,6,2.0,0.0,-2.0
+Western Ave at Everett St,7,8.0,0.0,-8.0
+Western Ave at Everett St,8,4.0,2.0,-2.0
+Western Ave at Everett St,9,4.0,2.0,-2.0
+Western Ave at Everett St,10,2.0,3.0,1.0
+Western Ave at Everett St,11,8.0,10.0,2.0
+Western Ave at Everett St,12,3.0,7.0,4.0
+Western Ave at Everett St,13,10.0,7.0,-3.0
+Western Ave at Everett St,14,8.0,9.0,1.0
+Western Ave at Everett St,15,5.0,15.0,10.0
+Western Ave at Everett St,16,7.0,12.0,5.0
+Western Ave at Everett St,17,7.0,13.0,6.0
+Western Ave at Everett St,18,20.0,14.0,-6.0
+Western Ave at Everett St,19,4.0,12.0,8.0
+Western Ave at Everett St,20,11.0,6.0,-5.0
+Western Ave at Everett St,21,3.0,8.0,5.0
+Western Ave at Everett St,23,2.0,7.0,5.0
+Western Ave at Leo Birmingham Pkwy,0,5.0,1.0,-4.0
+Western Ave at Leo Birmingham Pkwy,4,1.0,0.0,-1.0
+Western Ave at Leo Birmingham Pkwy,7,16.0,10.0,-6.0
+Western Ave at Leo Birmingham Pkwy,8,27.0,6.0,-21.0
+Western Ave at Leo Birmingham Pkwy,9,3.0,4.0,1.0
+Western Ave at Leo Birmingham Pkwy,10,8.0,1.0,-7.0
+Western Ave at Leo Birmingham Pkwy,11,14.0,5.0,-9.0
+Western Ave at Leo Birmingham Pkwy,12,29.0,20.0,-9.0
+Western Ave at Leo Birmingham Pkwy,13,10.0,25.0,15.0
+Western Ave at Leo Birmingham Pkwy,14,9.0,18.0,9.0
+Western Ave at Leo Birmingham Pkwy,15,14.0,22.0,8.0
+Western Ave at Leo Birmingham Pkwy,16,19.0,17.0,-2.0
+Western Ave at Leo Birmingham Pkwy,17,18.0,21.0,3.0
+Western Ave at Leo Birmingham Pkwy,18,24.0,14.0,-10.0
+Western Ave at Leo Birmingham Pkwy,19,14.0,15.0,1.0
+Western Ave at Leo Birmingham Pkwy,20,7.0,18.0,11.0
+Western Ave at Leo Birmingham Pkwy,21,7.0,21.0,14.0
+Western Ave at Leo Birmingham Pkwy,22,3.0,13.0,10.0
+Western Ave at Leo Birmingham Pkwy,23,5.0,8.0,3.0
+Western Ave at Richardson St,0,18.0,14.0,-4.0
+Western Ave at Richardson St,1,6.0,7.0,1.0
+Western Ave at Richardson St,2,4.0,5.0,1.0
+Western Ave at Richardson St,3,5.0,2.0,-3.0
+Western Ave at Richardson St,4,4.0,3.0,-1.0
+Western Ave at Richardson St,6,2.0,4.0,2.0
+Western Ave at Richardson St,7,10.0,28.0,18.0
+Western Ave at Richardson St,8,16.0,29.0,13.0
+Western Ave at Richardson St,9,13.0,8.0,-5.0
+Western Ave at Richardson St,10,10.0,16.0,6.0
+Western Ave at Richardson St,11,28.0,19.0,-9.0
+Western Ave at Richardson St,12,58.0,73.0,15.0
+Western Ave at Richardson St,13,45.0,39.0,-6.0
+Western Ave at Richardson St,14,53.0,34.0,-19.0
+Western Ave at Richardson St,15,49.0,32.0,-17.0
+Western Ave at Richardson St,16,55.0,60.0,5.0
+Western Ave at Richardson St,17,79.0,67.0,-12.0
+Western Ave at Richardson St,18,61.0,66.0,5.0
+Western Ave at Richardson St,19,57.0,46.0,-11.0
+Western Ave at Richardson St,20,51.0,60.0,9.0
+Western Ave at Richardson St,21,49.0,57.0,8.0
+Western Ave at Richardson St,22,28.0,43.0,15.0
+Western Ave at Richardson St,23,34.0,24.0,-10.0
+Williams St at Washington St,10,1.0,0.0,-1.0
+Williams St at Washington St,22,1.0,0.0,-1.0
+Wilson Square,4,1.0,0.0,-1.0
+Wilson Square,7,6.0,0.0,-6.0
+Wilson Square,8,1.0,0.0,-1.0
+Wilson Square,9,1.0,0.0,-1.0
+Wilson Square,10,1.0,1.0,0.0
+Wilson Square,11,2.0,1.0,-1.0
+Wilson Square,12,2.0,0.0,-2.0
+Wilson Square,13,4.0,1.0,-3.0
+Wilson Square,14,4.0,1.0,-3.0
+Wilson Square,15,2.0,0.0,-2.0
+Wilson Square,16,5.0,3.0,-2.0
+Wilson Square,17,2.0,0.0,-2.0
+Wilson Square,18,2.0,1.0,-1.0
+Wilson Square,21,1.0,0.0,-1.0
+Winthrop Circle,8,1.0,0.0,-1.0
