@@ -4,7 +4,6 @@ Prescriptive Optimization for Bike Dock Allocation in Watertown
 
 A prescriptive analytics system that recommends optimal bike dock reallocation across Bluebikes stations under real-world constraints, built for operational decision-making.
 
-Data Source - https://s3.amazonaws.com/hubway-data/index.html
 
 🔍 The Problem
 
@@ -31,9 +30,7 @@ The system outputs decisions, not just insights.
 
 🧠 Data & Feature Engineering
 
-Data Source
-	•	Raw Bluebikes trip-level CSV files spanning multiple periods
-	•	Station metadata including location and capacity
+Data Source - https://s3.amazonaws.com/hubway-data/index.html
 
 Cleaning & Transformation
 
