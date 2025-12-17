@@ -113,13 +113,13 @@ https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app/
 ⸻
 ## 📁 Project Structure
 
-├── app.py                              # Streamlit app presenting prescriptive recommendations
-├── Blue_Bikes EDA 2.ipynb              # Exploratory data analysis and feature engineering
-├── hourly_station_flow.csv             # Aggregated station-level inbound/outbound flow data
-├── dock_capacity_recommendations.csv   # Prescriptive dock expansion recommendations
-├── requirements.txt                    # Python dependencies
-├── README.md                           # Project documentation
-└── .gitignore
+-> app.py                              # Streamlit app presenting prescriptive recommendations
+-> Blue_Bikes EDA 2.ipynb              # Exploratory data analysis and feature engineering
+-> hourly_station_flow.csv             # Aggregated station-level inbound/outbound flow data
+-> dock_capacity_recommendations.csv   # Prescriptive dock expansion recommendations
+-> requirements.txt                    # Python dependencies
+-> README.md                           # Project documentation
+-> .gitignore
 
 The Jupyter notebook is used for exploratory analysis and data preparation to understand demand imbalance patterns in Watertown.  
 The deployed Streamlit application (`app.py`) represents the **final prescriptive layer**, where calculated decision logic is applied to generate **actionable dock capacity recommendations** for operations and planning teams.
