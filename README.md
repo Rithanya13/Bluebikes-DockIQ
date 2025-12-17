@@ -136,7 +136,7 @@ https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app
 
 ---
 
-## 📊 Example Outputs
+## 📊 Outputs
 
  Dock Pressure Ranking Bar Chart
  <img width="1066" height="647" alt="image" src="https://github.com/user-attachments/assets/5be2fac2-80d1-4186-8005-52b47b8d6a71" />
