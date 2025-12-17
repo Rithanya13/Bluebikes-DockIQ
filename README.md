@@ -153,27 +153,15 @@ https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app
 
 ## 📁 Project Structure
 
-├── app.py  
-│   └── Streamlit-based decision-support application implementing the prescriptive logic  
-│
-├── Blue_Bikes EDA 2.ipynb  
-│   └── End-to-end exploratory data analysis, data cleaning, diagnostics, and feature engineering  
-│
-├── hourly_station_flow.csv  
-│   └── Aggregated hourly inbound and outbound trip flows at the station level  
-│
-├── dock_capacity_recommendations.csv  
-│   └── Final prescriptive output containing recommended dock expansions by station  
-│
-├── requirements.txt  
-│   └── Python dependencies required to run and deploy the application  
-│
-├── README.md  
-│   └── Project documentation and methodology overview  
-│
-└── .gitignore  
-    └── Git ignore rules for local and system files
+## 📁 Project Structure
 
+├── app.py
+├── Blue_Bikes EDA 2.ipynb
+├── hourly_station_flow.csv
+├── dock_capacity_recommendations.csv
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 The notebook supports **analysis and justification**.  
 The Streamlit app delivers the **prescriptive outcome**.
