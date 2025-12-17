@@ -106,25 +106,17 @@ The application:
 - Provides interpretability guidance to help decision-makers understand the recommendations
 
 The Streamlit app represents the **final decision-support layer** of the project. All prescriptive logic is executed programmatically, and the app is designed to present **clear, operationally meaningful actions**, not just descriptive metrics or visualizations.
-
 👉 **Live Streamlit App:**  
-https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app/
+https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app
 
 ⸻
 ## 📁 Project Structure
-
 -> app.py
-|
 -> Blue_Bikes EDA 2.ipynb 
-|
 -> hourly_station_flow.csv   
-|
 -> dock_capacity_recommendations.csv   
-|
 -> requirements.txt               
-|
 -> README.md       
-|
 -> .gitignore
 
 The Jupyter notebook is used for exploratory analysis and data preparation to understand demand imbalance patterns in Watertown.  
