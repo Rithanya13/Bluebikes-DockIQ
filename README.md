@@ -153,14 +153,14 @@ https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app
 
 📁 Project Structure
 
-.
-├── app.py
-├── Blue_Bikes_EDA_2.ipynb
-├── hourly_station_flow.csv
-├── dock_capacity_recommendations.csv
-├── requirements.txt
-├── README.md
-└── .gitignore
+
+- app.py
+- Blue_Bikes_EDA_2.ipynb
+- hourly_station_flow.csv
+- dock_capacity_recommendations.csv
+- requirements.txt
+- README.md
+- .gitignore
 
 The notebook supports **analysis and justification**.  
 The Streamlit app delivers the **prescriptive outcome**.
