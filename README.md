@@ -1,147 +1,124 @@
 🚲 Bluebikes DockIQ
 
-Prescriptive Optimization for Bike Dock Allocation in Watertown
+Prescriptive Decision Intelligence for Bike Dock Allocation in Watertown
 
-A prescriptive analytics system that recommends optimal bike dock reallocation across Bluebikes stations under real-world constraints, built for operational decision-making.
+DockIQ is a prescriptive analytics decision intelligence system that converts historical Bluebikes demand imbalance into actionable, station-level dock capacity recommendations to support operational planning and infrastructure decisions in Watertown, MA.
 
-
-🔍 The Problem
-
-Bluebikes is a station-based bike-share system serving Greater Boston. One of its core operational challenges is dock imbalance: some stations regularly run out of bikes, while others run out of empty docks. These imbalances lead to poor user experience, operational inefficiencies, and increased rebalancing costs.
-
-This problem is especially visible in Watertown, MA, a growing border city between Boston and Cambridge. Watertown contains a mix of residential neighborhoods, transit connectors, and retail hubs such as Arsenal Yards, creating uneven inbound and outbound bike flows throughout the day.
-
-City planners and bike-share operators face a constrained decision problem:
-
-Given limited budget and fixed station locations, how should docks be reallocated across stations to improve system-wide availability?
+The system is designed to help planners move beyond descriptive dashboards toward clear, prioritized actions under real-world constraints.
 
 ⸻
 
 🎯 Why This Is Prescriptive Analytics
-	•	Descriptive analytics explains what happened (historical station usage).
-	•	Predictive analytics estimates what may happen (future demand).
-	•	Prescriptive analytics determines what actions should be taken.
 
-This project is prescriptive because it goes beyond identifying high-demand stations. It formulates a decision problem and produces actionable recommendations on how many docks to add or remove at each station—under explicit constraints.
+Analytics maturity progresses through three levels:
+	•	Descriptive analytics explains what has happened
+	•	Predictive analytics estimates what may happen
+	•	Prescriptive analytics determines what should be done
 
-The system outputs decisions, not just insights.
+DockIQ operates at the prescriptive level by transforming observed demand imbalance into explicit capacity decisions—recommending where dock capacity should be expanded or reduced to improve system-wide availability.
+
+The output of the system is decisions, not just insights.
 
 ⸻
 
 🧠 Data & Feature Engineering
 
-Data Source - https://s3.amazonaws.com/hubway-data/index.html
+Data Source:
+Bluebikes historical trip data (2020–2025)
+https://s3.amazonaws.com/hubway-data/index.html
 
-Cleaning & Transformation
+Data Preparation
 
-The raw data required substantial preparation:
-	•	Unioned inbound and outbound trip records
-	•	Filtered trips to Watertown stations only
-	•	Resolved inconsistent station identifiers
-	•	Verified station locations against official Bluebikes maps
-	•	Aggregated trip-level data into station-level metrics
+Raw trip-level data was processed to support decision-making:
+	•	Integrated inbound and outbound trip flows
+	•	Filtered to Watertown and Arsenal-area stations
+	•	Standardized station identifiers and locations
+	•	Aggregated trips into station- and hour-level flow metrics
 
-Engineered Features
-	•	Total inbound trips per station
-	•	Total outbound trips per station
-	•	Net demand imbalance indicators
-	•	Current dock capacity per station
+Engineered Decision Signals
 
-These features serve as inputs to the prescriptive decision model, not as final outputs.
+Key signals derived from the data include:
+	•	Hourly inbound and outbound demand
+	•	Net flow imbalance by station
+	•	Peak shortage magnitude
+	•	Frequency of shortage periods
 
-⸻
-
-📊 Exploratory Findings (Diagnostic, Not the Goal)
-
-Exploratory analysis revealed:
-	•	Persistent imbalance across Watertown stations
-	•	Arsenal Yards consistently exhibits high outbound demand due to retail and transit activity
-	•	Nearby residential stations tend to receive more bikes than they send
-
-These findings motivate intervention, but they do not prescribe action. EDA is used here as a diagnostic step, not the solution.
+These signals form the foundation of the prescriptive logic, enabling the system to distinguish between transient variation and persistent structural imbalance.
 
 ⸻
 
-⚙️ Prescriptive Optimization Model
+📊 Exploratory Analysis (Decision-Oriented)
 
-Decision Variables
-	•	x_i: Number of docks to add (or remove) at station i
+Exploratory analysis revealed persistent, spatially concentrated imbalance across Watertown stations.
+In particular:
+	•	Arsenal Yards consistently exhibits elevated outbound pressure driven by retail, transit, and commuter activity
+	•	Nearby residential stations show complementary inbound-heavy patterns
 
-Objective
+These findings establish the need for intervention and guide the design of the prescriptive decision framework.
 
-Maximize overall system availability by:
-	•	Increasing capacity at high-pressure stations
-	•	Reducing excess capacity where docks are underutilized
+⸻
 
-Constraints
-	•	Budget constraint: Total dock changes cannot exceed available budget
-	•	Capacity bounds: Each station must remain within minimum and maximum dock limits
-	•	Feasibility: Dock adjustments must be realistic and implementable
+⚙️ Prescriptive Decision Framework
 
-The model selects the optimal set of dock reallocations that improves coverage while respecting all constraints.
+DockIQ applies a structured prescriptive framework to translate demand imbalance into capacity adjustment recommendations.
+
+Decision Variable
+	•	Recommended dock capacity adjustment at each station
+
+Decision Logic
+
+A composite Dock Pressure Score is computed for each station, capturing:
+	•	Severity of peak bike shortages
+	•	Persistence of imbalance across time
+
+Stations are then prioritized, and capacity recommendations are generated in proportion to observed operational pressure.
+
+This approach enables:
+	•	Transparent decision-making
+	•	Clear prioritization under constraints
+	•	Operationally realistic recommendations
 
 ⸻
 
 📌 Prescriptive Findings & Recommendations
 
-Key prescriptive outcomes from the model include:
-	•	Arsenal Yards requires dock expansion due to sustained outbound demand
-	•	Several nearby residential stations can safely reduce excess capacity
-	•	Reallocating docks within Watertown improves availability without adding new infrastructure
-	•	A small number of targeted dock changes yields disproportionate system-wide benefits
+Key outcomes from the system include:
+	•	Arsenal Yards is identified as a top-priority candidate for dock expansion
+	•	Several nearby stations exhibit lower pressure and can absorb capacity reductions
+	•	Reallocating docks within Watertown improves availability without additional infrastructure
+	•	A small number of targeted interventions delivers disproportionate system-wide benefit
 
-These results demonstrate trade-offs and decision-making under constraints—hallmarks of prescriptive analytics.
+These results demonstrate trade-offs, prioritization, and constrained decision-making, which are core characteristics of prescriptive analytics.
 
 ⸻
 
+🖥️ Streamlit Decision Support Application
 
-## 🖥️ Streamlit Application
-
-The deployed Streamlit application presents the **prescriptive analytics output** of the DockIQ system. Rather than serving as an interactive parameter-tuning tool, the app focuses on clearly communicating **actionable dock capacity recommendations** derived from historical demand imbalance.
+The deployed Streamlit application presents the final prescriptive output of DockIQ.
 
 The application:
-- Computes a Dock Pressure Score for each station based on inbound–outbound imbalance patterns
-- Translates pressure scores into **concrete dock expansion recommendations**
-- Displays a ranked, station-level table showing where operational intervention is most needed
-- Provides interpretability guidance to help decision-makers understand the recommendations
+	•	Computes station-level pressure metrics
+	•	Ranks stations by operational urgency
+	•	Displays clear, actionable dock capacity recommendations
+	•	Supports planners in identifying where intervention matters most
 
-The Streamlit app represents the **final decision-support layer** of the project. All prescriptive logic is executed programmatically, and the app is designed to present **clear, operationally meaningful actions**, not just descriptive metrics or visualizations.
-👉 **Live Streamlit App:**  
+The application is designed as a decision-support interface, not a visualization-only dashboard.
+
+👉 Live Streamlit App:
 https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app
 
-⸻
-## 📁 Project Structure
-
-├── app.py                              # Streamlit app presenting prescriptive recommendations  
-├── Blue_Bikes EDA 2.ipynb              # Exploratory data analysis & feature engineering  
-├── hourly_station_flow.csv             # Hourly inbound/outbound station flow metrics  
-├── dock_capacity_recommendations.csv   # Final prescriptive dock capacity recommendations  
-├── requirements.txt                    # Python dependencies for deployment  
+├── app.py                              # Prescriptive decision-support application  
+├── Blue_Bikes EDA 2.ipynb              # Data preparation & analytical foundation  
+├── hourly_station_flow.csv             # Station-level demand flow metrics  
+├── dock_capacity_recommendations.csv   # Prescriptive capacity recommendations  
+├── requirements.txt                    # Deployment dependencies  
 ├── README.md                           # Project documentation  
-└── .gitignore                          # Files excluded from version control
-
-The Jupyter notebook is used for exploratory analysis and data preparation to understand demand imbalance patterns in Watertown.  
-The deployed Streamlit application (`app.py`) represents the **final prescriptive layer**, where calculated decision logic is applied to generate **actionable dock capacity recommendations** for operations and planning teams.
-
-📷 Example Output
-<img width="1009" height="639" alt="image" src="https://github.com/user-attachments/assets/a2fdbb80-3cc5-446c-a735-e6a04ed34270" />
-<img width="1291" height="614" alt="image" src="https://github.com/user-attachments/assets/4fb7e414-e090-478b-9685-5ade030aef55" />
-
-
-
-⸻
-
-🎥 Demo Video
-
-📺 Loom Demo (3–5 minutes):
-(replace MP4 files with a Loom or YouTube link and paste it here)
-
-⸻
+└── .gitignore                          # Version control exclusions
 
 🛠️ Technology Stack
 	•	Python
 	•	Pandas / NumPy
-	•	Optimization Solver (Linear Programming)
+	•	Prescriptive decision logic
 	•	Streamlit
 	•	GitHub
 
@@ -149,11 +126,8 @@ The deployed Streamlit application (`app.py`) represents the **final prescriptiv
 
 🎓 Academic Context
 
-This project was developed as the final project for:
-
 ISOM 839 – Prescriptive Analytics
 Suffolk University
-Fall 2025
 
 ⸻
 
@@ -166,20 +140,7 @@ Suffolk University
 ⸻
 
 🚀 Future Extensions
-	•	Incorporate demand forecasting into the optimization loop
-	•	Extend the model to multi-city allocation
-	•	Add operational cost modeling for bike rebalancing
-	•	Integrate real-time system data
-
-⸻
-
-✅ This README Now Meets:
-	•	ISOM 839 rubric
-	•	Prof. Hasan’s written feedback
-	•	Prescriptive analytics definition
-	•	Portfolio-quality standards
-
-If you want next:
-	•	A commit message
-	•	A Loom script
-	•	Or help aligning code wording to this README
+	•	Integrate demand forecasting into the decision framework
+	•	Extend the model to explicit budget-constrained optimization
+	•	Scale to multi-city capacity planning
+	•	Incorporate real-time system data
