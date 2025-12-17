@@ -114,11 +114,17 @@ https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app/
 ## 📁 Project Structure
 
 -> app.py
--> Blue_Bikes EDA 2.ipynb              
--> hourly_station_flow.csv             
+|
+-> Blue_Bikes EDA 2.ipynb 
+|
+-> hourly_station_flow.csv   
+|
 -> dock_capacity_recommendations.csv   
--> requirements.txt                    
--> README.md                           
+|
+-> requirements.txt               
+|
+-> README.md       
+|
 -> .gitignore
 
 The Jupyter notebook is used for exploratory analysis and data preparation to understand demand imbalance patterns in Watertown.  
