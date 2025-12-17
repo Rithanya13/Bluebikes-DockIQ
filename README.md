@@ -151,10 +151,11 @@ https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
+.
 ├── app.py
-├── Blue_Bikes EDA 2.ipynb
+├── Blue_Bikes_EDA_2.ipynb
 ├── hourly_station_flow.csv
 ├── dock_capacity_recommendations.csv
 ├── requirements.txt
