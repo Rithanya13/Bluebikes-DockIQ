@@ -125,8 +125,9 @@ The Jupyter notebook is used for exploratory analysis and data preparation to un
 The deployed Streamlit application (`app.py`) represents the **final prescriptive layer**, where calculated decision logic is applied to generate **actionable dock capacity recommendations** for operations and planning teams.
 
 📷 Example Output
+<img width="1009" height="639" alt="image" src="https://github.com/user-attachments/assets/a2fdbb80-3cc5-446c-a735-e6a04ed34270" />
+<img width="1291" height="614" alt="image" src="https://github.com/user-attachments/assets/4fb7e414-e090-478b-9685-5ade030aef55" />
 
-<img width="1015" height="436" alt="image" src="https://github.com/user-attachments/assets/a39b47f9-d00d-4ab5-8190-33ca80b63b63" />
 
 
 ⸻
