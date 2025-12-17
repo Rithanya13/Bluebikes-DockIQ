@@ -73,8 +73,6 @@ Key diagnostic patterns observed:
 
 Based on these findings, the prescriptive analysis was **intentionally scoped to Watertown**, where intervention would be most operationally meaningful.
 
-> *EDA was used to localize the decision problem — not to replace it.*
-
 ---
 
 ## ⚙️ Prescriptive Decision Logic
@@ -149,19 +147,32 @@ https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app
 ---
 
 ## 🎥 Demo Video
-
-<!-- INSERT LOOM OR YOUTUBE LINK HERE -->
+(https://www.loom.com/share/60306a74b3c344b4988f07b3f08322ed)
 
 ---
 
 ## 📁 Project Structure
-├── app.py                              # Streamlit decision-support application
-├── Blue_Bikes EDA 2.ipynb              # Data cleaning, diagnostics, feature engineering
-├── hourly_station_flow.csv             # Hourly inbound/outbound station flows
-├── dock_capacity_recommendations.csv   # Final prescriptive recommendations
-├── requirements.txt                    # Deployment dependencies
-├── README.md                           # Project documentation
-└── .gitignore
+
+├── app.py  
+│   └── Streamlit-based decision-support application implementing the prescriptive logic  
+│
+├── Blue_Bikes EDA 2.ipynb  
+│   └── End-to-end exploratory data analysis, data cleaning, diagnostics, and feature engineering  
+│
+├── hourly_station_flow.csv  
+│   └── Aggregated hourly inbound and outbound trip flows at the station level  
+│
+├── dock_capacity_recommendations.csv  
+│   └── Final prescriptive output containing recommended dock expansions by station  
+│
+├── requirements.txt  
+│   └── Python dependencies required to run and deploy the application  
+│
+├── README.md  
+│   └── Project documentation and methodology overview  
+│
+└── .gitignore  
+    └── Git ignore rules for local and system files
 
 
 The notebook supports **analysis and justification**.  
