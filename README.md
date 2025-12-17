@@ -96,18 +96,24 @@ These results demonstrate trade-offs and decision-making under constraints—hal
 
 🖥️ Streamlit Application
 
-The deployed Streamlit app allows users to:
-	•	Adjust budget limits for dock reallocation
-	•	Apply station-level capacity constraints
-	•	Run the optimization model interactively
-	•	View recommended dock additions and removals
-	•	Compare system conditions before and after optimization
+## 🖥️ Streamlit Application
 
-This application functions as a decision-support tool, not just a visualization dashboard.
+The deployed Streamlit application presents the **prescriptive analytics output** of the DockIQ system. Rather than serving as an interactive parameter-tuning tool, the app focuses on clearly communicating **actionable dock capacity recommendations** derived from historical demand imbalance.
 
-👉 Live App: (add your Streamlit URL here)
+The application:
+- Computes a Dock Pressure Score for each station based on inbound–outbound imbalance patterns
+- Translates pressure scores into **concrete dock expansion recommendations**
+- Displays a ranked, station-level table showing where operational intervention is most needed
+- Provides interpretability guidance to help decision-makers understand the recommendations
+
+The Streamlit app represents the **final decision-support layer** of the project. All prescriptive logic is executed programmatically, and the app is designed to present **clear, operationally meaningful actions**, not just descriptive metrics or visualizations.
+
+👉 **Live Streamlit App:**  
+https://bluebikes-dockiq-fdefres2kd5cdcqhyruwmv.streamlit.app/
 
 ⸻
+## 📁 Project Structure
+
 
 📷 Example Output
 
